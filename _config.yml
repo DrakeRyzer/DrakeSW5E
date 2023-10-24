@@ -1,6 +1,6 @@
 title: Drake's SW5e Repository
 description: Work in Progress
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 logo: sw5e-logo.png
 aux_links:
