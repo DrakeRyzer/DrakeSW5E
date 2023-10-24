@@ -1,7 +1,7 @@
 ---
 title: Weapons
 parent: Equipment
-has_children: true
+has_children: false
 ---
 
 ## Weapons
