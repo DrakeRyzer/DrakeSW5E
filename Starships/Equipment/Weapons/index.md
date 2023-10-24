@@ -198,50 +198,50 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 | Turbolaser   		    	|14,000 cr    |2d6 energy    | 900/3600 ft.    | 2 | 13  | — |
 
 ##### Ship Weapons (Huge-Gargantuan)
-|Name|&emsp;Cost;;|Damage;|Range;|Overheat;|Con.;|Properties|
+|Name|Cost|Damage|Range|Overheat|Con.|Properties|
 |:---|---:|:---|:---|:---|:---|:---|
 |_**Primary Weapons**_	|||||||
-| Flak point-defense        |7,500 cr  |3d4 kinetic   ; |Zone, 150/600 ft.  ;  | — | — | Precise, saturate |
-| Ion point-defense         |7,500 cr  |3d4 ion       ; |Zone, 150/600 ft.  ;  | — | — | Ionizing, saturate |
-| Laser point-defense       |6,750 cr  |3d6 energy    ; |Zone, 300/1200 ft. ;  | — | — | Saturate |
-| Ordnance point-defense    |6,500 cr  |3d4 kinetic   ; |Zone, 150/600 ft.  ;  | — | — | Concussive, saturate|
+| Flak point-defense        |7,500 cr  |3d4 kinetic  |Zone, 150/600 ft.   | — | — | Precise, saturate |
+| Ion point-defense         |7,500 cr  |3d4 ion      |Zone, 150/600 ft.   | — | — | Ionizing, saturate |
+| Laser point-defense       |6,750 cr  |3d6 energy   |Zone, 300/1200 ft.  | — | — | Saturate |
+| Ordnance point-defense    |6,500 cr  |3d4 kinetic  |Zone, 150/600 ft.   | — | — | Concussive, saturate|
 |_**Secondary Weapons**_	|||||||
-| Assault laser battery         |10,000 cr  |3d10 energy  ; | 500/2000 ft.  ;  | 6  | 17 | Brutal 1 |
-| Assault turbolaser battery    |16,000 cr  |3d12 energy  ; | 1125/4500 ft.  ; | 2  | 19 | Brutal 1 |
-| Beam battery                  |9,250 cr   |6d4 energy   ; | 800/3200 ft.  ;  | 8  | 17 | Auto, melt, rapid 4|
-| Burst laser battery           |9,250 cr   |6d4 energy   ; | 800/3200 ft.  ;  | 8  | 17 | Auto, burst 4 |
-| Colossal disruptor railgun    |22,000 cr  |6d6 fire     ; | 1125/4500 ft.  ; | 2  | 23 | Melt |
-| Colossal ion railgun          |16,500 cr  |3d10 ion 	; | 1500/6000 ft.  ; | 2  | 21 | Ionizing |
-| Colossal particle beam        |18,500 cr  |6d6 energy   ; | 750/3000 ft.  ;  | 2  | 21 | Vicious 1|
-| Colossal plasma railgun       |20,000 cr  |6d6 energy   ; | 1200/4800 ft.  ; | 2  | 23 | Keen 1, vicious 1|
-| Colossal slug railgun         |13,500 cr  |3d12 kinetic ; | 1500/6000 ft.  ; | 2  | 21 | Precise |
-| Disruptor battery      		|13,500 cr  |3d10 fire    ; | 900/3600 ft.  ;  | 2  | 19 | Melt |
-| Flak battery                  |7,750 cr   |6d4 kinetic  ; | 400/1600 ft.  ;  | 8  | 15 | Auto, burst 4 |
-| Heavy disruptor cannon        |23,000 cr  |6d6 fire     ; | 900/3600 ft.  ;  | 2  | 19 | Heavy |
-| Heavy ion battery             |9,750 cr   ;|3d8 ion 	    ; | 800/3200 ft.  ;  | 8  | 15 | Heavy, Ionizing |
-| Heavy laser battery           |11,500 cr  ;|3d10 energy  ; | 1000/4000 ft.  ; | 4  | 19 | Heavy |
-| Heavy plasma battery          |10,750 cr  ;|6d4 energy   ; | 800/3200 ft.  ;  | 8  | 19 | Keen 1, vicious 1|
-| Heavy turbolaser battery      |22,500 cr  ;|9d4 energy   ; | 1125/4500 ft.  ; | 2  | 21 | Heavy |
-| Ion battery                   |4,250 cr   ;|3d6 ion      ; | 600/2400 ft.  ;  | 12 | 15 | Ionizing |
-| Laser battery                 |4,250 cr   ;|3d8 energy   ; | 600/2400 ft.  ;  | 12 | —  | — |
-| Light disruptor battery       |6,750 cr   ;|3d8 fire   ; | 500/2000 ft.  ;  | 8  | —  | Rapid 2 |
-| Light ion battery  	        |3,250 cr   ;|3d4 ion      ; | 500/2000 ft.  ;  | 16 | —  | Ionizing |
-| Light laser battery           |4,250 cr   ;|3d6 energy   ; | 500/2000 ft.  ;  | 8  | —  | Rapid 2 |
-| Light plasma battery          |7,500 cr   ;|3d6 energy   ; | 500/2000 ft.  ;  | 12 | 15 | Keen 1, vicious 1|
-| Light turbolaser battery      |13,000 cr  ;|3d10 energy  ; | 900/3450 ft.  ;  | 4  | 15 | Rapid 2|
-| Plasma battery                |8,250 cr   ;|3d8 energy   ; | 600/2400 ft.  ;  | 12 | 17 | Keen 1, vicious 1|
-| Quad assault laser battery    |13,000 cr  ;|3d12 energy  ; | 600/2400 ft.  ;  | 4  | 19 | Brutal 1 |
-| Quad flak battery     	    |13,000 cr  ;|3d10 kinetic ; | 1000/4000 ft.  ; | 4  | 19 | Auto, burst 2 |
-| Quad laser battery       	    |9,000 cr   ;|3d10 energy  ; | 1250/5000 ft.  ; | 4  | 17 | — |
-| Quad turbolaser battery       |19,500 cr  ;|9d4 energy   ; | 1500/6000 ft.  ; | 2  | 19 | — |
-| Rapid-fire ion battery        |8,500 cr   ;|3d3 ion	    ; | 250/1000 ft.  ;  | 12 | —  | Auto, ionizing, rapid 4, vicious 1 |
-| Rapid-fire laser battery      |7,500 cr   ;|3d4 energy   ; | 300/1200 ft.  ;  | 12 | —  | Auto, rapid 4, vicious 1 |
-| Rapid-fire slug battery       |8,500 cr   ;|3d4 kinetic  ; | 250/1000 ft.  ;  | 12 | —  | Auto, precise, rapid 4, vicious 1 |
-| Saturating laser battery      |4,250 cr   ;|3d8 energy   ; | 450/1800 ft.  ;  | 12 | —  | Saturate |
-| Saturating slug battery       |4,750 cr   ;|3d6 kinetic  ; | 300/1200 ft.  ;  | 16 | —  | Precise, saturate|
-| Slug battery                  |4,250 cr   ;|3d8 kinetic  ; | 600/2400 ft.  ;  | 12 | 15 | Precise |
-| Turbolaser battery            |14,000 cr  ;|6d6 energy   ; | 1125/4500 ft.  ; | 2  | 17 | — |
-| Twin laser battery       	    |6,000 cr   ;|3d8 energy   ; | 600/2400 ft.  ;  | 8  | 15 | Rapid 2 |
+| Assault laser battery         |10,000 cr  |3d10 energy  | 500/2000 ft.   | 6  | 17 | Brutal 1 |
+| Assault turbolaser battery    |16,000 cr  |3d12 energy  | 1125/4500 ft.  | 2  | 19 | Brutal 1 |
+| Beam battery                  |9,250 cr   |6d4 energy   | 800/3200 ft.   | 8  | 17 | Auto, melt, rapid 4|
+| Burst laser battery           |9,250 cr   |6d4 energy   | 800/3200 ft.   | 8  | 17 | Auto, burst 4 |
+| Colossal disruptor railgun    |22,000 cr  |6d6 fire     | 1125/4500 ft.  | 2  | 23 | Melt |
+| Colossal ion railgun          |16,500 cr  |3d10 ion 	  | 1500/6000 ft.  | 2  | 21 | Ionizing |
+| Colossal particle beam        |18,500 cr  |6d6 energy   | 750/3000 ft.   | 2  | 21 | Vicious 1|
+| Colossal plasma railgun       |20,000 cr  |6d6 energy   | 1200/4800 ft.  | 2  | 23 | Keen 1, vicious 1|
+| Colossal slug railgun         |13,500 cr  |3d12 kinetic | 1500/6000 ft.  | 2  | 21 | Precise |
+| Disruptor battery      		|13,500 cr  |3d10 fire    | 900/3600 ft.   | 2  | 19 | Melt |
+| Flak battery                  |7,750 cr   |6d4 kinetic  | 400/1600 ft.   | 8  | 15 | Auto, burst 4 |
+| Heavy disruptor cannon        |23,000 cr  |6d6 fire     | 900/3600 ft.   | 2  | 19 | Heavy |
+| Heavy ion battery             |9,750 cr   |3d8 ion 	  | 800/3200 ft.   | 8  | 15 | Heavy, Ionizing |
+| Heavy laser battery           |11,500 cr  |3d10 energy  | 1000/4000 ft.  | 4  | 19 | Heavy |
+| Heavy plasma battery          |10,750 cr  |6d4 energy   | 800/3200 ft.   | 8  | 19 | Keen 1, vicious 1|
+| Heavy turbolaser battery      |22,500 cr  |9d4 energy   | 1125/4500 ft.  | 2  | 21 | Heavy |
+| Ion battery                   |4,250 cr   |3d6 ion      | 600/2400 ft.   | 12 | 15 | Ionizing |
+| Laser battery                 |4,250 cr   |3d8 energy   | 600/2400 ft.   | 12 | —  | — |
+| Light disruptor battery       |6,750 cr   |3d8 fire     | 500/2000 ft.   | 8  | —  | Rapid 2 |
+| Light ion battery  	        |3,250 cr   |3d4 ion      | 500/2000 ft.   | 16 | —  | Ionizing |
+| Light laser battery           |4,250 cr   |3d6 energy   | 500/2000 ft.   | 8  | —  | Rapid 2 |
+| Light plasma battery          |7,500 cr   |3d6 energy   | 500/2000 ft.   | 12 | 15 | Keen 1, vicious 1|
+| Light turbolaser battery      |13,000 cr  |3d10 energy  | 900/3450 ft.   | 4  | 15 | Rapid 2|
+| Plasma battery                |8,250 cr   |3d8 energy   | 600/2400 ft.   | 12 | 17 | Keen 1, vicious 1|
+| Quad assault laser battery    |13,000 cr  |3d12 energy  | 600/2400 ft.   | 4  | 19 | Brutal 1 |
+| Quad flak battery     	    |13,000 cr  |3d10 kinetic | 1000/4000 ft.  | 4  | 19 | Auto, burst 2 |
+| Quad laser battery       	    |9,000 cr   |3d10 energy  | 1250/5000 ft.  | 4  | 17 | — |
+| Quad turbolaser battery       |19,500 cr  |9d4 energy   | 1500/6000 ft.  | 2  | 19 | — |
+| Rapid-fire ion battery        |8,500 cr   |3d3 ion	  | 250/1000 ft.   | 12 | —  | Auto, ionizing, rapid 4, vicious 1 |
+| Rapid-fire laser battery      |7,500 cr   |3d4 energy   | 300/1200 ft.   | 12 | —  | Auto, rapid 4, vicious 1 |
+| Rapid-fire slug battery       |8,500 cr   |3d4 kinetic  | 250/1000 ft.   | 12 | —  | Auto, precise, rapid 4, vicious 1 |
+| Saturating laser battery      |4,250 cr   |3d8 energy   | 450/1800 ft.   | 12 | —  | Saturate |
+| Saturating slug battery       |4,750 cr   |3d6 kinetic  | 300/1200 ft.   | 16 | —  | Precise, saturate|
+| Slug battery                  |4,250 cr   |3d8 kinetic  | 600/2400 ft.   | 12 | 15 | Precise |
+| Turbolaser battery            |14,000 cr  |6d6 energy   | 1125/4500 ft.  | 2  | 17 | — |
+| Twin laser battery       	    |6,000 cr   |3d8 energy   | 600/2400 ft.   | 8  | 15 | Rapid 2 |
 
 #### Values written in parenthesis are used for Huge and Gargantuan starships
 
@@ -249,38 +249,38 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 |Name|Cost|Damage|Weight|Range|Properties|
 |:---|---:|:---|:---|-:|:---|
 |_**Tertiary Weapons**_	|||||||
-| Rocket pod launcher (array)   |5000 cr   | Varies | — | Varies ;;|Ammunition, reload 12 (reload 24)|
-| Missile launcher (array)      |5000 cr   ;| Varies | — | Varies ;;|Ammunition, reload 4 (reload 8)|
-| Torpedo launcher (array)      |5000 cr   ;| Varies | — | Varies ;;|Ammunition, reload 4 (reload 8)|
+| Rocket pod launcher (array)   |5000 cr   | Varies | — | Varies |Ammunition, reload 12 (reload 24)|
+| Missile launcher (array)      |5000 cr   | Varies | — | Varies |Ammunition, reload 4 (reload 8)|
+| Torpedo launcher (array)      |5000 cr   | Varies | — | Varies |Ammunition, reload 4 (reload 8)|
 |_**Quaternary Weapons**_	|||||||
-| Bomb deployer (array)         |7500 cr   ;| Varies | — | Varies ;;|Ammunition, reload 4 (reload 8)|
+| Bomb deployer (array)         |7500 cr   | Varies | — | Varies |Ammunition, reload 4 (reload 8)|
 
 ##### Tertiary Ammunition
-|Name|&emsp;Cost;;|Damage;|Weight;|Range;;|Properties|
+|Name|Cost|Damage|Weight|Range|Properties|
 |:---|---:|:---|:---|-:|:---|
 |_**Rocket pod launcher (array)**_	|||||||
-|   Adv. cluster rocket         |200 cr;;     | 4d6 (8d6) kinetic ; |20 (40) lb;;  | 600/2400 ft.  ;  | Auto, burst 6, concussive,|
-|   Adv. homing cluster rocket  |250 cr;;     | 4d6 (8d6) kinetic ; |25 (50) lb;;  | 600/2400 ft.  ;  | Auto, burst 6, concussive, homing|
-|   Cluster rocket              |100 cr;;     | 4d4 (8d4) kinetic ; |10 (20) lb;;  | 600/2400 ft.  ;  | Auto, burst 6, concussive|
-|   Homing cluster rocket       |150 cr;;     | 4d4 (8d4) kinetic ; |15 (30) lb;;  | 600/2400 ft.  ;  | Auto, burst 6, concussive, homing|
-|   Nano cluster rocket         |100 cr;;     | 2d4 (4d4) kinetic ; |10 (20) lb;;  | 800/3200 ft.  ;  | Auto, concussive, homing, rapid 6|
+|   Adv. cluster rocket         |200 cr    | 4d6 (8d6) kinetic |20 (40) lb  | 600/2400 ft.  | Auto, burst 6, concussive|
+|   Adv. homing cluster rocket  |250 cr    | 4d6 (8d6) kinetic |25 (50) lb  | 600/2400 ft.  | Auto, burst 6, concussive, homing|
+|   Cluster rocket              |100 cr    | 4d4 (8d4) kinetic |10 (20) lb  | 600/2400 ft.  | Auto, burst 6, concussive|
+|   Homing cluster rocket       |150 cr    | 4d4 (8d4) kinetic |15 (30) lb  | 600/2400 ft.  | Auto, burst 6, concussive, homing|
+|   Nano cluster rocket         |100 cr    | 2d4 (4d4) kinetic |10 (20) lb  | 800/3200 ft.  | Auto, concussive, homing, rapid 6|
 |_**Missile launcher (array)**_	||||||
-|   Adv. concussion missile     |1250 cr;;    | 2d10 (4d10) energy; |125 (250) lb;;| 800/3200 ft.  ;  | Burst 2, concussive, rapid 2|
-|   Concussion missile          |750 cr;;     | 2d8 (4d8) energy  ; |75 (150) lb;; | 600/2400 ft.  ;  | Burst 2, concussive, rapid 2|
-|   Conner net (missile)        |850 cr;;     | —                 ; |85 (170) lb;; | 600/2400 ft.  ;  | Special|
-|   Diamond boron missile       |10,000 cr;;  | Special           ; |100 (200) lb;; | 1000/4000 ft.  ;  | Special|
-|   Discord missile             |850 cr;;     | —                 ; |85 (170) lb;; | 600/2400 ft.  ;  | Special|
-|   Ion pulse missile           |700 cr;;     | 2d10 (4d10) ion   ; |70 (140) lb;; | 1000/4000 ft.  ; | Ionizing|
-|   Proton missile              |950 cr;;     | 4d6 (8d6) kinetic ; |95 (190) lb;; | 500/1000 ft.  ;  | Concussive, vicious 1|
-|   Silent thunder missile      |1500 cr;;    | 4d10 (8d10) energy; |150 (300) lb;;| 1200/4800 ft.  ; | Concussive|
-|   S-thread tracer             |1500 cr;;    | —                 ; |50 (100) lb;; | 1200/4800 ft.  ; | Special|
+|   Adv. concussion missile     |1250 cr   | 2d10 (4d10) energy |125 (250) lb | 800/3200 ft.  | Burst 2, concussive, rapid 2|
+|   Concussion missile          |750 cr    | 2d8 (4d8) energy   |75 (150) lb  | 600/2400 ft.  | Burst 2, concussive, rapid 2|
+|   Conner net (missile)        |850 cr    | —                  |85 (170) lb  | 600/2400 ft.  | Special|
+|   Diamond boron missile       |10,000 cr | Special            |100 (200) lb | 1000/4000 ft. | Special|
+|   Discord missile             |850 cr    | —                  |85 (170) lb  | 600/2400 ft.  | Special|
+|   Ion pulse missile           |700 cr    | 2d10 (4d10) ion    |70 (140) lb  | 1000/4000 ft. | Ionizing|
+|   Proton missile              |950 cr    | 4d6 (8d6) kinetic  |95 (190) lb  | 500/1000 ft.  | Concussive, vicious 1|
+|   Silent thunder missile      |1500 cr   | 4d10 (8d10) energy |150 (300) lb | 1200/4800 ft. | Concussive|
+|   S-thread tracer             |1500 cr   | —                  |50 (100) lb  | 1200/4800 ft. | Special|
 |_**Torpedo launcher (array)**_	||||||
-|   Advanced proton torpedo     |850 cr;;     | 2d12 (4d12) energy; |85 (170) lb;; | 800/3200 ft.  ;  | Concussive, keen 1|
-|   Flechette torpedo           |850 cr;;     | —                 ; |85 (170) lb;; | 600/2400 ft.  ;  | Special|
-|   Homing torpedo              |250 cr;;     | 2d12 (4d12) energy; |25 (50) lb;;  | 800/3200 ft.  ;  | Concussive, homing|
-|   Plasma torpedo              |700 cr;;     | 2d12 (4d12) ion   ; |70 (140) lb;; | 1200/4800 ft.  ; | Vicious 1|
-|   Proton torpedo              |650 cr;;     | 2d10 (4d10) energy; |65 (130) lb;; | 1200/4800 ft.  ; | Concussive, keen 1|
-|   Thermite torpedo            |700 cr;;     | 2d10 (4d10) fire  ; |70 (140) lb;; | 1200/4800 ft.  ; | Melt, keen 1|
+|   Advanced proton torpedo     |850 cr | 2d12 (4d12) energy |85 (170) lb | 800/3200 ft.    | Concussive, keen 1|
+|   Flechette torpedo           |850 cr | —                  |85 (170) lb | 600/2400 ft.    | Special|
+|   Homing torpedo              |250 cr | 2d12 (4d12) energy |25 (50) lb  | 800/3200 ft.    | Concussive, homing|
+|   Plasma torpedo              |700 cr | 2d12 (4d12) ion    |70 (140) lb | 1200/4800 ft.   | Vicious 1|
+|   Proton torpedo              |650 cr | 2d10 (4d10) energy |65 (130) lb | 1200/4800 ft.   | Concussive, keen 1|
+|   Thermite torpedo            |700 cr | 2d10 (4d10) fire   |70 (140) lb | 1200/4800 ft.   | Melt, keen 1|
 
 #### Quaternary Ammunition
 |Name|Cost|Weight| |Name|Cost|Weight|
