@@ -151,10 +151,10 @@ For instance, an Assault Rocket Pod Launcher for a size Gargantuan ship has a re
 
 The damage done by tertiary ammunition for ships sized Huge and Gargantuan is shown in parentheses in the "Damage" column of the Tertiary Ammunition table.  The number outside the parentheses is only used for ships size Tiny, Small, Medium, and Large.
 
-##### Ship Weapons (Tiny-Large)
+## Ship Weapons (Tiny-Large)
 |Name|Cost|Damage|Range|Overheat|Con.|Properties|
 |:---|---:|:---|:---|:---|:---|:---|
-|_**Primary Weapons**_	|||||
+|_**Primary Weapons**_	|||||||
 | Assault laser cannon      |10,000 cr    |1d10 energy   | 500/2000 ft.    | 6  | 13 | Brutal 1 | 
 | Blaster cannon            |3,500 cr     |1d6 energy    | 300/1200 ft.    | 16 | —  | Hidden, rapid 8,  |
 | Beam cannon               |9,250 cr     |2d4 energy    | 800/3200 ft.    | 8  | 13 | Auto, rapid 4, melt |
@@ -246,14 +246,14 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 #### Values written in parenthesis are used for Huge and Gargantuan starships
 
 ##### Tertiary and Quaternary Weapons
-|Name|&emsp;Cost;;|Damage;|Weight;|Range;;|Properties|
+|Name|Cost|Damage|Weight|Range|Properties|
 |:---|---:|:---|:---|-:|:---|
 |_**Tertiary Weapons**_	|||||||
-| Rocket pod launcher (array)   |5000 cr   ;| Varies ;;| — ;;| Varies ;;|Ammunition, reload 12 (reload 24)|
-| Missile launcher (array)      |5000 cr   ;| Varies ;;| — ;;| Varies ;;|Ammunition, reload 4 (reload 8)|
-| Torpedo launcher (array)      |5000 cr   ;| Varies ;;| — ;;| Varies ;;|Ammunition, reload 4 (reload 8)|
+| Rocket pod launcher (array)   |5000 cr   | Varies | — | Varies ;;|Ammunition, reload 12 (reload 24)|
+| Missile launcher (array)      |5000 cr   ;| Varies | — | Varies ;;|Ammunition, reload 4 (reload 8)|
+| Torpedo launcher (array)      |5000 cr   ;| Varies | — | Varies ;;|Ammunition, reload 4 (reload 8)|
 |_**Quaternary Weapons**_	|||||||
-| Bomb deployer (array)         |7500 cr   ;| Varies ;;| — ;;| Varies ;;|Ammunition, reload 4 (reload 8)|
+| Bomb deployer (array)         |7500 cr   ;| Varies | — | Varies ;;|Ammunition, reload 4 (reload 8)|
 
 ##### Tertiary Ammunition
 |Name|&emsp;Cost;;|Damage;|Weight;|Range;;|Properties|
@@ -283,7 +283,6 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 |   Thermite torpedo            |700 cr;;     | 2d10 (4d10) fire  ; |70 (140) lb;; | 1200/4800 ft.  ; | Melt, keen 1|
 
 #### Quaternary Ammunition
-
 |Name|Cost|Weight| |Name|Cost|Weight|
 |:---|:---:|:--|:--:|:---|:---:|:--|
 | 	Bomblets        	|1200 (2400) cr|16 (32) lb| | 	Gravity mine        |2000 (4000) cr|30 (60) lb|
