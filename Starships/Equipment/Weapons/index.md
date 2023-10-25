@@ -152,6 +152,7 @@ For instance, an Assault Rocket Pod Launcher for a size Gargantuan ship has a re
 The damage done by tertiary ammunition for ships sized Huge and Gargantuan is shown in parentheses in the "Damage" column of the Tertiary Ammunition table.  The number outside the parentheses is only used for ships size Tiny, Small, Medium, and Large.
 
 ## Ship Weapons (Tiny-Large)
+
 |Name|Cost|Damage|Range|Overheat|Con.|Properties|
 |:---|---:|:---|:---|:---|:---|:---|
 |_**Primary Weapons**_	|||||||
@@ -198,6 +199,7 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 | Turbolaser   		    	|14,000 cr    |2d6 energy    | 900/3600 ft.    | 2 | 13  | — |
 
 ##### Ship Weapons (Huge-Gargantuan)
+
 |Name|Cost|Damage|Range|Overheat|Con.|Properties|
 |:---|---:|:---|:---|:---|:---|:---|
 |_**Primary Weapons**_	|||||||
@@ -246,6 +248,7 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 #### Values written in parenthesis are used for Huge and Gargantuan starships
 
 ##### Tertiary and Quaternary Weapons
+
 |Name|Cost|Damage|Weight|Range|Properties|
 |:---|---:|:---|:---|-:|:---|
 |_**Tertiary Weapons**_	|||||||
@@ -256,6 +259,7 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 | Bomb deployer (array)         |7500 cr   | Varies | — | Varies |Ammunition, reload 4 (reload 8)|
 
 ##### Tertiary Ammunition
+
 |Name|Cost|Damage|Weight|Range|Properties|
 |:---|---:|:---|:---|-:|:---|
 |_**Rocket pod launcher (array)**_	|||||||
@@ -283,6 +287,7 @@ The damage done by tertiary ammunition for ships sized Huge and Gargantuan is sh
 |   Thermite torpedo            |700 cr | 2d10 (4d10) fire   |70 (140) lb | 1200/4800 ft.   | Melt, keen 1|
 
 #### Quaternary Ammunition
+
 |Name|Cost|Weight| |Name|Cost|Weight|
 |:---|:---:|:--|:--:|:---|:---:|:--|
 | 	Bomblets        	|1200 (2400) cr|16 (32) lb| | 	Gravity mine        |2000 (4000) cr|30 (60) lb|
