@@ -1,7 +1,6 @@
 ---
 title: Lightsaber Forms
 parent: Customization Options
-has_children: true
 ---
 
 ## Lightsaber Forms
