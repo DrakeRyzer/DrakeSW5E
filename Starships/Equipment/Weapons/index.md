@@ -2,6 +2,7 @@
 title: Weapons
 parent: Equipment
 grand_parent: Starships
+has_children: true
 ---
 
 ## Weapons
