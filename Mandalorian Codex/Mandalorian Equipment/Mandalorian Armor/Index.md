@@ -16,7 +16,7 @@ This helmet comes equipped with a headcomm and holorecorder. Additionally, while
 ## Mandalorian Beskar'gams (Armor)
 
 ### Supercommando Armor
-*Armor (any type), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:cyan">prototype</font> <br> Requires Attunement*
+*Armor [(any type)](https://sw5e.com/loot/armor), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:cyan">prototype</font> <br> Requires Attunement*
 
 *The most recognizable symbol of the Mandalorian culture. It featured partial armor that left limbs almost completely undefended, and focused its strength on the vital areas such as the torso, head, and groin.*
 
