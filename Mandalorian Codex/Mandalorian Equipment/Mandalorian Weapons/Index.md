@@ -5,7 +5,7 @@ grand_parent: Mandalorian Codex
 ---
 
 ### Supercommando Vambrace
-*Weapon (wrist launcher), <font style="color:fuchsia">advanced</font> <br> Requires Attunement*
+*Weapon (wrist launcher), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:fuchsia">advanced</font> <br> Requires Attunement*
 
 *Supercommando vambraces were forearm brace-like devices designed to combat the Force abilities of a Jedi, but were also utilized for many other combative purposes.*
 
