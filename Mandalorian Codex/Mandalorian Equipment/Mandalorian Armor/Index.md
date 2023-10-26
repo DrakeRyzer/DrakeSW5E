@@ -1,6 +1,7 @@
 ---
 title: Mandalorian Armor
 parent: Mandalorian Equipment
+grand_parent: Mandalorian Codex
 ---
 
 #### Mandalorian Beskar'gam <br> *Armor (any type), Mandalorian Vestments, <font style="color:cyan">prototype</font> <br> Requires Attunement*
