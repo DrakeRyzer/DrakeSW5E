@@ -20,3 +20,12 @@ While you are attuned to and in contact with multiple enhanced items with this n
 - **4 Piece: At least one item of advanced rarity or rarer:**
   - Damage that you take from weapons is reduced by 6. If this would reduce the damage to 0, the damage is instead reduced to 1.
   - You have resistance to kinetic and energy damage from enhanced sources.
+
+List of Mandalorian Vestment items:
+- [Supercommando Helmet](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Mandalorian%20Armor/Index.html#supercommando-helmet)
+- [Supercommando Armor](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Mandalorian%20Armor/Index.html#supercommando-armor)
+- [Supercommando Vambrace](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Mandalorian%20Weapons/Index.html#supercommando-vambrace)
+- [text](image.png)
+- [text](image.png)
+- [text](image.png)
+- [text](image.png)
