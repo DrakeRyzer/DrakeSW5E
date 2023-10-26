@@ -11,15 +11,12 @@ parent: Mandalorian Codex
 # Mandalorians
 *Tier 17, lawful balanced*
 
-
-|STR|DEX|CON|INT|WIS|CHA|
-:---:|:---:|:---:|:---:|:---:|:---:|
-|22 (+6)|12 (+1)|14 (+2)|12 (+1)|16 (+3)|8 (-1)|
-
-- **Assocation Proficiencies** Strength +18, Dexterity +7, Constitution +8, Wisdom +15, 
+## Defences
+**STR:** 22 (+6), **DEX:** 12 (+1), **CON:** 14 (+2), **INT:** 12 (+1), **WIS:** 16 (+3), **CHA:** 8 (-1)<br>
+**Assocation Proficiencies** Strength +18, Dexterity +7, Constitution +8, Wisdom +15, 
 
 ## Goals
-Mandalorian culture places heavy emphasis on strength and worthiness. The primary goal of the Mandalorians is to prove that their strength is greater than that of others. 
+Mandalorian culture places heavy emphasis on strength and worthiness. The primary goal of a Mandalorian is to prove that their strength is greater than that of others. 
 
 ## Beliefs
 The Mandalorian's beliefs are characterized by the Resol'nare, or the Six Actions:
