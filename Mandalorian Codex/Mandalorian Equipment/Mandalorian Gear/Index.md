@@ -4,6 +4,9 @@ parent: Mandalorian Equipment
 grand_parent: Mandalorian Codex
 ---
 
+# Mandalorian Gear
+---
+
 ### Mandalorian Manacles
 *Adventuring Gear [(binders)](https://sw5e.com/loot/adventuringGear/?search=Binders), <font style="color:lime">premium</font>*
 

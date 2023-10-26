@@ -5,9 +5,9 @@ grand_parent: Mandalorian Codex
 ---
 
 # Mandalorian Weapons
-
+---
 ## Melee Weapons
-
+---
 ### Beskar Spear
 *Weapon [(vibrospear)](https://sw5e.com/loot/weapons/?search=Vibrospear), <font style="color:cyan">prototype</font>*
 <br> *Requires Attunement*
@@ -20,7 +20,7 @@ This weapon gains the Defensive 1 property. Additionally, if an attack would be 
 
 
 ## Ranged Weapons
-
+---
 ### WESTAR-35 Blaster Pistol
 *Weapon [(hand blaster)](https://sw5e.com/loot/weapons/?search=Hand%20blaster), <font style="color:cyan">prototype</font>*
 
@@ -41,7 +41,7 @@ You gain a +1 bonus to attack and damage rolls with this enhanced weapon, and wh
 
 
 ## Ammunition
-
+---
 ### Whistling Birds
 Ammunition [(wrist launcher)](https://sw5e.com/loot/weapons/?search=Wrist%20launcher), <font style="color:lime">premium</font> 
 
@@ -53,7 +53,7 @@ These explosives are affected by tech powers as if they are the *homing rockets*
 <kbd><img src='../../../Images/Whistling birds-nooutline.png' style='float:right;'></kbd>
 
 # The Darksaber
-
+---
 <img src='../../../Images/thedarksaber.png' style='float:right; width:100px;'>
 
 *Anyone can hold the Darksaber. The trick is keeping it, along with your head."* <br>
