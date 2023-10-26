@@ -4,8 +4,33 @@ parent: Mandalorian Equipment
 grand_parent: Mandalorian Codex
 ---
 
+# Mandalorian Weapons
+
+## Melee Weapons
+
+### Beskar Spear
+*Weapon [(vibrospear)](https://sw5e.com/loot/weapons/?search=Vibrospear), <font style="color:cyan">prototype</font>*
+<br> *Requires Attunement*
+
+*The staff was made of pure beskar, a metal alloy tied with Mandalorian culture. The staff was durable enough to be able to block and deflect lightsaber blows.*
+
+You gain a +1 bonus to attack and damage rolls with this enhanced weapon, and when you hit a creature with a melee weapon attack using this weapon, it deals an extra 1d4 kinetic damage.
+
+This weapon gains the Defensive 1 property. Additionally, if an attack would be made against you using a lightweapon while you have the AC bonus granted by this weapon's defensive property, the bonus granted increases by 1 for the attack.
+
+
+## Ranged Weapons
+
+### WESTAR-35 Blaster Pistol
+*Weapon [(hand blaster)](https://sw5e.com/loot/weapons/?search=Hand%20blaster), <font style="color:cyan">prototype</font>*
+
+*Capable of firing yellow or blue bolts of plasma, the WESTAR-35 was the favored weapon of numerous Mandalorians.*
+
+You gain a +1 bonus to attack and damage rolls with this enhanced weapon, and when you hit a creature with a ranged weapon attack using this weapon, it deals an extra 1d6 energy damage.
+
 ### Supercommando Vambrace
-*Weapon (wrist launcher), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:fuchsia">advanced</font> <br> Requires Attunement*
+*Weapon [(wrist launcher)](https://sw5e.com/loot/weapons/?search=Wrist%20launcher), <font style="color:fuchsia">advanced</font>, [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments)*
+<br> Requires Attunement*
 
 *A forearm brace-like device used by Mandalorian Supercommandos that was designed to combat the Force abilities of a Jedi, but were also utilized for many other combative purposes.*
 
@@ -13,6 +38,19 @@ grand_parent: Mandalorian Codex
 
 - **Charges:** This vambrace has a maximum of 5 charges and regains 1d3 + 2 expended charges after a long rest. While wearing and attuned to them, you can use an action or a reaction to expend 0 or more of its charges to activate one of the following powers or effects, using +8 on tech attack rolls and a tech save DC of 16. A creature with techcasting can use their own bonus to tech attack rolls and tech save DC.
   - ***Powers:*** *wire line* or *repulser* (0 charges), *energy shield* (1 charges), *greater energy shield* or *wire tow* (2 charges).
+
+
+## Ammunition
+
+### Whistling Birds
+Ammunition [(wrist launcher)](https://sw5e.com/loot/weapons/?search=Wrist%20launcher), <font style="color:lime">premium</font> 
+
+*Named for the whistling noise they make, these tiny darts home in on their targets before exploding.*
+
+A wrist launcher loaded with this ammunition locks on to one or more targets within range and expels a series of three small explosives. Each explosive hits a creature of your choice that you can see within normal range. An explosive deals 1d4 + 1 fire damage to its target. The explosives all strike simultaneously, and you can direct them to hit one creature or several.  
+
+These explosives are affected by tech powers as if they are the *homing rockets* tech power.
+<img src='../../../Images/Whistling birds-nooutline.png' style='float:right;'>
 
 # The Darksaber
 
@@ -31,7 +69,8 @@ According to Mandalorian custom, one could only obtain the Darksaber by defeatin
 
 ### The Darksaber
 
-*Weapon [(lightkatana)](https://sw5e.com/loot/weapons/?search=Lightkatana), <font style="color:orange">legendary</font> <br> Requires Attunement*
+*Weapon [(lightkatana)](https://sw5e.com/loot/weapons/?search=Lightkatana), <font style="color:orange">legendary</font>, [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments)*
+<br> *Requires Attunement*
 
 *The Darksaber was an ancient and unique black-bladed lightsaber created by Tarre Vizsla, the first Mandalorian ever inducted into the Jedi Order. It features a distinctly Mandalorian hilt and an ominous black blade.*
 
@@ -39,11 +78,9 @@ You gain a +3 bonus to attack and damage rolls made with this enhanced weapon. A
 
 When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature’s heads. The creature dies if it can’t survive without the lost head. A creature is immune to this effect if it is immune to energy damage, doesn’t have or need a head, has legendary actions or villain status, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d6 energy damage from the hit.
 
-> ## Optional Version
+### The Darksaber (Optional Artifact)
 
-### The Darksaber (Artifact)
-
-*Weapon [(lightkatana)](https://sw5e.com/loot/weapons/?search=Lightkatana), <font style="color:red">artifact</font> 
+*Weapon [(lightkatana)](https://sw5e.com/loot/weapons/?search=Lightkatana), <font style="color:red">artifact</font>, [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments)
 <br> Requires Attunement*
 
 *The Darksaber was an ancient and unique black-bladed lightsaber created by Tarre Vizsla, the first Mandalorian ever inducted into the Jedi Order. It features a distinctly Mandalorian hilt and an ominous black blade.*
@@ -70,4 +107,3 @@ While attuned to and wielding The Darksaber, you gain the following benefits:
 The Darksaber is traditionally in the possession of a Mandalorian warrior and is treasured amongst the many clans of Mandalore. To truly be a wielder of this artifact, one must follow the customs of these battle hardened people. This is done by challenging the current wielder to a duel, often times to the death. Other than there being no interference, there is no other rules either combatant must contend themselves to, though this depends on the warrior. If successful in beating the current wielder of the Darksaber, the recipient of the blade is considered its rightful owner.
 
 Should the blade be claimed in any other way, the user may attune to it, but they cannot use the *Symbol of The Manda'lor* feature, and the charges granted by the blade, as well risk being challenged by Mandalorian warriors who seek to reclaim their ‘stolen’ heritage.
-
