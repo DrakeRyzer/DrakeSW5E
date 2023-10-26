@@ -1,5 +1,5 @@
 ---
-title: Faction Rules
+title: Mandalorian Faction Rules
 parent: Mandalorian Codex
 ---
 

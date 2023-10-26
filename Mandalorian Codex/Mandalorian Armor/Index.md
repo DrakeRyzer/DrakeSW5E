@@ -1,4 +1,4 @@
 ---
-title: Mandalorian Weapons
+title: Mandalorian Armor
 parent: Mandalorian Codex
 ---

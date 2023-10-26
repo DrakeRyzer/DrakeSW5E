@@ -1,5 +1,4 @@
 ---
-title: Armor
-parent: Enhanced Items
+title: Enhanced Items
+has_children: true
 ---
-
