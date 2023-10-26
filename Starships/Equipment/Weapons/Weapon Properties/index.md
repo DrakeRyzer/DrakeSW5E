@@ -2,7 +2,6 @@
 title: Weapon Properties
 parent: Weapons
 grand_parent: Equipment
-great_grand_parent: Starships
 ---
 
 ## Weapon Properties

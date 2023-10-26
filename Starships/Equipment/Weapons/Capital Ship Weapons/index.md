@@ -2,7 +2,6 @@
 title: Capital Ship Weapons
 parent: Weapons
 grand_parent: Equipment
-great_grand_parent: Starships
 ---
 
 ## Capital Ship Weapons

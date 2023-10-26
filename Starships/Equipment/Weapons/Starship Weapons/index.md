@@ -2,7 +2,6 @@
 title: Starship Weapons
 parent: Weapons
 grand_parent: Equipment
-great_grand_parent: Starships
 ---
 
 ## Starship Weapons
