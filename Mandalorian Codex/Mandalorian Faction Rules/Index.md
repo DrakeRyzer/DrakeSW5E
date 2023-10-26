@@ -3,12 +3,13 @@ title: Mandalorian Faction Rules
 parent: Mandalorian Codex
 ---
 
-<img src='https://officialpsds.com/imageview/7l/zy/7lzykz_large.png?1521316491' style='float:right;  width:150px;'>
+<img src='https://officialpsds.com/imageview/7l/zy/7lzykz_large.png?1521316491' style='float:right;  width:200px;'>
 
 # Mandalorians
+---
 *Tier 17, lawful balanced*
 
-## Defences
+### Defences
 **STR:** 22 (+6), **DEX:** 12 (+1), **CON:** 14 (+2), **INT:** 12 (+1), **WIS:** 16 (+3), **CHA:** 8 (-1)<br>
 **Assocation Proficiencies** Strength +18, Dexterity +7, Constitution +8, Wisdom +15, 
 

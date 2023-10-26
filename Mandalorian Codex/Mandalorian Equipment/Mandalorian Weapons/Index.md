@@ -30,7 +30,7 @@ You gain a +1 bonus to attack and damage rolls with this enhanced weapon, and wh
 
 ### Supercommando Vambrace
 *Weapon [(wrist launcher)](https://sw5e.com/loot/weapons/?search=Wrist%20launcher), <font style="color:fuchsia">advanced</font>, [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments)*
-<br> Requires Attunement*
+<br> *Requires Attunement*
 
 *A forearm brace-like device used by Mandalorian Supercommandos that was designed to combat the Force abilities of a Jedi, but were also utilized for many other combative purposes.*
 
