@@ -3,7 +3,7 @@ title: Lightsaber Forms
 parent: Customization Options
 ---
 
-<img src='../../Images/lukeandvader.png' style='float:right; width:300px;'>
+<img src='../../Images/lukeandvader.png' style='float:right; width:400px;'>
 
 ## Lightsaber Forms
 
