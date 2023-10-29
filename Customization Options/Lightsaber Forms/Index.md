@@ -13,13 +13,18 @@ Certain class features, Formfighting Style, and Formfighting Mastery, offer your
 
 You may choose your lightsaber forms from the following options or roll on the table below to determine them randomly.
 
-|d20|Lightsaber Form|d20|Lightsaber Form|d20|Lightsaber Form|d20|Lightsaber Form|
-|:--:|:--|:--:|:--|:--:|:--|:--:|:--|
-|1|Aqinos|6|Ishu|11|Shien|16|Trispzest|
-|2|Ataru|7|Jar'Kai|12|Shii-Cho|17|Twilight|
-|3|Bakuuni Hand|8|Juyo|13|Soresu|18|Vaapad|
-|4|Djem So|9|Makashi|14|Sokan|19|Vonil|
-|5|Drallig|10|Niman|15|Trakata|20|Ysannite|
+|d20|Lightsaber Form|d20|Lightsaber Form|
+|:--:|:--|:--:|:--|
+|1|Aqinos|11|Shien|
+|2|Ataru|12|Shii-Cho|
+|3|Bakuuni Hand|13|Soresu|
+|4|Djem So|14|Sokan|
+|5|Drallig|15|Trakata|
+|6|Ishu|16|Trispzest|
+|7|Jar'Kai|17|Twilight|
+|8|Juyo|18|Vaapad|
+|9|Makashi|19|Vonil|
+|10|Niman|20|Ysannite|
 
 Each form can be used as a bonus action on your turn, with or without a weapon, and its duration is instantaneous; unless otherwise specified.
 
