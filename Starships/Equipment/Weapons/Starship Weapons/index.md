@@ -4,10 +4,10 @@ parent: Weapons
 grand_parent: Equipment
 ---
 
-## Starship Weapons
+# Starship Weapons
 In this section there are various tables showing the various starship weapons that can be added to starships of *Tiny*, *Small*, *Medium*, or *Large* size. 
 
-### Primary Starship Weapons
+## Primary Starship Weapons
 
 |Name|Cost|Damage|Range|Overheat|Con.|Properties|
 |:---|---:|:---|:---|:---|:---|:---|
@@ -22,7 +22,7 @@ In this section there are various tables showing the various starship weapons th
 | Heavy disruptor cannon    |23,000 cr    |2d6 fire      | 900/3600 ft.    | 2  | 19 | Heavy |
 | Heavy ion cannon		    |9,750 cr     |1d8 ion 	     | 800/3200 ft.    | 8  | 15 | Heavy, ionizing  |
 | Heavy laser cannon	    |11,500 cr    |1d10 energy   | 1000/4000 ft.   | 4  | 15 | Heavy |
-| Heavy plasma cannon       |10,750 cr    |2d4 energy    | 800/3200 ft.    | 8  | 15 | Keen 1, vicious 1 |
+| Heavy plasma cannon       |13,750 cr    |2d4 energy    | 800/3200 ft.    | 8  | 17 | Keen 1, vicious 1 |
 | Ion cannon      		    |4,250 cr     |1d6 ion       | 600/2400 ft.    | 12 | 11 | Ionizing |
 | Laser cannon              |4,250 cr     |1d8 energy    | 600/2400 ft.    | 12 | —  | — |
 | Light disruptor cannon    |6,750 cr     |1d8 fire      | 500/2000 ft.    | 8  | —  | Rapid 2 |
@@ -42,7 +42,7 @@ In this section there are various tables showing the various starship weapons th
 | Triple auto-blaster       |7,250 cr     |1d4 energy    | 200/800 ft.     | 12 | —  | Auto, burst 6, hidden, rapid 3 |
 | Twin laser cannon       	|6,000 cr     |1d8 energy    | 600/2400 ft.    | 8  | 11 | Rapid 2 |
 
-### Secondary Starship Weapons
+## Secondary Starship Weapons
 
 |Name|Cost|Damage|Range|Overheat|Con.|Properties|
 |:---|---:|:---|:---|:---|:---|:---|
@@ -57,13 +57,13 @@ In this section there are various tables showing the various starship weapons th
 | Slug railgun              |13,500 cr    |1d12 kinetic  | 1500/6000 ft.   | 2 | 17  | Precise |
 | Turbolaser   		    	|14,000 cr    |2d6 energy    | 900/3600 ft.    | 2 | 13  | — |
 
-### Tertiary Starship Weapons
+## Tertiary Starship Weapons
 
-When installing a tertiary weapon to a size Tiny ship, reduce the reload number by half. 
+When installing a tertiary weapon to a size Tiny starship, reduce the reload number by half. 
 
-When installing a tertiary weapon to a size Medium ship, double the reload number. 
+When installing a tertiary weapon to a size Medium starship, double the reload number. 
 
-When installing a tertiary weapon to a size Large Ship, quadruple the reload number.
+When installing a tertiary weapon to a size Large starship, quadruple the reload number.
 
 |Name|Cost|Damage|Range|Reload|Properties|
 |:---|---:|:---|:---|:---|:---|
@@ -71,18 +71,23 @@ When installing a tertiary weapon to a size Large Ship, quadruple the reload num
 | Missile launcher      |5000 cr   | Varies | Varies |4 | Ammunition |
 | Torpedo launcher      |4000 cr   | Varies | Varies |4 | Ammunition |
 
-#### Tertiary Ammunition
+### Tertiary Ammunition
 Tertiary weapons require ammunition and varies based on the specific type of launcher attached to the hardpoint.
+
+#### Rocket pod launcher
 
 |Name|Cost|Damage|Weight|Range|Properties|
 |:---|---:|:---|:---|:---|:---|
-|_**Rocket pod launcher**_	|||||||
 |   Adv. cluster rocket         |200 cr     | 4d6 kinetic   |20 lb  | 600/2400 ft.  | Auto, burst 6, concussive|
 |   Adv. homing cluster rocket  |250 cr     | 4d6 kinetic   |25 lb  | 600/2400 ft.  | Auto, burst 6, concussive, homing|
 |   Cluster rocket              |100 cr     | 4d4 kinetic   |10 lb  | 600/2400 ft.  | Auto, burst 6, concussive|
 |   Homing cluster rocket       |150 cr     | 4d4 kinetic   |15 lb  | 600/2400 ft.  | Auto, burst 6, concussive, homing|
 |   Nano cluster rocket         |100 cr     | 2d4 kinetic   |10 lb  | 800/3200 ft.  | Auto, concussive, homing, rapid 6|
-|_**Missile launcher**_	||||||
+
+#### Missile launcher
+
+|Name|Cost|Damage|Weight|Range|Properties|
+|:---|---:|:---|:---|:---|:---|
 |   Adv. concussion missile     |1250 cr    | 2d10 energy   |125 lb | 800/3200 ft.  | Burst 2, concussive, rapid 2|
 |   Concussion missile          |750 cr     | 2d8 energy    |75 lb  | 600/2400 ft.  | Burst 2, concussive, rapid 2|
 |   Conner net missile          |850 cr     | —             |85 lb  | 600/2400 ft.  | Special|
@@ -91,8 +96,12 @@ Tertiary weapons require ammunition and varies based on the specific type of lau
 |   Ion pulse missile           |700 cr     | 2d10 ion      |70 lb  | 1000/4000 ft. | Ionizing|
 |   Proton missile              |950 cr     | 4d6 kinetic   |95 lb  | 500/1000 ft.  | Concussive, vicious 1|
 |   Silent thunder missile      |1500 cr    | 4d10 energy   |150 lb | 1200/4800 ft. | Concussive|
-|   S-thread tracer             |1500 cr    | —             |50 lb  | 1200/4800 ft. | Special|
-|_**Torpedo launcher**_	||||||
+|   S-thread tracer missile     |1500 cr    | —             |50 lb  | 1200/4800 ft. | Special|
+
+#### Torpedo launcher
+
+|Name|Cost|Damage|Weight|Range|Properties|
+|:---|---:|:---|:---|:---|:---|
 |   Advanced proton torpedo     |850 cr     | 2d12 energy   |85 lb  | 800/3200 ft.  | Concussive, keen 1|
 |   Flechette torpedo           |850 cr     | —             |85 lb  | 600/2400 ft.  | Special|
 |   Homing torpedo              |250 cr     | 2d12 energy   |25 lb  | 800/3200 ft.  | Concussive, homing|
@@ -102,24 +111,22 @@ Tertiary weapons require ammunition and varies based on the specific type of lau
 
 ### Special Tertiary Ammunition.
 
-
-
 #### Diamond Boron Missile
 A diamond boron missile detonates at a point within range, each ship within 200 [400] feet must make a Dexterity saving throw. A ship takes 5d10 [10d10] kinetic damage on a failed save, or half as much on a successful one.
 
 #### Discord Missile
 On a failed saving throw, the missile deploys pistoeka sabotage droids on the target. At the end of each of the target ship’s turns, the target ship gains one level of system damage if the target is medium or smaller [large or smaller]. As an action on each of their turns, a crew member can have the ship attempt their choice of a dexterity or constitution saving throw (DC 15), ending the effect on a success.
 
-#### Conner Net Missle
+#### Conner Net Missile
 On a failed saving throw, a conner net deploys on the target, which must make a Constitution saving throw (DC 15). On a failed save, the ship is stunned for 1 minute. As an action on each of their turns, a crew member can have the ship repeat the saving throw, ending the effect on a success.
 
 #### Flechette Torpedo
 A Flechette torpedo detonates at a point within range, creating a 200 [400] foot cube of difficult terrain.  Any ship entering or starting their turn in this area must succeed at a Dexterity saving throw (DC 15) or take 1d8 [2d8] kinetic damage.
 
-#### S-Thread Tracer
+#### S-Thread Tracer Missile
 On a failed saving throw, the missile latches an S-thread tracer onto the target. When making an Intelligence (Probe) check to detect the S-threaded ship's hyperspace travel, its angle of departure can be detected on a roll of 15 instead of 25. 
 
-### Quaternary Starship Weapons
+## Quaternary Starship Weapons
 
 When installing a tertiary weapon to a size Tiny ship, reduce the reload number by half. 
 
@@ -131,7 +138,7 @@ When installing a tertiary weapon to a size Large Ship, quadruple the reload num
 |:---|---:|:---|:---|:---|
 | Bomb deployer |7500 cr| Varies | 4 |Ammunition|
 
-#### Quaternary Ammunition
+### Quaternary Ammunition
 
 |Name|Cost|Weight||Name|Cost|Weight|
 |:---|---:|:---|:---|:---|:---|:---|
@@ -141,7 +148,7 @@ When installing a tertiary weapon to a size Large Ship, quadruple the reload num
 | Glop bomb       | 2000 cr | 30 lb || Pulse bomb        | 2300 cr | 35 lb |
 | Gravity bomb    | 2200 cr | 40 lb || Seismic charge    | 2000 cr | 30 lb |
 
-#### Quaternary Ammunition Descriptions
+### Quaternary Ammunition Descriptions
 Quaternary weapons require ammunition and, while fire-able by the same bomb deployer, vary greatly in function. Regardless of their function, all quaternary ammunition have 1 hull point, an AC of 20, and upon destruction they detonate. 
 
 The damage value is appropriate for Tiny ships, while the value in parentheses is appropriate for Huge ships. For other ship sizes, scale the cost and die by reducing or increasing it, as explained in "Weapons by Size".
