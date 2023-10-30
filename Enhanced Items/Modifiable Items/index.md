@@ -6,12 +6,12 @@ has_children: true
 
 # Modifiable Items
 
-<img src='../../Images/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
-
 While many enhanced items come with fixed effects. Other enhanced items, called Modifiable Items, are more customizable. 
 
 ## Modifiable Equipment
 Installing modifications into a Modifiable Item requires two key components: a modification to install and the appropriate tools. An item can only be modified by someone proficient with appropriate tools, as shown in the Item Specific Tools table.
+
+<img src='../../Images/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
 
 ### Types of Modifiable Items
 - Armor
