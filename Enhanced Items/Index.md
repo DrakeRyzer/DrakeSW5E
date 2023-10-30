@@ -11,11 +11,9 @@ If you're searching for Mandalorian themed items, check the [Mandalorian Codex](
 
 # Enhanced Item Formatting Guide
 
-<div class='wide'>
-
 #### Naming Conventions
 
-|Rarity|Prefix|Prefix 2|Prefix 3|Prefix 4|Suffix|Reusable<br> DC|Consumable<br> DC|
+|Rarity|Prefix|Prefix 2|Prefix 3|Prefix 4|Suffix|Reusable DC|Consumable DC|
 |:--|:--|:--|:--|:--|--:|:--:|:--:|
 |<font style="color:gray">**Standard**</font>|Basic|Minor|Novice|Cracked|Mk I|13|13|
 |<font style="color:lime">**Premium**</font>|Fine|Average|Apprentice|Chipped|Mk II|14|15|
@@ -23,8 +21,6 @@ If you're searching for Mandalorian themed items, check the [Mandalorian Codex](
 |<font style="color:fuchsia">**Advanced**</font>|Superior|Deadly|Adept|Regular|Mk IV|16|19|
 |<font style="color:orange">**Legendary**</font>|Exceptional|Lethal|Master|Flawless|Mk V|17|21|
 |<font style="color:red">**Artifact**</font>|Champion|Devastating|Ancient|Perfect|Mk VI|18|23|
-
-</div>
 
 ## Item Type/Subtype
 Subtypes vary based on the item type.
