@@ -4,6 +4,8 @@ parent: Mandalorian Codex
 has_children: true
 ---
 
+<img src='../../Images/workinprogress.png' style='width:500px;'>
+
 Many pieces of Mandalorian equipment come with the "Mandalorian Vestments" trait which gives the wearer the following bonuses, dependent on the amount of items they are attuned with.
 
 ### Mandalorian Vestments.

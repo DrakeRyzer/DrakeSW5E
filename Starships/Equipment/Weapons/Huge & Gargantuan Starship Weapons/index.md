@@ -1,16 +1,20 @@
 ---
-title: Capital Ship Weapons
+title: Huge & Gargantuan Starship Weapons
 parent: Weapons
 grand_parent: Equipment
 ---
 
-## Capital Ship Weapons
-Weapons for use by Huge and Gargantuan starships.
+<img src='../../../../Images/workinprogress.png' style='width:500px;'>
+
+## Huge & Gargantuan Starship Weapons
+In this section there are various tables showing the various starship weapons that can be added to starships of *Huge* and *Gargantuan* size.
+
+<img src='../../../../Images/shipturbolaser1.png' style='width:400px;'>
 
 ### Primary Capital Ship Weapons
 
 |Name|Cost|Damage|Range|Overheat|Con.|Properties|
-|:---|---:|:---|:---|:---|:---|:---|
+|:---|---:|:---|:---|:---|:-|:---|
 | Flak point-defense        |7,500 cr  |3d4 kinetic  |Zone, 150/600 ft.   | — | — | Precise, saturate |
 | Ion point-defense         |7,500 cr  |3d4 ion      |Zone, 150/600 ft.   | — | — | Ionizing, saturate |
 | Laser point-defense       |6,750 cr  |3d6 energy   |Zone, 300/1200 ft.  | — | — | Saturate |
@@ -34,7 +38,7 @@ Weapons for use by Huge and Gargantuan starships.
 | Heavy disruptor cannon        |23,000 cr  |6d6 fire     | 900/3600 ft.   | 2  | 19 | Heavy |
 | Heavy ion battery             |9,750 cr   |3d8 ion 	  | 800/3200 ft.   | 8  | 15 | Heavy, Ionizing |
 | Heavy laser battery           |11,500 cr  |3d10 energy  | 1000/4000 ft.  | 4  | 19 | Heavy |
-| Heavy plasma battery          |10,750 cr  |6d4 energy   | 800/3200 ft.   | 8  | 19 | Keen 1, vicious 1|
+| Heavy plasma battery          |13,750 cr  |6d4 energy   | 800/3200 ft.   | 8  | 19 | Heavy, keen 1, vicious 1|
 | Heavy turbolaser battery      |22,500 cr  |9d4 energy   | 1125/4500 ft.  | 2  | 21 | Heavy |
 | Ion battery                   |4,250 cr   |3d6 ion      | 600/2400 ft.   | 12 | 15 | Ionizing |
 | Laser battery                 |4,250 cr   |3d8 energy   | 600/2400 ft.   | 12 | —  | — |

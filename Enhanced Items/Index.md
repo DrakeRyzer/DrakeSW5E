@@ -3,6 +3,8 @@ title: Enhanced Items
 has_children: true
 ---
 
+<img src='../Images/workinprogress.png' style='width:500px;'>
+
 # Enhanced Items
 
 If you're searching for Mandalorian themed items, check the [Mandalorian Codex](<../Mandalorian Codex>) under [Mandalorian Equipment](<../Mandalorian Codex/Mandalorian Equipment>)
@@ -29,17 +31,17 @@ Subtypes vary based on the item type.
 
 ### Armor
 Armor subtypes include the following:
-- A specific armor, such as *(battle armor)* or *(mesh armor)*
-- A category, such as *(any medium armor)* or *(any heavy armor)*
-- Or is valid for any armor, *(any)*
+- *(battle armor)*, *(mesh armor)*, (battle armor), etc, if it is for a specific armor.
+- *(any light armor)*, *(any medium armor)*, or *(any heavy armor)*, if it is valid for a category.
+- *(any)*, if it is valid for any armor.
 
-### Cybernetic Augmentation
+### Cybernetic Augmentations
 Cybernetic augmentation subtypes include the following:
 - (replacement) if replacing a body part and stipulate what they replace in the item features or flavortext.
 - (enhancement) if not it is not replacing any body part.
 
-### Consumable
-Consumable subtype should stipulate what it is.
+### Consumables
+Consumable subtypes should stipulate what they are.
 The most common include the following: 
 - (adrenal)
 - (explosive)
@@ -47,29 +49,30 @@ The most common include the following:
 - (poison)
 - (stimpac)
 
-But can include any Enhanced vr
+But can include any Enhanced version of a consumable item or an item with a single use.
 
-### Droid Customization
+### Droid Customizations
 Droid customization substypes include the following:
-- *(part)* if replacing or adding a part and stipulate what part they add or replace in the item features or flavortext.
+- *(part)*
+ - if replacing or adding a part and stipulate what part they add or replace in the item features or flavortext.
 - *(protocol)* if not it is not adding or replacing any part.
 
 ### Equipment (going to break this down more)
 Equipment covers any Enhanced items that don't fall into other categories, such as (boots), (gloves), or a reusable trinket. If the item is worn, the subtype should be the appropriate place it is worn. Otherwise, leave it blank for now.
 
-### Focus
+### Focuses
 Focus subtypes include the following.
 - (force) which are most commonly focus generators.
 - (tech) which are most commonly wristpads.
 
 ### Genetic Mutations
-Genetic mutations
+Genetic mutations do not exist yet, I am sorry
 
-### Item Modification
+### Item Modifications
 Type should be whatever item type followed by modification, e.g. Lightweapon modification, Armor modification, etc. Item modification for augments. Subtype subtype should be the slot it fills, such as (lens) or (augment).
 
-### Shield
+### Shields
 Shield subtype should be specific shield (light shield generator). If valid for any shield, should be (any).
 
-### Weapon
+### Weapons
 Weapon subtype should either be a specific weapon (lightsaber) or category (any blaster). If valid for any weapon, should be (any).

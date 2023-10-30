@@ -4,58 +4,65 @@ parent: Weapons
 grand_parent: Equipment
 ---
 
-# Starship Weapons
+<img src='../../../../Images/workinprogress.png' style='width:500px;'>
+
+# Tiny to Large Starship Weapons
 In this section there are various tables showing the various starship weapons that can be added to starships of *Tiny*, *Small*, *Medium*, or *Large* size. 
+
+<img src='../../../../Images/shiplasercannon1.png' style='width:600px;'>
 
 ## Primary Starship Weapons
 
+### Energy
+
 |Name|Cost|Damage|Range|Con.|Properties|
-|:---|---:|:---|:---|:---|:---|
-|Assault laser cannon       |10,000 cr    |1d10 energy   | 500/2000 ft.    | 13 | Overheat 6, brutal 1 | 
-|Blaster cannon             |3,500 cr     |1d6 energy    | 300/1200 ft.    | —  | Overheat 16, hidden, rapid 8,  |
-|Beam cannon                |9,250 cr     |2d4 energy    | 800/3200 ft.    | 13 | Overheat 8, auto, rapid 4, melt |
-|Burst laser cannon         |9,250 cr     |2d4 energy    | 800/3200 ft.    | 13 | Overheat 8, auto, burst 4 |
-|Disruptor cannon           |13,500 cr    |1d10 fire     | 900/3600 ft.    | 15 | Overheat 2, melt |
-|Double laser cannon        |4,750 cr     |2d4 energy    | 800/3200 ft.    | 11 | Overheat 8 |
-|Flak cannon        	    |7,750 cr     |2d4 kinetic   | 400/1600 ft.    | 11 | Overheat 8, auto, burst 4 |
-|Heavy blaster cannon	    |7,750 cr     |1d6 energy    | 300/1200 ft.    | 11 | Overheat 16, heavy, rapid 4,  |
-|Heavy disruptor cannon     |23,000 cr    |2d6 fire      | 900/3600 ft.    | 19 | Overheat 2, heavy |
-|Heavy ion cannon		    |9,750 cr     |1d8 ion 	     | 800/3200 ft.    | 15 | Overheat 8, heavy, ionizing  |
-|Heavy laser cannon	        |11,500 cr    |1d10 energy   | 1000/4000 ft.   | 15 | Overheat 4, heavy |
-|Heavy plasma cannon        |13,750 cr    |2d4 energy    | 800/3200 ft.    | 17 | Overheat 8, heavy, keen 1, vicious 1 |
-|Ion cannon      		    |4,250 cr     |1d6 ion       | 600/2400 ft.    | 11 | Overheat 12, ionizing |
-|Laser cannon               |4,250 cr     |1d8 energy    | 600/2400 ft.    | —  | Overheat 12 |
-|Light disruptor cannon     |6,750 cr     |1d8 fire      | 500/2000 ft.    | —  | Overheat 8, rapid 2 |
-|Light ion cannon  	        |3,250 cr     |1d4 ion       | 500/2000 ft.    | —  | Overheat 16, ionizing |
-|Light laser cannon         |4,250 cr     |1d6 energy    | 500/2000 ft.    | —  | Overheat 8, rapid 2 |
-|Light plasma cannon        |7,500 cr     |1d6 energy    | 500/2000 ft.    | 11 | Overheat 12, keen 1, vicious 1 |
-|Plasma cannon              |8,250 cr     |1d8 energy    | 600/2400 ft.    | 13 | Overheat 12, keen 1, vicious 1 |
-|Quad assault laser cannon  |13,000 cr    |1d12 energy   | 600/2400 ft.    | 15 | Overheat 4, brutal 1 |
-|Quad flak cannon     	    |13,000 cr    |1d10 kinetic  | 1000/4000 ft.   | 15 | Overheat 4, auto, burst 2 |
-|Quad laser cannon          |9,000 cr     |1d10 energy   | 1250/5000 ft.   | 13 | Overheat 4 |
-|Rapid-fire ion cannon      |8,500 cr     |1d3 ion       | 250/1000 ft.    | —  | Overheat 12, auto, ionizing, rapid 4, vicious 1 |
-|Rapid-fire laser cannon    |8,750 cr     |1d4 energy    | 300/1200 ft.    | —  | Overheat 12, auto, rapid 4, vicious 1 |
-|Rapid-fire slug cannon     |8,500 cr     |1d4 kinetic   | 250/1000 ft.    | —  | Overheat 12, auto, precise, rapid 4, vicious 1 |
-|Saturating laser cannon    |4,250 cr     |1d8 energy    | 450/1800 ft.    | —  | Overheat 12, saturate |
-|Saturating slug cannon     |4,750 cr     |1d6 kinetic   | 450/1800 ft.    | 11 | Overheat 16, precise, saturate |
-|Slug cannon                |4,250 cr     |1d8 kinetic   | 600/2400 ft.    | 11 | Overheat 12, precise |
-|Triple auto-blaster        |7,250 cr     |1d4 energy    | 200/800 ft.     | —  | Overheat 12, auto, burst 6, hidden, rapid 3 |
-|Twin laser cannon          |6,000 cr     |1d8 energy    | 600/2400 ft.    | 11 | Overheat 8, rapid 2 |
+|:---|---:|:---|:---|:-|:---|
+|Assault laser cannon       |10,000 cr    |1d10 energy   |500/2000 ft.    |13 |Overheat 6, brutal 1 | 
+|Blaster cannon             |3,500 cr     |1d6 energy    |300/1200 ft.    |—  |Overheat 16, hidden, rapid 8,  |
+|Beam cannon                |9,250 cr     |2d4 energy    |800/3200 ft.    |13 |Overheat 8, auto, rapid 4, melt |
+|Burst laser cannon         |9,250 cr     |2d4 energy    |800/3200 ft.    |13 |Overheat 8, auto, burst 4 |
+|Disruptor cannon           |10,500 cr    |1d10 fire     |900/3600 ft.    |13 |Overheat 4, melt |
+|Double laser cannon        |4,750 cr     |2d4 energy    |800/3200 ft.    |11 |Overheat 8 |
+|Flak cannon        	    |7,750 cr     |2d4 kinetic   |400/1600 ft.    |11 |Overheat 8, auto, burst 4 |
+|Heavy blaster cannon	    |7,750 cr     |1d6 energy    |300/1200 ft.    |11 |Overheat 16, heavy, rapid 4,  |
+|Heavy disruptor cannon     |16,500 cr    |1d12 fire     |900/3600 ft.    |17 |Overheat 2, heavy, melt |
+|Heavy ion cannon		    |9,750 cr     |1d8 ion 	     |800/3200 ft.    |15 |Overheat 8, heavy, ionizing  |
+|Heavy laser cannon	        |11,500 cr    |1d10 energy   |1000/4000 ft.   |15 |Overheat 4, heavy |
+|Heavy plasma cannon        |13,750 cr    |2d4 energy    |800/3200 ft.    |17 |Overheat 8, heavy, keen 1, vicious 1 |
+|Ion cannon      		    |4,250 cr     |1d6 ion       |600/2400 ft.    |11 |Overheat 12, ionizing |
+|Laser cannon               |4,250 cr     |1d8 energy    |600/2400 ft.    |—  |Overheat 12 |
+|Light disruptor cannon     |6,750 cr     |1d8 fire      |500/2000 ft.    |11 |Overheat 8, melt |
+|Light ion cannon  	        |3,250 cr     |1d4 ion       |500/2000 ft.    |—  |Overheat 16, ionizing |
+|Light laser cannon         |4,250 cr     |1d6 energy    |500/2000 ft.    |—  |Overheat 8, rapid 2 |
+|Light plasma cannon        |7,500 cr     |1d6 energy    |500/2000 ft.    |11 |Overheat 12, keen 1, vicious 1 |
+|Plasma cannon              |8,250 cr     |1d8 energy    |600/2400 ft.    |13 |Overheat 12, keen 1, vicious 1 |
+|Quad assault laser cannon  |13,000 cr    |1d12 energy   |600/2400 ft.    |15 |Overheat 4, brutal 1 |
+|Quad flak cannon     	    |13,000 cr    |1d10 kinetic  |1000/4000 ft.   |15 |Overheat 4, auto, burst 2 |
+|Quad laser cannon          |9,000 cr     |1d10 energy   |1250/5000 ft.   |13 |Overheat 4 |
+|Rapid-fire ion cannon      |8,500 cr     |1d3 ion       |250/1000 ft.    |—  |Overheat 12, auto, ionizing, rapid 4, vicious 1 |
+|Rapid-fire laser cannon    |8,750 cr     |1d4 energy    |300/1200 ft.    |—  |Overheat 12, auto, rapid 4, vicious 1 |
+|Rapid-fire slug cannon     |8,500 cr     |1d4 kinetic   |250/1000 ft.    |—  |Overheat 12, auto, precise, rapid 4, vicious 1 |
+|Saturating laser cannon    |4,250 cr     |1d8 energy    |450/1800 ft.    |—  |Overheat 12, saturate |
+|Saturating slug cannon     |4,750 cr     |1d6 kinetic   |450/1800 ft.    |11 |Overheat 16, precise, saturate |
+|Slug cannon                |4,250 cr     |1d8 kinetic   |600/2400 ft.    |11 |Overheat 12, precise |
+|Triple auto-blaster        |7,250 cr     |1d4 energy    |200/800 ft.     |—  |Overheat 12, auto, burst 6, hidden, rapid 3 |
+|Twin laser cannon          |6,000 cr     |1d8 energy    |600/2400 ft.    |11 |Overheat 8, rapid 2 |
 
 ## Secondary Starship Weapons
 
-|Name|Cost|Damage|Range|Overheat|Con.|Properties|
-|:---|---:|:---|:---|:---|:---|:---|
-| Assault turbolaser        |16,000 cr    |1d12 energy   | 900/3600 ft.    | 2 | 15  | Brutal 1 |
-| Disruptor railgun	    	|22,000 cr    |2d6 fire      | 900/3600 ft.    | 2 | 19  | Melt |
-| Heavy turbolaser          |22,500 cr    |3d4 energy    | 900/3600 ft.    | 2 | 17  | Heavy |
-| Ion railgun               |16,500 cr    |1d10 ion      | 1500/6000 ft.   | 2 | 17  | Ionizing |
-| Light turbolaser          |13,000 cr    |1d10 energy   | 750/3000 ft.    | 4 | 11  | Rapid 2 |
-| Quad turbolaser           |19,500 cr    |3d4 energy    | 1500/6000 ft.   | 2 | 15  | — |
-| Particle beam		    	|18,500 cr    |2d6 energy    | 900/3600 ft.    | 2 | 15  | Auto, melt, rapid 2 |
-| Plasma railgun            |20,000 cr    |2d6 energy    | 1200/4800 ft.   | 2 | 19  | Keen 1, vicious 1 |
-| Slug railgun              |13,500 cr    |1d12 kinetic  | 1500/6000 ft.   | 2 | 17  | Precise |
-| Turbolaser   		    	|14,000 cr    |2d6 energy    | 900/3600 ft.    | 2 | 13  | — |
+|Name|Cost|Damage|Range|Con.|Properties|
+|:---|---:|:---|:---|:---|:---|
+|Assault turbolaser |14,500 cr    |1d12 energy   |900/3600 ft.    |15  |Overheat 4, brutal 1 |
+|Disruptor railgun  |21,500 cr    |2d6 fire      |1200/4800 ft.   |19  |Overheat 2, melt |
+|Flak railgun       |15,500 cr    |1d12 kinetic  |1200/4800 ft.   |15  |Overheat 4, auto, burst 2 |
+|Heavy turbolaser   |22,500 cr    |3d4 energy    |900/3600 ft.    |17  |Overheat 2, heavy |
+|Ion railgun        |13,000 cr    |1d10 ion      |1200/4800 ft.   |15  |Overheat 2, ionizing |
+|Light turbolaser   |8,500 cr     |1d10 energy   |500/2100 ft.    |11  |Overheat 4, rapid 2 |
+|Particle beam      |18,500 cr    |2d6 energy    |900/3600 ft.    |15  |Overheat 2, auto, melt, rapid 2 |
+|Plasma railgun     |20,000 cr    |2d6 energy    |1200/4800 ft.   |19  |Overheat 2, keen 1, vicious 1 |
+|Quad turbolaser    |20,000 cr    |3d4 energy    |1500/6000 ft.   |17  |Overheat 2, — |
+|Slug railgun       |13,000 cr    |1d12 kinetic  |1200/4800 ft.   |15  |Overheat 2, precise |
+|Turbolaser         |14,000 cr    |2d6 energy    |900/3600 ft.    |13  |Overheat 2 |
 
 ## Tertiary Starship Weapons
 

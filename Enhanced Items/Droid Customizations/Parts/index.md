@@ -4,7 +4,8 @@ parent: Droid Customizations
 grand_parent: Enhanced Items
 ---
 
----
+<img src='../../../Images/workinprogress.png' style='width:500px;'>
+
 ### Beskar Spear
 *Weapon [(vibrospear)](https://sw5e.com/loot/weapons/?search=Vibrospear), <font style="color:cyan">prototype</font>*
 <br> *Requires Attunement*
