@@ -5,14 +5,15 @@ has_children: true
 ---
 
 # Modifiable Items
----
 While many enhanced items come with fixed effects. Other enhanced items, called Modifiable Items, are more customizable. 
 
 ## Modifiable Equipment
 Installing modifications into a Modifiable Item requires two key components: a modification to install and the appropriate tools. An item can only be modified by someone proficient with appropriate tools, as shown in the Item Specific Tools table.
 
-
 ### Types of Modifiable Items
+
+<img src='../../Images/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
+
 - Armor
 - Blasters
 - Clothing
@@ -23,12 +24,20 @@ Installing modifications into a Modifiable Item requires two key components: a m
 - Wristpads
 
 ## Modifiable Item slots
----
-<img src='../../Images/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
 
 Every *Modifiable Item* has four Modification Slots, determined by its type. A Modifiable Item only requires attunement and is considered enhanced if it has at least one modification installed.
 
-Additionally, higher rarity *Modifiable Items* have one or more Augment Slots, according the the Augment Slots by Rarity table. 
+A *Modifiable Item* can only include modifications of the same rarity or a lesser rarity. For instance, if you have a prototype *Modifiable Item*, you can modify it with standard, premium, and prototype modifications. However, the item's nature does not allow it to support higher rarity modifications.
+
+Additionally, when two or more modifications with the same effects are installed into a *Modifiable Item*, only the most potent effects apply. For example, if modification A adds +1 to damage and modification B adds +2 to damage, only the +2 to damage applies, giving the weapon +2 bonus to damage rolls rather than +3. Additionally, if modification A has +1 to damage and keen 1, it would still apply keen 1 to the item. 
+
+However, negative bonuses are still applied, for instance: if modification A has -1 to damage and +1 to attack rolls, the -1 to damage still applies, resulting in +0 to damage with the weapon.
+
+### Augments
+
+Augments are a special kind of modification, intended to offer features universal across items, such as an increase to an ability score or augmenting a class feature. Higher rarity *Modifiable Items* have one or more Augment Slots, according the the [Augment Slots by Rarity](https://drakeryzer.github.io/DrakeSW5E/Enhanced%20Items/Modifiable%20Items/#augment-slots-by-rarity) table. 
+
+Augments can only be installed into *Augment Slots*. Additionally, you cannot have two of the same augment in a single *Modifiable Item*, but you can have multiples of an augment affecting you, each in its own Modifiable Item.
 
 #### Augment Slots by Rarity
 
@@ -38,16 +47,6 @@ Additionally, higher rarity *Modifiable Items* have one or more Augment Slots, a
 |<font style="color:lime">Premium</font>    | 0 |<font style="color:orange">Legendary</font>    | 2 |
 |<font style="color:cyan">Prototype</font>  | 1 |<font style="color:red">Artifact</font>        | 2 |
 
-A *Modifiable Item* can only include modifications of the same rarity or a lesser rarity. For instance, if you have a prototype *Modifiable Item*, you can modify it with standard, premium, and prototype modifications. However, the item's nature does not allow it to support higher rarity modifications.
-
-Additionally, when two or more modifications with the same effects are installed into a *Modifiable Item*, only the most potent effects apply. For example, if modification A adds +1 to damage and modification B adds +2 to damage, only the +2 to damage applies, giving the weapon +2 bonus to damage rolls rather than +3. Additionally, if modification A has +1 to damage and keen 1, it would still apply keen 1 to the item. 
-
-However, negative bonuses are still applied, for instance: if modification A has -1 to damage and +1 to attack rolls, the -1 to damage still applies, resulting in +0 to damage with the weapon.
-
-### Augments
-Augments are a special kind of modification, intended to offer features universal across items, such as an increase to an ability score or augmenting a class feature.
-
-Augments can only be installed into *Augment Slots*. Additionally, you cannot have two of the same augment in a single *Modifiable Item*, but you can have multiples of an augment affecting you, each in its own Modifiable Item.
 
 ***Adding Augment Slots.*** 
 
