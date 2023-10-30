@@ -14,14 +14,14 @@ Installing modifications into a Modifiable Item requires two key components: a m
 
 <img src='../../Images/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
 
-- Armor
-- Blasters
-- Clothing
-- Focus Generators
-- Lightweapons
-- Shields
-- Vibroweapons
-- Wristpads
+- [Armor]()
+- [Blasters]()
+- [Clothing]()
+- [Focus Generators]()
+- [Lightweapons]()
+- [Shields]()
+- [Vibroweapons]()
+- [Wristpads]()
 
 ## Modifiable Item slots
 
