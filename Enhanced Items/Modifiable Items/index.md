@@ -5,13 +5,12 @@ has_children: true
 ---
 
 # Modifiable Items
-
+---
 While many enhanced items come with fixed effects. Other enhanced items, called Modifiable Items, are more customizable. 
 
 ## Modifiable Equipment
 Installing modifications into a Modifiable Item requires two key components: a modification to install and the appropriate tools. An item can only be modified by someone proficient with appropriate tools, as shown in the Item Specific Tools table.
 
-<img src='../../Images/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
 
 ### Types of Modifiable Items
 - Armor
@@ -24,6 +23,9 @@ Installing modifications into a Modifiable Item requires two key components: a m
 - Wristpads
 
 ## Modifiable Item slots
+---
+<img src='../../Images/modifiedmandalorian.png' style='float:right; width:400px; scaleX(1);' />
+
 Every *Modifiable Item* has four Modification Slots, determined by its type. A Modifiable Item only requires attunement and is considered enhanced if it has at least one modification installed.
 
 Additionally, higher rarity *Modifiable Items* have one or more Augment Slots, according the the Augment Slots by Rarity table. 
@@ -59,12 +61,16 @@ Regardless of your success, you must wait 24 hours before you can try adding an 
 You cannot add more than two *Augment Slots* to an item. Additionally adding *Augment Slots* to an item causes that item to require attunement, if it didn't already. Finally, an item cannot support augments of higher rarity than the item's rarity.
 
 ## Installing and Removing Modifications
+
+<img src='../../Images/modifiedblaster.png' style='float:right; bottom:40px; right:15px; width:430px; z-index:1000;  transform: rotate(-15deg) scaleX(-1);' />
+
 Installing or Removing a modification using a *Modifiable Item* takes one hour and requires an ability check with the appropriate tool, as shown in the *Item Specific Tools table* on page \_\_\_. The DC for the check is determined by the rarity of the modification being installed, as shown below in the *Installation/Removal DC by Rarity table*.
 
 - On a successful installation, the modification is correctly installed. On a failure, the modification is not installed, and you must wait 24 hours before you can try again.
 - On a successful removal, the modification is removed and salvaged. On a failure, the modification is removed but destroyed.
 
 ##### Installation/Removal DC by Rarity
+
 | Rarity  | Installation/Removal DC |
 |:---:|:-----------:|
 |<font style="color:#4a5568">Standard</font>|10|
@@ -74,7 +80,6 @@ Installing or Removing a modification using a *Modifiable Item* takes one hour a
 |<font style="color:#dd6b20">Legendary</font>|26|
 |<font style="color:red">Artifact</font>|30|
 
-<img src='../../Images/modifiedblaster.png' style='float:right; bottom:40px; right:15px; width:430px; z-index:1000;  transform: rotate(-15deg) scaleX(-1);' />
 
 ### Upgrading Modifiable Items
 *Modifiable items* can have their rarity upgraded over time. An item can only be upgraded by someone proficient with the appropriate tools, and it can only be upgraded one rarity step at a time. Upgrading a *Modifiable item* takes eight hours and requires an ability check with the appropriate tool. The DC for the check is determined by the rarity to which the *Modifiable item* is being upgraded, as shown in the *Installation/Removal DC by Rarity table* on the previous page. Additionally, upgrading the rarity of a *Modifiable item* requires an appropriate rare material, as discussed in the *Crafting* downtime activity. Upgrading a *Modifiable item* has no effect on any modifications currently installed in the *Modifiable item*.
@@ -119,6 +124,7 @@ In addition to the modifications unique to themselves, all lightweapons come wit
 Occasionally, a character might come across a more scarce color crystal. When determining what color crystal a lightweapon comes with or is found as loot, the GM can choose for the player, or have the player make a universal forcecasting ability check with proficiency. The result of the check affects the color of the crystal, as shown below in the Forcecasting Color Crystal Modifier table.
 
 #### Forcecasting Color Crystal Modifier
+
 |Forcecasting<br> Ability Check DC|d100 Roll<br>Item modifier|
 |:--:|:--:|
 | 1|-15|
