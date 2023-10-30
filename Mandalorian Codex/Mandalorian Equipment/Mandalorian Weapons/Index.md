@@ -14,7 +14,7 @@ grand_parent: Mandalorian Codex
 
 *The staff was made of pure beskar, a metal alloy tied with Mandalorian culture. The staff was durable enough to be able to block and deflect lightsaber blows.*
 
-You gain a +1 bonus to attack and damage rolls with this enhanced weapon, and when you hit a creature with a melee weapon attack using this weapon, it deals an extra 1d4 kinetic damage.
+You gain a +1 bonus to attack and damage rolls with this Enhanced weapon, and when you hit a creature with a melee weapon attack using this weapon, it deals an extra 1d4 kinetic damage.
 
 This weapon gains the Defensive 1 property. Additionally, if an attack would be made against you using a lightweapon while you have the AC bonus granted by this weapon's defensive property, the bonus granted increases by 1 for the attack.
 
@@ -26,7 +26,7 @@ This weapon gains the Defensive 1 property. Additionally, if an attack would be 
 
 *Capable of firing yellow or blue bolts of plasma, the WESTAR-35 was the favored weapon of numerous Mandalorians.*
 
-You gain a +1 bonus to attack and damage rolls with this enhanced weapon, and when you hit a creature with a ranged weapon attack using this weapon, it deals an extra 1d6 energy damage.
+You gain a +1 bonus to attack and damage rolls with this Enhanced weapon, and when you hit a creature with a ranged weapon attack using this weapon, it deals an extra 1d6 energy damage.
 
 ### Supercommando Vambrace
 *Weapon [(wrist launcher)](https://sw5e.com/loot/weapons/?search=Wrist%20launcher), <font style="color:fuchsia">advanced</font>, [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments)*
@@ -34,7 +34,7 @@ You gain a +1 bonus to attack and damage rolls with this enhanced weapon, and wh
 
 *A forearm brace-like device used by Mandalorian Supercommandos that was designed to combat the Force abilities of a Jedi, but were also utilized for many other combative purposes.*
 
-- You gain a +1 bonus to attack and damage rolls with this enhanced weapon and its reload value increases by 3, to 4. It can have different ammunition types loaded simultaneously, and you can choose which ammunition you're using as you fire it (no action required). 
+- You gain a +1 bonus to attack and damage rolls with this Enhanced weapon and its reload value increases by 3, to 4. It can have different ammunition types loaded simultaneously, and you can choose which ammunition you're using as you fire it (no action required). 
 
 - **Charges:** This vambrace has a maximum of 5 charges and regains 1d3 + 2 expended charges after a long rest. While wearing and attuned to them, you can use an action or a reaction to expend 0 or more of its charges to activate one of the following powers or effects, using +8 on tech attack rolls and a tech save DC of 16. A creature with techcasting can use their own bonus to tech attack rolls and tech save DC.
   - ***Powers:*** *wire line* or *repulser* (0 charges), *energy shield* (1 charges), *greater energy shield* or *wire tow* (2 charges).
@@ -74,7 +74,7 @@ According to Mandalorian custom, one could only obtain the Darksaber by defeatin
 
 *The Darksaber was an ancient and unique black-bladed lightsaber created by Tarre Vizsla, the first Mandalorian ever inducted into the Jedi Order. It features a distinctly Mandalorian hilt and an ominous black blade.*
 
-You gain a +3 bonus to attack and damage rolls made with this enhanced weapon. Additionally, the weapon gains the finesse property and ignores resistance to energy damage.
+You gain a +3 bonus to attack and damage rolls made with this Enhanced weapon. Additionally, the weapon gains the finesse property and ignores resistance to energy damage.
 
 When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature’s heads. The creature dies if it can’t survive without the lost head. A creature is immune to this effect if it is immune to energy damage, doesn’t have or need a head, has legendary actions or villain status, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d6 energy damage from the hit.
 
@@ -85,7 +85,7 @@ When you attack a creature that has at least one head with this weapon and roll 
 
 *The Darksaber was an ancient and unique black-bladed lightsaber created by Tarre Vizsla, the first Mandalorian ever inducted into the Jedi Order. It features a distinctly Mandalorian hilt and an ominous black blade.*
 
-You gain a +3 bonus to attack and damage rolls made with this enhanced weapon. Additionally, the weapon gains the finesse property and ignores resistance to energy damage.
+You gain a +3 bonus to attack and damage rolls made with this Enhanced weapon. Additionally, the weapon gains the finesse property and ignores resistance to energy damage.
 
 While attuned to and wielding The Darksaber, you gain the following benefits:
 

@@ -22,8 +22,6 @@ Escaping the binders requires a successful DC 30 Dexterity check. Breaking them 
 
 While wearing these gloves, your Strength score becomes 21. If your Strength is already equal to or greater than 21, it has no effect on you.
 
-***Mandalorian Vestments:*** While you are attuned to and wearing two or more enhanced items that have this named property, you gain additional properties as shown on page 20 under Mandalorian Vestments.
-
 ### Repulsor Gauntlet
 *Adventuring Gear (forearm), <font style="color:gray">standard</font>*
 

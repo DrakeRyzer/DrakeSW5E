@@ -67,10 +67,10 @@ The Ruus'alor is a veteran soldier and warrior. He most frequently commands squa
 Ruus'alor ranked Mandalorians gain access to the following:
 
 #### Enhanced Insignia. 
-*Ruus'alor* rank or higher Mandalorians have an enhanced insignia. While wearing their insignia, all Mandalorians can cast the combustive shot at-will tech power (Player's Handbook, page 230). Intelligence is their casting ability for this tech power.
+*Ruus'alor* rank or higher Mandalorians have an Enhanced insignia. While wearing their insignia, all Mandalorians can cast the combustive shot at-will tech power (Player's Handbook, page 230). Intelligence is their casting ability for this tech power.
 
 #### Premium Item Stockpile. 
-*Ruus'alor* rank or higher Mandalorians can spend 50 days of downtime furthering mandalorian interests, they gain access to one of the following: a [Mandalorian Helmet](link), a suit of [Armor (Fine)](https://sw5e.com/loot/enhancedItems?search=Armor%20%28Fine%29), a [Shield (Fine)](https://sw5e.com/loot/enhancedItems?search=Shield%20%28Fine%29), or a [Weapon (Fine)](https://sw5e.com/loot/enhancedItems?search=Weapon%20%28Fine%29) and can purchase it at half the item's full value without needing to spend downtime. Provided that the item is undamaged, they can return it to your faction for a full refund.
+*Ruus'alor* rank or higher Mandalorians can spend 50 days of downtime furthering mandalorian interests, they gain access to one of the following: a [Mandalorian Helmet](link), a suit of [Armor (Fine)](https://sw5e.com/loot/EnhancedItems?search=Armor%20%28Fine%29), a [Shield (Fine)](https://sw5e.com/loot/EnhancedItems?search=Shield%20%28Fine%29), or a [Weapon (Fine)](https://sw5e.com/loot/EnhancedItems?search=Weapon%20%28Fine%29) and can purchase it at half the item's full value without needing to spend downtime. Provided that the item is undamaged, they can return it to your faction for a full refund.
 
 ### 3rd Rank - Alor'ad
 Alor'ade command a company strength unit. Usually, they are men and women with many years of service to their clan and the Mand'alor, and are veterans of many battles.
