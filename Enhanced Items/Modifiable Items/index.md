@@ -63,7 +63,7 @@ You cannot add more than two *Augment Slots* to an item. Additionally adding *Au
 
 <img src='../../Images/modifiedblaster.png' style='float:right; bottom:40px; right:15px; width:430px; z-index:1000;  transform: rotate(-15deg) scaleX(-1);' />
 
-Installing or Removing a modification using a *Modifiable Item* takes one hour and requires an ability check with the appropriate tool, as shown in the *Item Specific Tools table* on page \_\_\_. The DC for the check is determined by the rarity of the modification being installed, as shown below in the *Installation/Removal DC by Rarity table*.
+Installing or Removing a modification using a *Modifiable Item* takes one hour and requires an ability check with the appropriate tool, as shown in the *Item Specific Tools table* on page \_\_\_. The DC for the check is determined by the rarity of the modification being installed, as shown below in the [*Installation/Removal DC by Rarity*](https://drakeryzer.github.io/DrakeSW5E/Enhanced%20Items/Modifiable%20Items/#installationremoval-dc-by-rarity) table.
 
 - On a successful installation, the modification is correctly installed. On a failure, the modification is not installed, and you must wait 24 hours before you can try again.
 - On a successful removal, the modification is removed and salvaged. On a failure, the modification is removed but destroyed.
@@ -79,9 +79,8 @@ Installing or Removing a modification using a *Modifiable Item* takes one hour a
 |<font style="color:#dd6b20">Legendary</font>|26|
 |<font style="color:red">Artifact</font>|30|
 
-
 ### Upgrading Modifiable Items
-*Modifiable items* can have their rarity upgraded over time. An item can only be upgraded by someone proficient with the appropriate tools, and it can only be upgraded one rarity step at a time. Upgrading a *Modifiable item* takes eight hours and requires an ability check with the appropriate tool. The DC for the check is determined by the rarity to which the *Modifiable item* is being upgraded, as shown in the *Installation/Removal DC by Rarity table* on the previous page. Additionally, upgrading the rarity of a *Modifiable item* requires an appropriate rare material, as discussed in the *Crafting* downtime activity. Upgrading a *Modifiable item* has no effect on any modifications currently installed in the *Modifiable item*.
+*Modifiable items* can have their rarity upgraded over time. An item can only be upgraded by someone proficient with the appropriate tools, and it can only be upgraded one rarity step at a time. Upgrading a *Modifiable item* takes eight hours and requires an ability check with the appropriate tool. The DC for the check is determined by the rarity to which the *Modifiable item* is being upgraded, as shown in the [*Installation/Removal DC by Rarity*](https://drakeryzer.github.io/DrakeSW5E/Enhanced%20Items/Modifiable%20Items/#installationremoval-dc-by-rarity) table. Additionally, upgrading the rarity of a *Modifiable item* requires an appropriate rare material, as discussed in the *Crafting* downtime activity. Upgrading a *Modifiable item* has no effect on any modifications currently installed in the *Modifiable item*.
 
 On a success, the *Modifiable item* is upgraded to the new rarity. On a failure, the *Modifiable item* is not upgraded, you must wait 24 hours before you can try again, and you must roll a d20. If you roll a 1 on the d20, one currently installed modification is destroyed. If the *Modifiable Item* has more than one modification installed, the GM should determine which modification is destroyed randomly.
 
@@ -110,7 +109,7 @@ Many Engineer archetypes are built around modifying a specific item, such as an 
 
 ### Biotech Engineers
 The Biotech Engineering archetype however uses the following rules:
-- *Enhanced Cybernetics* can be installed past your *Cybernetic Limit* (as described on page 73: Cybernetics) using your *Total Modifications* for this archetype'.
+- *Enhanced Cybernetics* can be installed past your *Cybernetic Limit* (as described under *Cybernetics*) using your *Total Modifications* for this archetype.
 - *Enhanced Cybernetics* still count towards the *Cybernetic Side Effects table*.
 - *Biotech Engineering Cybernetics* do not count towards the *Cybernetic Side Effects table*.
 - Biotech Enginners can apply the effects of both their *Biotech Engineering Cybernetics* as well as *Enhanced Cybernetics* from this book, to a maximum bonus of 3.
@@ -120,7 +119,7 @@ A Biotech Engineer using the *Variant: Droids* rule from their archetype, would 
 ## Color Crystals
 In addition to the modifications unique to themselves, all lightweapons come with an additional slot for a color crystal. Typically, newly created lightweapons come with one of the more common color variants, such as green, blue, or red. 
 
-Occasionally, a character might come across a more scarce color crystal. When determining what color crystal a lightweapon comes with or is found as loot, the GM can choose for the player, or have the player make a universal forcecasting ability check with proficiency. The result of the check affects the color of the crystal, as shown below in the Forcecasting Color Crystal Modifier table.
+Occasionally, a character might come across a more scarce color crystal. When determining what color crystal a lightweapon comes with or is found as loot, the GM can choose for the player, or have the player make a universal forcecasting ability check with proficiency. The result of the check affects the color of the crystal, as shown below in the [Forcecasting Color Crystal Modifier](https://drakeryzer.github.io/DrakeSW5E/Enhanced%20Items/Modifiable%20Items/#forcecasting-color-crystal-modifier) table.
 
 #### Forcecasting Color Crystal Modifier
 
@@ -138,7 +137,7 @@ Occasionally, a character might come across a more scarce color crystal. When de
 
 Once a player has made their forcecasting ability check to discover a lightweapon color crystal, the player rolls percentile dice and consults the Color Crystal table below, applying a modifier based on the result of their forcecasting ability check.
 
-##### Color Crystal
+#### Color Crystal
 
 |d100|Crystal Color|d100|Crystal Color|
 |:--:|:--:|:--:|:--:|
