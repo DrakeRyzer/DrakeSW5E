@@ -1,5 +1,5 @@
 ---
-title: Starship Weapons
+title: Tiny to Large Starship Weapons
 parent: Weapons
 grand_parent: Equipment
 ---
