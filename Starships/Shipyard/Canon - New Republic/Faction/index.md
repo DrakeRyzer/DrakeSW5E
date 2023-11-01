@@ -1,6 +1,6 @@
 ---
-title: The Galactic Empire
-parent: Imperial Era
+title: Faction
+parent: Era
 grand_parent: Shipyard
 ---
 

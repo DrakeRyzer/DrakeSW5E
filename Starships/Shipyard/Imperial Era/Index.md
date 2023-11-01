@@ -2,6 +2,7 @@
 title: Imperial Era
 parent: Shipyard
 grand_parent: Starships
+nav_order: 5
 has_children: true
 ---
 
