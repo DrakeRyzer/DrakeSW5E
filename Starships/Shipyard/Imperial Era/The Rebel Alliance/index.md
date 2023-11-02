@@ -17,7 +17,7 @@ CURRENTLY ONLY USING RULES FROM SW5E.COM
 - Tier 3 - B-wing/ASF-01 Heavy Assault Starfighter
 - Tier 3 - B-wing/E Heavy Assault Starfighter
 - Tier 1 - X-Wing Starfighter - T-65 Prototype
-- Tier 2 - [X-Wing Starfighter - T-65B]()
+- Tier 2 - [X-Wing Starfighter - T-65B](https://drakeryzer.github.io/DrakeSW5E/Starships/Shipyard/Imperial%20Era/The%20Rebel%20Alliance/Small/Index.html#t-65b-x-wing-starfighter)
 - Tier 1 - Y-Wing Assault Starfighter - BTL-A4	
 - Tier 1 - Y-Wing Starfighter/Bomber - BTL-B/S3	
 - Tier 0 - Z-95-AF4 Headhunter	

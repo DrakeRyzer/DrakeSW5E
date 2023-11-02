@@ -2,7 +2,6 @@
 title: The Galactic Empire
 parent: The Imperial Era
 grand_parent: Shipyard
-nav_order: 1
 has_children: true
 ---
 
