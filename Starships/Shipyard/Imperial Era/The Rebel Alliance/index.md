@@ -1,5 +1,5 @@
 ---
-title: Rebel Alliance
+title: The Rebel Alliance
 parent: The Imperial Era
 grand_parent: Shipyard
 ---
