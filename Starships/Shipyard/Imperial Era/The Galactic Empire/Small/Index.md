@@ -9,6 +9,72 @@ nav_order: 2
 
 ---
 
+## TIE/IN Interceptor
+
+<img src='../../../../../Images/TIE Interceptor (1).png' style='float:right; width:400px;'>
+
+### Statistics
+**Value:** 123,950 cr <br>
+**Type:** Vehicle (Small Starship) <br>
+**Tier:** 1 (Superiority Fighter) <br>
+**Dimensions:** Length: 25ft, Width: 21ft, Height: 17ft <br>
+**Flight Speed:** 500 <br>
+**Turning Speed:** 50
+
+### Ability Scores
+**Strength:** 14 (+2) <br>
+**Dexterity:** 17 (+3) <br>
+**Constitution:** 11 (+0) <br>
+**Intelligence:** 10 (+0) <br>
+**Wisdom:** 16 (+3) <br>
+**Charisma:** 10 (+0)
+
+**Crew Proficiency:** +3 <br>
+**Skills:** Probe (+3), Scan (+6) <br>
+**Senses:** Passive Scan 16
+
+### Capacities
+**Minimum Crew:** 1 Pilot <br>
+**Crew Capacity:** 1 Pilot <br>
+**Cargo Capacity:** 2 tons <br>
+**Fuel Capacity - Cost:** 10 tons - 25 cr/unit <br>
+**Food Portions:** 120
+
+### Equipment
+**Reactor:** Ionization (1d2-1) <br>
+**Power Coupling:** Direct (d4) <br>
+**Central Storage:** 4 <br>
+**System Storage:** –
+
+### Defenses
+**Armor Class:** 15 (Lightweight Mk II) <br>
+&nbsp;&nbsp;**Damage Reduction:** – <br>
+**Hull Points:** 18 (4d6+0) <br>
+**Shield Points:** – <br>
+&nbsp;&nbsp;**Shield Regeneration:** – <br>
+**Saving Throw Proficiencies:** Strength +5, Dexterity +6
+
+### Offense
+#### **Actions**
+**Maximum Ship Attacks:** 2 <br><br>
+**Twin Laser Cannon (Front)**: *Primary,* *Range:* 600/2400ft, *To hit:* +6, *Damage:* 1d8+2 energy
+<br>&nbsp;&nbsp;**Properties:** Power, constitution 11, rapid 3 (DC 13, 2d8 energy)
+
+#### **Bonus Actions**
+**Twin-Linked - Twin Laser Cannon (Front)**: *Primary,* *Range:* 600/2400ft, *To hit:* +6, *Damage:* 1d8+2 energy
+<br>&nbsp;&nbsp;**Properties:** Power, constitution 11, rapid 3 (DC 13, 2d8 energy)
+
+**Flight Computer:** Once per round on its turn, this system allows the TIE to Fly, Evade, or Regenerate Shield as a bonus action.
+
+### Modifications
+*Slots:* 24/25, *Suites:* 0/0
+- **Engineering:** Alternative Fuel Converter, Inertial Dampeners
+- **Operations:** Flight Computer; Scanner, Mk I;
+- **Universal:** Combat Thrusters, Mk I-II; Plating, Lightweight Mk I-II; Sensor Array, Mk I; Sublight Drive, Mk I-II; Thrusters, Mk I
+- **Weapons:** 1x Fire-Linked Mounting, Reinforcement, Primer (Twin Laser Cannon); 1x Gauss Round, (Twin Laser Cannon); 3x Hardpoint	
+
+---
+
 ## TIE/LN Starfighter
 
 <img src='../../../../../Images/TIEfighter-Fathead.png' style='float:right; width:400px;'>
@@ -73,71 +139,3 @@ nav_order: 2
 
 ---
 
-## TIE/IN Interceptor
-
-<img src='../../../../../Images/TIE Interceptor (1).png' style='float:right; width:400px;'>
-
-### Statistics
-**Value:** 123,950 cr <br>
-**Type:** Vehicle (Small Starship) <br>
-**Tier:** 1 (Superiority Fighter) <br>
-**Dimensions:** Length: 25ft, Width: 21ft, Height: 17ft <br>
-**Flight Speed:** 500 <br>
-**Turning Speed:** 50
-
-### Ability Scores
-**Strength:** 14 (+2) <br>
-**Dexterity:** 17 (+3) <br>
-**Constitution:** 11 (+0) <br>
-**Intelligence:** 10 (+0) <br>
-**Wisdom:** 16 (+3) <br>
-**Charisma:** 10 (+0)
-
-**Crew Proficiency:** +3 <br>
-**Skills:** Probe (+3), Scan (+6) <br>
-**Senses:** Passive Scan 16
-
-### Capacities
-**Minimum Crew:** 1 Pilot <br>
-**Crew Capacity:** 1 Pilot <br>
-**Cargo Capacity:** 2 tons <br>
-**Fuel Capacity - Cost:** 10 tons - 25 cr/unit <br>
-**Food Portions:** 120
-
-### Equipment
-**Reactor:** Ionization (1d2-1) <br>
-**Power Coupling:** Direct (d4) <br>
-**Central Storage:** 4 <br>
-**System Storage:** –
-
-### Defenses
-**Armor Class:** 15 (Lightweight Mk II) <br>
-&nbsp;&nbsp;**Damage Reduction:** – <br>
-**Hull Points:** 18 (4d6+0) <br>
-**Shield Points:** – <br>
-&nbsp;&nbsp;**Shield Regeneration:** – <br>
-**Saving Throw Proficiencies:** Strength +5, Dexterity +6
-
-### Offense
-#### **Actions**
-**Maximum Ship Attacks:** 2 <br><br>
-**Twin Laser Cannon (Front)**: *Primary,* *Range:* 600/2400ft, *To hit:* +6, *Damage:* 1d8+2 energy
-<br>&nbsp;&nbsp;**Properties:** Power, constitution 11, rapid 3 (DC 13, 2d8 energy)
-
-#### **Bonus Actions**
-**Twin-Linked - Twin Laser Cannon (Front)**: *Primary,* *Range:* 600/2400ft, *To hit:* +6, *Damage:* 1d8+2 energy
-<br>&nbsp;&nbsp;**Properties:** Power, constitution 11, rapid 3 (DC 13, 2d8 energy)
-
-
-**Flight Computer:** Once per round on its turn, this system allows the TIE to Fly, Evade, or Regenerate Shield as a bonus action.
-
-### Modifications
-*Slots:* 24/25, *Suites:* 0/0
-- **Engineering:** Alternative Fuel Converter, Inertial Dampeners
-- **Operations:** Flight Computer; Scanner, Mk I;
-- **Universal:** Combat Thrusters, Mk I-II; Plating, Lightweight Mk I-II; Sensor Array, Mk I; Sublight Drive, Mk I-II; Thrusters, Mk I
-- **Weapons:** 1x Fire-Linked Mounting, Reinforcement, Primer (Twin Laser Cannon); 1x Gauss Round, (Twin Laser Cannon); 3x Hardpoint	
-	
-
-	
-	
