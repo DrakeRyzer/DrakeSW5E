@@ -21,8 +21,8 @@ USES RULES FROM THIS SITE
 **Type:** Vehicle (Small Starship) <br>
 **Tier:** 1 (Superiority Fighter) <br>
 **Dimensions:** Length: 25ft, Width: 21ft, Height: 17ft <br>
-**Flight Speed:** 500 <br>
-**Turning Speed:** 50
+**Flight Speed:** 500 feet <br>
+**Turning Speed:** 50 feet
 
 ### Ability Scores
 **Strength:** 14 (+2) <br>
