@@ -16,7 +16,9 @@ has_children: true
 
 
 ### Small
-[TIE/LN Starfighter](https://drakeryzer.github.io/DrakeSW5E/Starships/Shipyard/Imperial%20Era/The%20Galactic%20Empire/Small/Index.html#tieln-starfighter)
+#### TIE Series
+- [TIE/IN Interceptor](https://drakeryzer.github.io/DrakeSW5E/Starships/Shipyard/Imperial%20Era/The%20Galactic%20Empire/Small/Index.html#tiein-interceptor)
+- [TIE/LN Starfighter](https://drakeryzer.github.io/DrakeSW5E/Starships/Shipyard/Imperial%20Era/The%20Galactic%20Empire/Small/Index.html#tieln-starfighter)
 
 ### Medium
 
