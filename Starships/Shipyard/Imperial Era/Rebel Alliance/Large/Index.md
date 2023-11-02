@@ -1,7 +1,8 @@
 ---
 title: Large Alliance Starships
-parent: Alliance to Restore the Republic
-grand_parent: Imperial Era
+parent: Rebel Alliance
+grand_parent: The Imperial Era
+nav_order: 4
 ---
 
 # Large Alliance Starships

@@ -1,6 +1,6 @@
 ---
-title: Alliance to Restore the Republic
-parent: Imperial Era
+title: Rebel Alliance
+parent: The Imperial Era
 grand_parent: Shipyard
 ---
 

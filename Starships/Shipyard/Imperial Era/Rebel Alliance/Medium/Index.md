@@ -1,7 +1,8 @@
 ---
 title: Medium Alliance Starships
-parent: Alliance to Restore the Republic
-grand_parent: Imperial Era
+parent: Rebel Alliance
+grand_parent: The Imperial Era
+nav_order: 3
 ---
 
 # Medium Alliance Starships

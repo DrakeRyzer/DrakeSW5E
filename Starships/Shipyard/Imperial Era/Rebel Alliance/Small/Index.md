@@ -1,6 +1,6 @@
 ---
 title: Small Alliance Starships
-parent: Alliance to Restore the Republic
+parent: Rebel Alliance
 grand_parent: Imperial Era
 ---
 
