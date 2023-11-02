@@ -14,7 +14,7 @@ CURRENTLY ONLY USING RULES FROM SW5E.COM
 
 ## TIE/IN Interceptor
 
-<img src='../../../../../Images/TIE Interceptor (1).png' style='float:right; width:400px;'>
+<img src='../../../../../Images/Starships/TIE Interceptor (1).png' style='float:right; width:400px;'>
 
 The TIE/IN interceptor, also known as the TIE Interceptor, or TIE/in was a type of TIE fighter used by the Galactic Empire, most notably during the Battle of Endor. The interceptor was identifiable by the addition of four arrow-shaped panels tipped with laser cannons. They were nicknamed "Squints" due to their narrow shape.
 
@@ -22,7 +22,7 @@ The TIE/IN interceptor, also known as the TIE Interceptor, or TIE/in was a type 
 **Value:** 123,950 cr <br>
 **Type:** Vehicle (Small Starship) <br>
 **Tier:** 1 (Superiority Fighter) <br>
-**Dimensions:** Length: 25ft, Width: 21ft, Height: 17ft <br>
+**Dimensions:** Length: 25 ft, Width: 21 ft, Height: 17 ft <br>
 **Flight Speed:** 500 feet <br>
 **Turning Speed:** 50 feet
 
@@ -60,6 +60,9 @@ The TIE/IN interceptor, also known as the TIE Interceptor, or TIE/in was a type 
 **Saving Throw Proficiencies:** Strength +5, Dexterity +6
 
 ### Offense
+#### **Features**
+**No Action:** inertial dampeners (1/recharge)
+
 #### **Actions**
 **Maximum Ship Attacks:** 2 <br><br>
 **Twin Laser Cannon (Front)**: *Primary,* *Range:* 600/2400ft, *To hit:* +6, *Damage:* 1d8+2 energy
@@ -69,11 +72,11 @@ The TIE/IN interceptor, also known as the TIE Interceptor, or TIE/in was a type 
 **Twin-Linked - Twin Laser Cannon (Front)**: *Primary,* *Range:* 600/2400ft, *To hit:* +6, *Damage:* 1d8+2 energy
 <br>&nbsp;&nbsp;**Properties:** Power, constitution 11, rapid 3 (DC 13, 2d8 energy)
 
-**Flight Computer:** Once per round on its turn, this system allows the TIE to Fly, Evade, or Regenerate Shield as a bonus action.
+**Flight Computer:** Once per round on its turn, the TIE can Fly, Evade, or Regenerate Shield as a bonus action.
 
 ### Modifications
-*Slots:* 24/25, *Suites:* 0/0
-- **Engineering:** Alternative Fuel Converter, Inertial Dampeners
+*Slots:* 19/20, *Suites:* 0/0
+- **Engineering:** Alternative Fuel Converter, Inertial Dampeners (1/recharge)
 - **Operations:** Flight Computer; Scanner, Mk I;
 - **Universal:** Combat Thrusters, Mk I-II; Plating, Lightweight Mk I-II; Sensor Array, Mk I; Sublight Drive, Mk I-II; Thrusters, Mk I
 - **Weapons:** 1x Fire-Linked Mounting, Reinforcement, Primer (Twin Laser Cannon); 1x Gauss Round, (Twin Laser Cannon); 3x Hardpoint	
@@ -82,7 +85,7 @@ The TIE/IN interceptor, also known as the TIE Interceptor, or TIE/in was a type 
 
 ## TIE/LN Starfighter
 
-<img src='../../../../../Images/TIEfighter-Fathead.png' style='float:right; width:400px;'>
+<img src='../../../../../Images/Starships/TIE fighter (1).png' style='float:right; width:400px;'>
 
 The TIE/LN starfighter, or TIE/line starfighter, simply known as the TIE Fighter or T/F, was the standard Imperial starfighter seen in massive numbers throughout most of the Galactic Civil War and onward. Occasionally, due to their distinct shape, Rebel and New Republic pilots referred to the craft as "eyeballs."
 
@@ -90,7 +93,7 @@ The TIE/LN starfighter, or TIE/line starfighter, simply known as the TIE Fighter
 **Value:** 50,900 cr <br>
 **Type:** Vehicle (Small Starship) <br>
 **Tier:** 0 (Superiority Fighter) <br>
-**Dimensions:** Length: 21ft, Width: 21ft <br>
+**Dimensions:** Length: 21 ft, Width: 21 ft <br>
 **Flight Speed:** 450 feet <br>
 **Turning Speed:** 100 feet
 
@@ -135,10 +138,10 @@ The TIE/LN starfighter, or TIE/line starfighter, simply known as the TIE Fighter
 
 #### **Bonus Actions**
 
-**Flight Computer:** Once per round on its turn, this system allows the TIE to Fly, Evade, or Regenerate Shield as a bonus action.
+**Flight Computer:** Once per round on its turn, the TIE can Fly, Evade, or Regenerate Shield as a bonus action.
 
 ### Modifications
-*Slots:* 13/25, *Suites:* 0/0
+*Slots:* 8/20, *Suites:* 0/0
 - **Engineering:** Alternative Fuel Converter 
 - **Operations:** Flight Computer; Scanner, Mk I;
 - **Universal:** Combat Thrusters, Mk I; Plating, Lightweight Mk I; Sublight Drive, Mk I; Thrusters, Mk I
