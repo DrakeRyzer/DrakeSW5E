@@ -8,7 +8,7 @@ nav_order: 2
 # Small Imperial Starships
 
 ## TIE/LN Starfighter
-
+---
 <img src='../../../../../Images/TIEfighter-Fathead.png' style='float:right; width:400px;'>
 
 ### Statistics
