@@ -9,7 +9,7 @@ grand_parent: Equipment
 ## Huge & Gargantuan Starship Weapons
 In this section there are various tables showing the various starship weapons that can be added to starships of *Huge* and *Gargantuan* size.
 
-<img src='../../../../Images/shipturbolaser1.png' style='width:400px;'>
+<img src='../../../../Images/Starships/shipturbolaser1.png' style='width:400px;'>
 
 ### Primary Capital Ship Weapons
 
