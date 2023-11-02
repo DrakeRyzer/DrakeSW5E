@@ -1,6 +1,6 @@
 ---
 title: Small Imperial Starships
-parent: Empire
+parent: The Galactic Empire
 grand_parent: Imperial Era
 ---
 
