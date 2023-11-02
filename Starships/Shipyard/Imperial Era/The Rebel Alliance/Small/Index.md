@@ -7,6 +7,11 @@ nav_order: 2
 
 # Small Alliance Starships
 
+---
+
+CURRENTLY ONLY USING RULES FROM SW5E.COM
+{: .label .label-red }
+
 ## T-65B X-Wing Starfighter
 
 <img src='../../../../../Images/Starships/X-wing (1).png' style='float:right; width:400px;'>

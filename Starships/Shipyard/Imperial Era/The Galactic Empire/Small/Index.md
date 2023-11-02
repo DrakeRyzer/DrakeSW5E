@@ -5,12 +5,12 @@ grand_parent: The Imperial Era
 nav_order: 2
 ---
 
-CURRENTLY ONLY USING RULES FROM SW5E.COM
-{: .label .label-red }
-
 # Small Imperial Starships
 
 ---
+
+CURRENTLY ONLY USING RULES FROM SW5E.COM
+{: .label .label-red }
 
 ## TIE/IN Interceptor
 
@@ -82,6 +82,9 @@ The TIE/IN interceptor, also known as the TIE Interceptor, or TIE/in was a type 
 - **Weapons:** 1x Fire-Linked Mounting, Reinforcement, Primer (Twin Laser Cannon); 1x Gauss Round, (Twin Laser Cannon); 3x Hardpoint	
 
 ---
+
+CURRENTLY ONLY USING RULES FROM SW5E.COM
+{: .label .label-red }
 
 ## TIE/LN Starfighter
 
