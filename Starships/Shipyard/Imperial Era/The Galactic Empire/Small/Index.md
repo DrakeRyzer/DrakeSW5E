@@ -5,7 +5,7 @@ grand_parent: The Imperial Era
 nav_order: 2
 ---
 
-USES RULES FROM THIS SITE
+CURRENTLY ONLY USING RULES FROM SW5E.COM
 {: .label .label-red }
 
 # Small Imperial Starships

@@ -6,7 +6,7 @@ nav_order: 1
 has_children: true
 ---
 
-USES RULES FROM THIS SITE
+CURRENTLY ONLY USING RULES FROM SW5E.COM
 {: .label .label-red }
 
 # Starships of the Galactic Empire
@@ -25,11 +25,11 @@ USES RULES FROM THIS SITE
 - Tier 0 - TIE/SA Bomber
 
 ### Medium
-- Tier 2 - Lambda T-4a shuttle - Tier 2
-- Tier 2 - Sentinel-class landing craft - Tier 2
+- Tier 2 - Lambda T-4a shuttle
+- Tier 2 - Sentinel-class landing craft 
 
 ### Large
-- Tier 2 - EF76 Nebulon-B escort frigate - Tier 2
+- Tier 2 - EF76 Nebulon-B escort frigate
 
 ### Huge
 - Tier 3 - Imperial I-class Star Destroyer
