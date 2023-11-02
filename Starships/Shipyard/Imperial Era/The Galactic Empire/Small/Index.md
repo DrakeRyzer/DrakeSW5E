@@ -7,19 +7,16 @@ nav_order: 2
 
 # Small Imperial Starships
 
-
 ## TIE/LN Starfighter
 
 <img src='../../../../../Images/TIEfighter-Fathead.png' style='float:right; width:400px;'>
-
-
 
 ### Statistics
 **Value:** 50,900 cr <br>
 **Type:** Vehicle (Small Starship) <br>
 **Tier:** 0 (Superiority Fighter) <br>
-**Dimensions:** Length: 21 feet Width: 21 feet
-**Flight Speed:** 450
+**Dimensions:** Length: 21ft Width: 21ft <br>
+**Flight Speed:** 450 <br>
 **Turning Speed:** 100
 
 ### Ability Scores
@@ -31,7 +28,7 @@ nav_order: 2
 **Charisma:** 10 (+0)
 
 **Crew Proficiency:** +3 <br>
-**Skills:** Probe (+3), Scan (+5)
+**Skills:** Probe (+3), Scan (+5) <br>
 **Senses:** Passive Scan 15
 
 ### Capacities
