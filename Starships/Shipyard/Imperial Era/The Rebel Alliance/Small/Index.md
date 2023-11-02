@@ -18,7 +18,7 @@ has_children: true
 - Tier 1 - X-Wing Starfighter - T-65 Prototype
 - Tier 2 - [X-Wing Starfighter - T-65B](https://drakeryzer.github.io/DrakeSW5E/Starships/Shipyard/Imperial%20Era/The%20Rebel%20Alliance/Small/Index.html#t-65b-x-wing-starfighter)
 ## Y-Wing
-- Tier 1 - Y-Wing Assault Starfighter - BTL-A4	
-- Tier 1 - Y-Wing Starfighter/Bomber - BTL-B/S3	
+- Tier 1 - Y-Wing Assault Starfighter - BTL-A4
+- Tier 1 - Y-Wing Starfighter/Bomber - BTL-B/S3
 ## Z-95
-- Tier 0 - Z-95-AF4 Headhunter	
+- Tier 0 - Z-95-AF4 Headhunter
