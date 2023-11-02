@@ -16,6 +16,8 @@ USES RULES FROM THIS SITE
 
 <img src='../../../../../Images/TIE Interceptor (1).png' style='float:right; width:400px;'>
 
+The TIE/IN interceptor, also known as the TIE Interceptor, or TIE/in was a type of TIE fighter used by the Galactic Empire, most notably during the Battle of Endor. The interceptor was identifiable by the addition of four arrow-shaped panels tipped with laser cannons. They were nicknamed "Squints" due to their narrow shape.
+
 ### Statistics
 **Value:** 123,950 cr <br>
 **Type:** Vehicle (Small Starship) <br>
@@ -81,6 +83,8 @@ USES RULES FROM THIS SITE
 ## TIE/LN Starfighter
 
 <img src='../../../../../Images/TIEfighter-Fathead.png' style='float:right; width:400px;'>
+
+The TIE/LN starfighter, or TIE/line starfighter, simply known as the TIE Fighter or T/F, was the standard Imperial starfighter seen in massive numbers throughout most of the Galactic Civil War and onward. Occasionally, due to their distinct shape, Rebel and New Republic pilots referred to the craft as "eyeballs."
 
 ### Statistics
 **Value:** 50,900 cr <br>
