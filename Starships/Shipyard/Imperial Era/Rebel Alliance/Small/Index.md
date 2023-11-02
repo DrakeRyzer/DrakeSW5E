@@ -1,7 +1,8 @@
 ---
 title: Small Alliance Starships
-parent: Rebel Alliance
-grand_parent: Imperial Era
+parent: The Rebel Alliance
+grand_parent: The Imperial Era
+nav_order: 2
 ---
 
 # Small Alliance Starships
