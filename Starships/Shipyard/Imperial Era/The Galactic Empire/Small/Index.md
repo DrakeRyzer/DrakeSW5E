@@ -20,7 +20,7 @@ The TIE/IN interceptor, also known as the TIE Interceptor, or TIE/in was a type 
 
 ### Statistics
 **Value:** 123,950 cr <br>
-**Type:** Vehicle (Small Starship) <br>
+**Type:** Gargantuan Vehicle (Small Starship) <br>
 **Tier:** 1 (Superiority Fighter) <br>
 **Dimensions:** Length: 25 ft, Width: 21 ft, Height: 17 ft <br>
 **Flight Speed:** 500 feet <br>
@@ -94,7 +94,7 @@ The TIE/LN starfighter, or TIE/line starfighter, simply known as the TIE Fighter
 
 ### Statistics
 **Value:** 50,900 cr <br>
-**Type:** Vehicle (Small Starship) <br>
+**Type:** Gargantuan Vehicle (Small Starship) <br>
 **Tier:** 0 (Superiority Fighter) <br>
 **Dimensions:** Length: 21 ft, Width: 21 ft <br>
 **Flight Speed:** 450 feet <br>

@@ -17,7 +17,7 @@ The T-65B X-wing starfighter was a single-seat craft manufactured by Incom Corpo
 
 ### Statistics
 **Value:** 216,300 cr (219,100 cr with Astromech) <br>
-**Type:** Vehicle (Small Starship) <br>
+**Type:** Gargantuan Vehicle (Small Starship) <br>
 **Tier:** 2 (Superiority Fighter) <br>
 **Dimensions:** Length: 44 ft, Width: 39 ft, Height: 8 ft <br>
 **Flight Speed:** 400 feet, (450 feet, S-Foils Locked)<br>

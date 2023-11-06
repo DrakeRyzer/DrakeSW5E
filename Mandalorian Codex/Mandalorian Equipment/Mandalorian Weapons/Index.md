@@ -39,7 +39,6 @@ You gain a +1 bonus to attack and damage rolls with this Enhanced weapon, and wh
 - **Charges:** This vambrace has a maximum of 5 charges and regains 1d3 + 2 expended charges after a long rest. While wearing and attuned to them, you can use an action or a reaction to expend 0 or more of its charges to activate one of the following powers or effects, using +8 on tech attack rolls and a tech save DC of 16. A creature with techcasting can use their own bonus to tech attack rolls and tech save DC.
   - ***Powers:*** *wire line* or *repulser* (0 charges), *energy shield* (1 charges), *greater energy shield* or *wire tow* (2 charges).
 
-
 ## Ammunition
 ---
 ### Whistling Birds
