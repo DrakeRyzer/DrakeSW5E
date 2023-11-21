@@ -30,7 +30,7 @@ Casting Time:	1 action
 Target: Self	
 Duration: Up to 10 minutes (Concentration)
 
-You endow yourself with endurance and martial prowess fueled by the Force. Until the power ends, you can’t cast powers, and you gain the following benefits:
+You endow yourself with endurance and martial prowess fueled by the Force. Until the power ends, you can only cast at-will powers, and you gain the following benefits:
 
 - You gain 50 temporary hit points. If any of these remain when the power ends, they are lost.
 - You have advantage on attack rolls that you make with lightweapons and vibroweapons.
