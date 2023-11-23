@@ -34,7 +34,7 @@ Droids are typically called by their designation, given to them when they are cr
 **Designations (Names).** 2MED2 (Toomedtoo), GH-7 (Geeaych-Seven), TX-20 (Tee-Ex Twenty)
 
 ## Class I Droid Traits
-As a class I droid, you have the following special traits.
+In addition to the traits of a [droid](https://drakeryzer.github.io/DrakeSW5E/Species/Droid/), as a class I droid, you also have the following special traits.
 
 ***Ability Score Increase.*** <br>
 Your Intelligence score increases by 2, and your Wisdom or Charisma score increases by 1.
@@ -58,17 +58,17 @@ Choose one of the following class I droid subcategories, you gain Tech Powers co
 - **Medical:** At-will: *Minor Defibrillation*, 1st-level: *Toxin Scan*, 2nd-level: *Kolto Dispenser*
 - **Science:** At-will: *Haywire*, 1st-level: *Analyze*, 2nd-level: *Detect Invisibility*
 
-You know one at-will tech power based on your chosen subcategory. When you reach 3rd level, you learn and can cast the 1st-level tech power from your chosen subcategory once per long rest. When you reach 5th level, you learn and can cast the 2nd-level tech power from your chosen subcategory once per long rest. Your techcasting ability is Intelligence. You require use of a wristpad for these powers.
-
-
+You know one at-will tech power based on your chosen subcategory. When you reach 3rd level, you learn and can cast the 1st-level tech power from your chosen subcategory once per long rest. When you reach 5th level, you learn and can cast the 2nd-level tech power from your chosen subcategory once per long rest. Your techcasting ability is Intelligence. You do not require use of a tech focus or wristpad for these powers.
 
 ## Size
 
 #### Medium <br>
 Medium Class I droids stand between 5 and 6 feet tall and weigh about 170 lbs. Regardless of your position in that range, your size is Medium.
 
-***Height:*** 4'5 | +2d10" <br>
+***Height:*** 4'5 | + 2d10" <br>
 ***Weight:*** 115 lb. | + (Height Roll) x (2d4) lb.
 
 #### Small <br>
 
+***Height*** 2'5" | + 2d8"
+***Weight***||60 lb. | + (Height Roll) x (1) lb.|
