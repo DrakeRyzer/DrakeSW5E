@@ -5,6 +5,7 @@ has_children: true
 ---
 
 # Droid
+These rules serve as a rework of the current Droid player character species.
 
 ## Players as Droids
 Unlike Droid NPCs, player controlled droids can be considered Droid heroes or villans and are assumed either to be "self-owned" or to be owned by another player character (with the approval of both the Gamemaster and the player in question). Even if owned by another member of the party, the Gamemaster should ensure that the owner does not abuse their authority by giving unreasonable or unwanted orders to the other player's Droid character.

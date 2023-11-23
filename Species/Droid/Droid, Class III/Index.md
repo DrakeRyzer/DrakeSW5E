@@ -65,28 +65,11 @@ As a class III droid, you have the following special traits.
 
 ***Type.*** Your creature type is droid.
 
-***Armor Integration.*** You can not wear armor, but you can have the armor professionally integrated into your chassis over the course of a long rest. This work must be done by someone proficient with astrotech's implements. You must be proficient in armor in order to have it integrated.
 
-***Droid Resistances.*** You are resistant to necrotic, poison, and psychic damage, and are immune to poison and disease.
-
-***Droid Systems.*** You do not need to eat, drink, or breathe. Additionally, you no longer require a tech focus to cast tech powers.
-
-***Droid Vulnerabilities.*** You are vulnerable to ion damage. Additionally, you have disadvantage on saving throws against effects that would deal ion or lightning damage.
-
-***Force-Insensitive.*** While droids can be manipulated by many force powers, they can not sense the Force. You can not use force powers or take levels in forcecasting classes.
-
-***Knowledge Protocol.*** You have proficiency in the Lore skill.
-
-***Maintenance Mode.*** Rather than sleep, you must spend 3 hours performing routine maintenance during a long rest to gain its benefits, during which you have disadvantage on Wisdom (Perception) checks. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it.
-
-***Rapid Reconstruction.*** You are built with internal repair mechanisms. As a bonus action, you can choose to spend one of your Hit Dice to recover hit points. 
+***Knowledge Protocol.*** You have proficiency in one Intelligence, Wisdom, or Charisma skill of your choice.
 
 ***Languages.*** You can speak, read, and write all registered languages.
 
 <img src='https://www.gmbinder.com/images/Odqa22U.png' style='float:right;top:27px;right:41px;width:145px;z-index:1000' />
 
 <img src='https://www.gmbinder.com/images/V02q0aa.png' style='float:right;top:36px;right:145px;width:253px;z-index:1000' />
-
-<div class='footnote'>EXPANDED CONTENT | SPECIES</div>
-
-\pagebreakNum
