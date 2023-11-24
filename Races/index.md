@@ -16,6 +16,8 @@ All Classes with Spellcasting get additional Cantrips at 1st-level, based on the
 #### Cantrip Versatility
 Additonally, whenever you gain a level in a class, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from their respective spell list.
 
+
+
 ## [Artificer](https://5e.tools/classes.html#artificer_tce)
 ### Immersion Warning
 Be aware that Artificers do not exist in the Forgotton Realms setting, so if you want to play it we should figure out a reason for your abilities to exist in this setting.
