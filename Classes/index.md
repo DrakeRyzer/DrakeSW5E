@@ -26,22 +26,27 @@ Be aware that Artificers do not exist in the Forgotton Realms setting, so if you
 - [Instinctive Pounce](https://5e.tools/classes.html#barbarian_phb,state:feature=s6-1)
 
 ## [Bard](https://5e.tools/classes.html#bard_phb)
+### Additional Features
 - [Magical Inspiration](https://5e.tools/classes.html#bard_phb,state:feature=s1-2)
 - [Bardic Versatility](https://5e.tools/classes.html#bard_phb,state:feature=s3-1)
 
 ## [Cleric](https://5e.tools/classes.html#cleric_phb)
+### Additional Features
 - [Channel Divinity: Harness Divine Power](https://5e.tools/classes.html#cleric_phb,state:feature=s1-1)
 
 ## [Druid](https://5e.tools/classes.html#druid_phb)
+### Additional Features
 - [Wild Companion](https://5e.tools/classes.html#druid_phb,state:feature=s1-1)
 
 ## [Fighter](https://5e.tools/classes.html#fighter_phb)
+### Additional Features
 - []()
 - []()
 - []()
 - []()
 
 ## [Monk](https://5e.tools/classes.html#monk_phb)
+### Additional Features
 - []()
 - []()
 - []()
@@ -49,6 +54,7 @@ Be aware that Artificers do not exist in the Forgotton Realms setting, so if you
 - []()
 
 ## [Paladin](https://5e.tools/classes.html#paladin_phb)
+### Additional Features
 - []()
 - []()
 - []()
@@ -71,12 +77,14 @@ At each level below, you can choose one of the following features.
 - 10th level - [Hide in Plain Sight](https://5e.tools/classes.html#ranger_phb,state:feature=s9-0) with [Nature's Veil](https://5e.tools/classes.html#ranger_phb,state:feature=s9-1)
 
 ## [Rogue](https://5e.tools/classes.html#paladin_phb)
+### Additional Features
 - []()
 - []()
 - []()
 - []()
 
 ## [Sorcerer](https://5e.tools/classes.html#sorcerer_phb)
+### Additional Features
 - []()
 - []()
 - []()
@@ -84,6 +92,7 @@ At each level below, you can choose one of the following features.
 - []()
 
 ## [Warlock]()
+### Additional Features
 - []()
 - []()
 - []()
@@ -91,6 +100,7 @@ At each level below, you can choose one of the following features.
 - []()
 
 ## [Wizard]()
+### Additional Features
 - []()
 - []()
 - []()
