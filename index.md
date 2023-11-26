@@ -1,8 +1,9 @@
 ---
-title: Drake's 5e Homerules
+title: Drake's SW5e Repository
 nav_exclude: true
 ---
-# Drake's
+
+# Drake's <img src='Images/sw5e-logo.png' style= 'float:; width:100px;'> Repository
 
 Home of my future updates and personal projects for the Star Wars 5th Edition system.
 
