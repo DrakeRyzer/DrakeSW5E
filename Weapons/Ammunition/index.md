@@ -1,7 +1,6 @@
 ---
 title: Ammunition
 parent: Weapons
-grand_parent: Equipment
 nav_order: 12
 ---
 

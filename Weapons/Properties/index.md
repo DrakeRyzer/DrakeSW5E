@@ -1,7 +1,7 @@
 ---
 title: Glossary
 parent: Weapons
-grand_parent: Equipment
+
 nav_order: 13
 ---
 
