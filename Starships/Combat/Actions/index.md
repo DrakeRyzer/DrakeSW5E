@@ -10,13 +10,24 @@ grand-parent: Starships
 
 A starship has a limited amount of Crewmember Turns that can be taken each round, detailed below.
 
-- **Tiny** starship Crewmember Turns are limited by their Droid Brain, Remote Override, or Piloting Chamber modification.
-- **Small** starships Crewmember Turns are equal to their Maximum Crew Capacity. This can be increased with the Astromech Socket, Co-pilot Seat, and Crew Expansion modifications.
-- **Medium, Large, Huge, and Gargantuan** starships have 5 Crewmember turns. Additionally, crewmembers can deploy as gunners, limiting their actions to making activating Ship Weapons and making Ship Weapon Attacks.
-
-START HERE
+- **Tiny** starships have an amount of Crewmember Turns determined by their Droid Brain, Remote Override, or Piloting Chamber modification.
+- **Small** starships have an amount of Crewmember Turns equal to their Maximum Crew Capacity. This can be increased with the Astromech Socket, Co-pilot Seat, and Crew Expansion modifications.
+- **Medium, Large, Huge, and Gargantuan** starships have 5 Crewmember Turns. Additionally, crewmembers can lock in as ship gunners at the start of a starship's turn. Ship gunner's actions are limited to activating Ship Weapons and making Ship Weapon Attacks however they do not count against their starship's Crewmember Turns.
 
 All characters on a starship take their individual Crewmember Turns at the start of their starship’s turn in an order agreed upon by the crew for that ship turn. The order of character turns on a ship’s turn may change from round to round.
+
+### Maximum Ship Weapon Activations
+
+While a ship can have any number of hardpoints, it's crew can only activate Ship Weapons a number of times each round equal to the ship’s Strength modifier (minimum of +1) times its Weapon Activations Size Modifier (round up), as shown in the Ship Hardpoint Size modifier table below. Normally each weapon can only be Fired once per round.
+Weapon Activations Size Modifier
+|Ship Size|Size Modifier|
+|Tiny| 	1|
+|Small| 	1|
+|Medium| 	1.5|
+|Ship Size|Size Modifier|
+|Large| 	2.5|
+|Huge| 	2|
+|Gargantuan| 	3|
 
 > ### Variant: Simultaneous Actions
 > Rather than each crewmember taking their turns in an order agreed upon by the crew, some campaigns may want to allow a starship's crew to act simultaneously. Using this variant rule, crewmembers can take actions in any order without needing to wait for another crewmember's turn to end.
