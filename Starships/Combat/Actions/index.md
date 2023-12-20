@@ -24,8 +24,8 @@ A Ship Weapon can only be activated once per round unless otherwise stated.
 
 Weapon Activations Size Modifier Table
 
-|---|---|
 |Ship Size|Size Modifier|
+|:---|:---|
 |Tiny| 	1|
 |Small| 	1|
 |Medium| 	1.5|
