@@ -1,7 +1,7 @@
 ---
 title: Actions
 parent: Combat
-grand-parent: Starships
+grand_parent: Starships
 ---
 
 # Starship Actions
