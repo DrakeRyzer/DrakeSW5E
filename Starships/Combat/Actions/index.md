@@ -18,8 +18,13 @@ All characters on a starship take their individual Crewmember Turns at the start
 
 ### Maximum Ship Weapon Activations
 
-While a ship can have any number of hardpoints, it's crew can only activate Ship Weapons a number of times each round equal to the ship’s Strength modifier (minimum of +1) times its Weapon Activations Size Modifier (round up), as shown in the Ship Hardpoint Size modifier table below. Normally each weapon can only be Fired once per round.
-Weapon Activations Size Modifier
+While a ship can have any number of hardpoints, it's crew can only activate Ship Weapons a number of times each round equal to the ship’s Strength modifier (minimum of +1) times its Weapon Activations Size Modifier (round up), as shown in the Weapon Activations Size Modifier Table below. 
+
+A Ship Weapon can only be activated once per round unless otherwise stated.
+
+Weapon Activations Size Modifier Table
+
+|---|---|
 |Ship Size|Size Modifier|
 |Tiny| 	1|
 |Small| 	1|
