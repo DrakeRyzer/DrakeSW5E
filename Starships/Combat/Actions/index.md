@@ -11,8 +11,10 @@ grand_parent: Starships
 A starship has a limited amount of Crewmember Turns that can be taken each round, detailed below.
 
 - **Tiny** starships have an amount of Crewmember Turns determined by their Droid Brain, Remote Override, or Piloting Chamber modification.
-- **Small** starships have an amount of Crewmember Turns equal to their Maximum Crew Capacity. This can be increased with the Astromech Socket, Co-pilot Seat, and Crew Expansion modifications.
-- **Medium, Large, Huge, and Gargantuan** starships have 5 Crewmember Turns. Additionally, crewmembers can lock in as ship gunners at the start of a starship's turn. Ship gunner's actions are limited to activating Ship Weapons and making Ship Weapon Attacks however they do not count against their starship's Crewmember Turns.
+- **Small** starships have an amount of Crewmember Turns equal to their Maximum Crew Capacity.
+  - This can be increased with the Astromech Socket, Co-pilot Seat, and Crew Expansion modifications.
+- **Medium, Large, Huge, and Gargantuan** starships have 5 Crewmember Turns.
+  - Additionally, crewmembers can lock in as ship gunners at the start of a starship's turn. Ship gunner's actions are limited to activating Ship Weapons and making Ship Weapon Attacks however they do not count against their starship's Crewmember Turns.
 
 All characters on a starship take their individual Crewmember Turns at the start of their starship’s turn in an order agreed upon by the crew for that ship turn. The order of character turns on a ship’s turn may change from round to round.
 
