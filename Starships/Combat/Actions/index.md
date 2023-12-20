@@ -4,23 +4,32 @@ parent: Combat
 grand-parent: Starships
 ---
 
-# Starship Crew and Actions
+# Starship Actions
 
-## Your Role On Your Turn
+## Starship Turns
 
-All characters on a starship take their individual turns at the start of their starship’s turn in an order agreed upon by the crew for that ship turn. The order of character turns on a ship’s turn may change from round to round.
+A starship has a limited amount of Crewmember Turns that can be taken each round, detailed below.
+
+- **Tiny** starship Crewmember Turns are limited by their Droid Brain, Remote Override, or Piloting Chamber modification.
+- **Small** starships Crewmember Turns are equal to their Maximum Crew Capacity. This can be increased with the Astromech Socket, Co-pilot Seat, and Crew Expansion modifications.
+- **Medium, Large, Huge, and Gargantuan** starships have 5 Crewmember turns. Additionally, crewmembers can deploy as gunners, limiting their actions to making activating Ship Weapons and making Ship Weapon Attacks.
+
+START HERE
+
+All characters on a starship take their individual Crewmember Turns at the start of their starship’s turn in an order agreed upon by the crew for that ship turn. The order of character turns on a ship’s turn may change from round to round.
 
 > ### Variant: Simultaneous Actions
-> Rather than each crewmember taking their turns in order, some games may want to allow a starship's crew to act simultaneously. Using this variant rule, crewmembers can take actions in any order without needing to wait for another crewmember's turn to end.
+> Rather than each crewmember taking their turns in an order agreed upon by the crew, some campaigns may want to allow a starship's crew to act simultaneously. Using this variant rule, crewmembers can take actions in any order without needing to wait for another crewmember's turn to end.
 
-Your abilities depend on where you are deployed during space combat. In a starfighter, you control all aspects of your craft: from movement and maneuvering, to weapons, operations, and communications. In a larger craft, however, only one player can take helm actions.
-
-The “Movement and Position” section gives the rules for starship movement.
+The “Movement and Position” section gives the rules for starship movement and the "Starship Crew" section gives rules for further managing a starship crew.
 
 ## Action Types
-There are five types of "actions": Actions, Bonus Actions, Reactions, Object Interactions, and Free Actions. These actions are shared with a creature's normal actions from The Player's Handbook.
 
-Each active crewmember can make one Action, one Bonus Action, one Reaction, one Object Interaction, and an unlimited amount of Free Actions each round and are regained at the start of a creature's turn.
+There are five types of "actions": Actions, Bonus Actions, Reactions, Object Interactions, and Free Actions.
+
+Each active crewmember can make one Action, one Bonus Action, one Reaction, one Object Interaction, and an unlimited amount of Free Actions each round. and are regained at the start of a creature's turn.
+
+These actions are shared with and used alongside a creature's normal actions from The Player's Handbook.
 
 ### Actions
 
