@@ -69,37 +69,45 @@ In case of disputes, the active pilot has final say.
 
 ## Pilot Actions
 
-When you take a Pilot action, you choose from the following options to utilize. Only one Pilot action can be taken per turn.
+The following Actions can only be taken by the active pilot of a starship. Only one Pilot action can be taken per turn unless otherwise stated.
+
+Some pilot actions have prerequisites. If a starship does not meet the prerequisites, the active pilot cannot use that action.
 
 ### Attack Run
-Restricted
+*Prerequisite:* Tiny, Small, or Medium starship
 
-When you move at least 150 feet towards a target, you may declare an Attack Run as an action. You must have a clear path towards your target, and nothing should hinder your path (such as difficult terrain or obstacles). If you finish this movement within range of your target, you may follow it with one of these options:
+When you move at least 150 feet towards a target, you may declare an Attack Run as an action. You must have a clear path towards your target, and nothing should hinder your path (such as difficult terrain or obstacles). If you finish this movement within range of your target, you may follow it with one of the following options:
 
-Fire. You may make a ship weapon attack from a forward-facing limited arc without suffering the normal disadvantage. If you attack with a tertiary or quaternary weapon, the attack deals additional damage equal to the distance of your attack run divided by 50, up to your ship’s Strength modifier (minimum of 1).
+***Fire.*** You may make a ship weapon attack from a forward-facing limited arc without suffering the normal disadvantage. If you attack with a tertiary or quaternary weapon, the attack deals additional damage equal to the distance of your attack run divided by 50, up to your ship’s Strength modifier (minimum of 1).
 
-Ram. You may make a Ram attempt with advantage on your Strength (Ram) check. If you succeed, the target ship takes additional damage equal to the distance of your Attack Run divided by 50, up to your ship’s Constitution modifier (minimum of +1).
-Conceal
+***Ram.*** You may make a Ram attempt with advantage on your Strength (Ram) check. If you succeed, the target ship takes additional damage equal to the distance of your Attack Run divided by 50, up to your ship’s Constitution modifier (minimum of +1).
+
+### Conceal
 
 When you take the Conceal action, you make a Dexterity (Hide) check in an attempt to Conceal your ship, following the rules in chapter 7 for hiding. If you succeed, you gain certain benefits, as described in the “Unseen Attackers and Targets” section later in this chapter.
-Dogfight
+
+### Dogfight
+*Prerequisite:* Tiny, Small, Medium, or Large starship
 
 When you engage a single enemy, you duck and weave, vying for a good shot while avoiding theirs. You choose a target and make an opposed Dexterity (Maneuvering) check. On a success, you cause the next attack made against your ship by the target to suffer from disadvantage, but you grant the next attack made against your ship by a different target advantage. Additionally, you can perform a primary or tertiary weapon attack from a forward facing limited firing arc against that ship without suffering the normal disadvantage.
-Evade
+
+### Evade
 
 When you take the Evade action, you focus entirely on avoiding attacks. Until the start of your next turn, any Attack roll made against you has disadvantage if you can see the attacker on your instruments, and you make Dexterity Saving Throws with advantage.
 
 This action affects your entire ship: any ability check or
 attack made by your ship or anyone on it has
 disadvantage until the end of your ship’s next turn. The effects of Evade end if you are Incapacitated or if your speed drops to 0.
-Fly
+
+### Fly
 
 When you take the Fly action, you gain extra Movement for the current turn. The increase equals your speed, after applying any modifiers.
 
 With a speed of 300 feet, for example, your ship can move up to 600 feet on its turn if you Fly. Any increase or decrease to your speed changes this additional Movement by the same amount. If your ship’s speed of 300 feet is reduced to 150 feet, for instance, your ship can move up to 300 feet this turn if you Fly.
 
 This action affects your ship’s ability to stay on target: any ability check or attack made by your ship or anyone on it has disadvantage until the end of your ship’s next turn.
-Harass
+
+### Harass
 
 You can harass an enemy and lock them into a series of close-combat maneuvers in order to prevent their escape. When you take the harass action, make an opposed Dexterity (Maneuvering) check against a target within one size category of you and within normal range of at least one of your forward facing primary weapons. This weapon cannot be Fired this turn. On a success, if the target voluntarily leaves it’s square before the beginning of your next turn, it takes damage as though it suffered a critical hit with the primary weapon used to harass.
 Hard Turn
