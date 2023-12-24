@@ -11,23 +11,23 @@ If you're searching for Mandalorian themed items, check the [Mandalorian Codex](
 
 #### Naming Conventions
 
-|Rarity|Prefix|Prefix 2|Prefix 3|Prefix 4|
-|:--|:--|:--|:--|:--|
-|<font style="color:gray">**Standard**</font>|Basic|Minor|Novice|Cracked|
-|<font style="color:lime">**Premium**</font>|Fine|Average|Apprentice|Chipped|
-|<font style="color:cyan">**Prototype**</font>|Improved|Major|Journeyman|Flawed|
-|<font style="color:fuchsia">**Advanced**</font>|Superior|Deadly|Adept|Regular|
-|<font style="color:orange">**Legendary**</font>|Exceptional|Lethal|Master|Flawless|
-|<font style="color:red">**Artifact**</font>|Champion|Devastating|Ancient|Perfect|
+|Rarity|Suffix 1|Suffix 2|Suffix 3|Suffix 4|Suffix 5|
+|:--|:--:|:--:|:--:|:--:|:--:|
+|<font style="color:gray">**Standard**</font>|(Basic)|(Minor)|(Novice)|(Cracked)|(Mk I)|
+|<font style="color:lime">**Premium**</font>|(Fine)|(Average)|(Apprentice)|(Chipped)|(Mk II)|
+|<font style="color:cyan">**Prototype**</font>|(Improved)|(Major)|(Journeyman)|(Flawed)|(Mk III)|
+|<font style="color:fuchsia">**Advanced**</font>|(Superior)|(Deadly)|(Adept)|(Regular)|(Mk IV)|
+|<font style="color:orange">**Legendary**</font>|(Exceptional)|(Lethal)|(Master)|(Flawless)|(Mk V)|
+|<font style="color:red">**Artifact**</font>|(Champion)|(Devastating)|(Ancient)|(Perfect)|(Mk VI)|
 
-|Rarity|Suffix|Reusable DC|Consumable DC|
-|:--|--:|:--:|:--:|
-|<font style="color:gray">**Standard**</font>|Mk I|13|13|
-|<font style="color:lime">**Premium**</font>|Mk II|14|15|
-|<font style="color:cyan">**Prototype**</font>|Mk III|15|17|
-|<font style="color:fuchsia">**Advanced**</font>|Mk IV|16|19|
-|<font style="color:orange">**Legendary**</font>|Mk V|17|21|
-|<font style="color:red">**Artifact**</font>|Mk VI|18|23|
+|Rarity|Reusable DC|Consumable DC|
+|:--|:--:|:--:|
+|<font style="color:gray">**Standard**</font>|13|13|
+|<font style="color:lime">**Premium**</font>|14|15|
+|<font style="color:cyan">**Prototype**</font>|15|17|
+|<font style="color:fuchsia">**Advanced**</font>|16|19|
+|<font style="color:orange">**Legendary**</font>|17|21|
+|<font style="color:red">**Artifact**</font>|18|23|
 
 ## Item Type/Subtype
 Subtypes vary based on the item type.
