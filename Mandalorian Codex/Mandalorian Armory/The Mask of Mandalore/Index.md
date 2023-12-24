@@ -27,7 +27,7 @@ Years later, Revan and Canderous Ordo—a Mandalorian who had traveled with him 
 
 *A helmet with a ruddy golden color and the iconic Mandalorian T-shaped visor. For decoration, it was embossed with a series of concentric lines and above the visor, it was adorned with two emblems of the Mandalorian Crusaders.*
 
-This mask comes integrated into a helmet and equipped with a headcomm and holorecorder. Additionally, while wearing this helmet, you have darkvision out to 60 feet.
+This mask comes integrated into a helmet and equipped with a headcomm and holorecorder. Additionally, while wearing this helmet, you have darkvision out to 120 feet.
 
 While properly attuned to and wearing The Mask of Mandalore, you gain the following benefits:
 
