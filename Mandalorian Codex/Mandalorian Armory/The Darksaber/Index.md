@@ -9,7 +9,7 @@ grand_parent: Mandalorian Codex
 
 <img src='../../../Images/thedarksaber.png' style='float:right; width:100px;'>
 
-*Anyone can hold the Darksaber. The trick is keeping it, along with your head."* <br>
+*"Anyone can hold the Darksaber. The trick is keeping it, along with your head."* <br>
 ―Ursa Wren to Sabine Wren
 
 The Darksaber was an ancient and unique black-bladed lightsaber created by Tarre Vizsla, the first Mandalorian ever inducted into the Jedi Order, prior to 1019 BBY. The weapon was kept in the Jedi Temple after Vizsla's passing, but members of House Vizsla stole the saber in a conflict with the Jedi during the fall of the Old Republic. The Darksaber was passed down, generation to generation, by the ancestors of Pre Vizsla, who held onto the weapon even after the pacifist ideals of the New Mandalorians replaced the warrior ways of Mandalore.

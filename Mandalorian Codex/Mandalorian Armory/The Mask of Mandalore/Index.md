@@ -9,6 +9,9 @@ grand_parent: Mandalorian Codex
 
 <img src='../../../Images/maskofmandalore.png' style='float:right; width:500px;'>
 
+*"You know what the Mask means to my people. Without it we are lost, vagabonds wandering the galaxy without a purpose. Recovering the Mask could be the key to restoring Mandalorian honor—and power. Whoever finds it will be hailed as the new leader of the clans. Mandalore will rise again, and the Mandalorians will follow."* <br>
+―Canderous Ordo
+
 Mandalore's Mask was a ceremonial war mask worn by the Mandalore, the traditional leader of the Mandalorian warrior clans.
 
 The Mask of Mandalore was first worn by the Taung warrior Mandalore the First, carved from the rigid bone of a mythosaur's sternum, and modeled after the facial features of the Taung species. In time, the fabled helm became the symbol of leadership among the Mandalorians. It was passed down through the ages to those Mandalorians who proved themselves worthy of the title of Mand'alor, leader of the Mandalorian clans.
