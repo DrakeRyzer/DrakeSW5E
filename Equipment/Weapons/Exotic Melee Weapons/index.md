@@ -1,6 +1,6 @@
 ---
 title: Exotic Melee Weapons
-parent: Weapons
+parent: aaa Weapons
 grand_parent: Equipment
 ---
 

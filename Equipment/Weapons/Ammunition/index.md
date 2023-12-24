@@ -7,7 +7,7 @@ grand_parent: Equipment
 # Ammunition
 
 ## Darts
-Used in wrist launchers and ---
+Used in [Wrist Launchers](https://sw5e.com/loot/weapons/?search=Wrist%20launcher)
 
 ### Kolto Dart
 **Cost:** 600 credits <br>

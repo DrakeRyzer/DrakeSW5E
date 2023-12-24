@@ -1,5 +1,5 @@
 ---
 title: Armor Accessories
-parent: Equipment
+parent: aaa Equipment
 has_children: true
 ---
