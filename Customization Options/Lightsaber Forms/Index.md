@@ -5,7 +5,7 @@ parent: Customization Options
 
 <img src='../../Images/lukeandvader.png' style='float:right; width:400px;'>
 
-## Lightsaber Forms
+# Lightsaber Forms
 
 Lightsaber forms are a series of schools of martial arts specialized in using the Force in conjunction with a lightsaber, although they were not limited to those methods.
 

@@ -3,8 +3,6 @@ title: Enhanced Items
 has_children: true
 ---
 
-<img src='../Images/workinprogress.png' style='width:500px;'>
-
 # Enhanced Items
 
 If you're searching for Mandalorian themed items, check the [Mandalorian Codex](<../Mandalorian Codex>) under [Mandalorian Equipment](<../Mandalorian Codex/Mandalorian Equipment>)
@@ -21,6 +19,15 @@ If you're searching for Mandalorian themed items, check the [Mandalorian Codex](
 |<font style="color:fuchsia">**Advanced**</font>|Superior|Deadly|Adept|Regular|Mk IV|16|19|
 |<font style="color:orange">**Legendary**</font>|Exceptional|Lethal|Master|Flawless|Mk V|17|21|
 |<font style="color:red">**Artifact**</font>|Champion|Devastating|Ancient|Perfect|Mk VI|18|23|
+
+|Rarity|Suffix|Reusable DC|Consumable DC|
+|:--|--:|:--:|:--:|
+|<font style="color:gray">**Standard**</font>|Mk I|13|13|
+|<font style="color:lime">**Premium**</font>|Mk II|14|15|
+|<font style="color:cyan">**Prototype**</font>|Mk III|15|17|
+|<font style="color:fuchsia">**Advanced**</font>|Mk IV|16|19|
+|<font style="color:orange">**Legendary**</font>|Mk V|17|21|
+|<font style="color:red">**Artifact**</font>|Mk VI|18|23|
 
 ## Item Type/Subtype
 Subtypes vary based on the item type.
