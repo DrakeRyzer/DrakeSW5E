@@ -1,6 +1,6 @@
 ---
 title: Weapon Properties
-parent: Weapons
+parent: Starship Weapons
 grand_parent: Equipment
 ---
 
