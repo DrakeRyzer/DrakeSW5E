@@ -4,7 +4,8 @@ parent: Starship Combat
 grand_parent: Starships
 ---
 
-CURRENTLY A WORK IN PROGRESS {: .label .label-red }
+CURRENTLY A WORK IN PROGRESS 
+{: .label .label-red } 
 
 # Starship Actions
 

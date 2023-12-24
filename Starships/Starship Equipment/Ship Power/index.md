@@ -4,7 +4,8 @@ parent: Starship Equipment
 grand_parent: Starships
 ---
 
-CURRENTLY A WORK IN PROGRESS {: .label .label-red }
+CURRENTLY A WORK IN PROGRESS 
+{: .label .label-red } 
 
 ## Ship Power
 Ships have different power generation, distribution, and storage systems based on their energy consumption needs. Excess power can be used to fuel special abilities.

@@ -4,7 +4,8 @@ parent: Starship Weapons
 grand_parent: Starship Equipment
 ---
 
-CURRENTLY A WORK IN PROGRESS {: .label .label-red }
+CURRENTLY A WORK IN PROGRESS 
+{: .label .label-red } 
 
 ## Weapon Properties
 Many weapons have special properties related to their use, as shown in the Weapons table.
