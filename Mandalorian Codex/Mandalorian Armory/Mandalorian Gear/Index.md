@@ -1,6 +1,6 @@
 ---
 title: Mandalorian Gear
-parent: Mandalorian Equipment
+parent: Mandalorian Armory
 grand_parent: Mandalorian Codex
 ---
 

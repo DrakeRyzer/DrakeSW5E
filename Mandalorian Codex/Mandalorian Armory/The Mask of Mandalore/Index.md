@@ -1,13 +1,11 @@
 ---
-title: Mandalorian Gear
-parent: Mandalorian Equipment
+title: The Mask of Mandalore
+parent: Mandalorian Armory
 grand_parent: Mandalorian Codex
 ---
 
-# Crusader Mandalorian Gear
----
-
 # The Mask of Mandalore 
+---
 
 <img src='../../../Images/maskofmandalore.png' style='float:right; width:500px;'>
 
