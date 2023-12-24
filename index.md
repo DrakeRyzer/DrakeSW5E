@@ -5,7 +5,7 @@ nav_exclude: true
 
 # Drake's <img src='Images/sw5e-logo.png' style= 'float:; width:100px;'> Repository
 
-Home of my future updates and personal projects for the Star Wars 5th Edition system.
+Home of future updates and my personal projects for the Star Wars 5th Edition system. This website will be ever changing and is by no means fully official, so use anything here at your own risk.
 
 There are many pages on this site that are still a work-in-progress. Such pages will have a large <img src='Images/workinprogress.png' style='width:70px;'> logo posted on the front of their page or next to the specific item, rule, or feature that is still being worked on.
 
