@@ -4,8 +4,6 @@ parent: Mandalorian Equipment
 grand_parent: Mandalorian Codex
 ---
 
-<img src='../../../Images/workinprogress.png' style='width:500px;'>
-
 # Mandalorian Armor
 ---
 ## Helmets
