@@ -7,6 +7,7 @@ grand_parent: Equipment
 # Exotic Ranged Weapons
 
 ### Exotic Blasters
+
 |Name|Cost|Damage|Weight|Properties| 
 |:---|---:|:---|-:|:---|
 | Bo-rifle              |1,125 cr |—            |10.00 lb |Modal (blaster rifle, electro-staff) |
