@@ -55,7 +55,7 @@ To remain a Mando'ade you must follow the Resol'nare, or Six Actions, as detaile
 ### 1st Rank - Verd
 The same word as "warrior", a Verd is a competant, highly trained soldier of Mandalore.
 
-Verd ranked Mandalorians gain access to the following:
+Verd ranked Mandalorians gain access to the following features:
 
 #### Faction Activities.
 Mandalorians have three faction activities: *Bounty Hunting, Mercenary Contracting,* and *Pit Fighting.*
@@ -66,7 +66,7 @@ Mandalorians have four faction training options. They have their faction-specifi
 ### 2nd Rank - Ruus'alor
 The Ruus'alor is a veteran soldier and warrior. He most frequently commands squads and patrols and is responsible for basic discipline as well as being a liason between higher ranking Mando'ade and the basic soldiers.
 
-Ruus'alor ranked Mandalorians gain access to the following:
+Ruus'alor ranked Mandalorians gain access to the following features:
 
 #### Enhanced Insignia. 
 *Ruus'alor* rank or higher Mandalorians have an Enhanced insignia. While wearing their insignia, all Mandalorians can cast the combustive shot at-will tech power (Player's Handbook, page 230). Intelligence is their casting ability for this tech power.
@@ -77,24 +77,24 @@ Ruus'alor ranked Mandalorians gain access to the following:
 ### 3rd Rank - Alor'ad
 Alor'ade command a company strength unit. Usually, they are men and women with many years of service to their clan and the Mand'alor, and are veterans of many battles.
 
-Alor'ad ranked Mandalorians gain access to the following:
+Alor'ad ranked Mandalorians gain access to the following features:
 
 #### Prototype Item Stockpile. 
-*Alor'ad* rank or higher Mandalorians can spend 100 days of downtime furthering mandalorian interests, they gain access to a set of [Mandalorian Beskar'gam](link), an Improved suit of armor, an Improved shield, or an Improved Weapon and can purchase it at half the item's full value. Provided that the item is undamaged, they can return it to your faction for a full refund.
+*Alor'ad* rank or higher Mandalorians can spend 100 days of downtime furthering mandalorian interests, they gain access to a set of [Mandalorian Beskar'gam](link), a suit of Armor (Improved), a Shield (Improved), or a Weapon (Improved) and can purchase it at half the item's full value. Provided that the item is undamaged, they can return it to your faction for a full refund.
 
 ### 4th Rank - Aliit'alor
 Aliit'alor are both high ranking generals and the chieftains of their respective clans. Depending on the size of their clan, an Aliit'alor can expect to command anywhere from brigade size units, to whole divisions, to full corps and even whole armies.
 
-Aliit'alor ranked Mandalorians gain access to the following:
+Aliit'alor ranked Mandalorians gain access to the following features:
 
 #### Advanced Item Stockpile. 
-*Aliit'alor* rank or higher Mandalorians can spend 200 days of downtime furthering mandalorian interests, they gain access to a [Mandalorian Vambrace](link), a Superior suit of armor, a Superior shield, or a Superior Weapon and can purchase it at half the item's full value. Provided that the item is undamaged, they can return it to your faction for a full refund.
+*Aliit'alor* rank or higher Mandalorians can spend 200 days of downtime furthering mandalorian interests, they gain access to an advanced Mandalorian enhanced item, a suit of Armor (Superior), a Shield (Superior), or a Weapon (Superior) and can purchase it at half the item's full value. Provided that the item is undamaged, they can return it to your faction for a full refund.
 
 ### 5th Rank - Mand'alor
 The singular and ultimate title of Mand'alor is bestowed upon only one man or woman at a time, and he or she commands the Mando'ade both in times of war and of relative peace. He or she is the end all be all of Mandalorian society, and is the commander-in-chief of all Mandalorian forces across all theatres of war. A legitimate wielder of The Darksaber is also considered the current Mand'alor.
 
-A Mand'alor ranked Mandalorian gains access to the following:
+Mand'alor gains access to the following features:
 
 #### Factional Legendary. 
 
-The Mand'alor can spend 500 days of downtime furthering the faction’s interests, they gain access to [The Darksaber](link) and can procure it at no cost.
+The Mand'alor can spend 500 days of downtime furthering the faction’s interests, they gain access to [The Darksaber](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Mandalorian%20Weapons/Index.html#the-darksaber) or [The Mask of Mandalore]() and can procure it at no cost.
