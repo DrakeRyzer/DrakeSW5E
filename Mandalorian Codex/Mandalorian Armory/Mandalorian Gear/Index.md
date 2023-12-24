@@ -7,13 +7,6 @@ grand_parent: Mandalorian Codex
 # Mandalorian Gear
 ---
 
-### Mandalorian Manacles
-*Adventuring Gear [(binders)](https://sw5e.com/loot/adventuringGear/?search=Binders), <font style="color:lime">premium</font>*
-
-*A type of binders that used beskar iron in their construction.*
-
-Escaping the binders requires a successful DC 30 Dexterity check. Breaking them requires a successful DC 30 Strength check. Each set of binders comes with one key. Without the key, a creature proficient with security kit can pick the binders’ lock with a successful DC 25 Dexterity check. Binders have 40 hit points.
-
 ### Mandalorian Crushgaunts
 *Clothing (armored gloves), <font style="color:fuchsia">advanced</font>, [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments)*
 <br> *Requires Attunement*
@@ -24,6 +17,13 @@ While wearing these gloves you gain the following benefits:
 - Your damage die for your unarmed strikes increases by two steps (from 1 to d6, d4 to d8, d6 to d10, or d8 to d12). Additionally they deal double damage against structures and count as enhanced.
 - You have advantage on Strength (Athletics) checks involving use of your hands and gain the [*Barbed*](https://sw5e.com/rules/wh/equipment#barbed) (1d4) property.
 - When you are hit by a melee weapon attack, you can use your reaction to attempt to deflect it. You gain a +2 bonus to AC against the triggering attack.
+
+### Mandalorian Manacles
+*Adventuring Gear [(binders)](https://sw5e.com/loot/adventuringGear/?search=Binders), <font style="color:lime">premium</font>*
+
+*A type of binders that used beskar iron in their construction.*
+
+Escaping the binders requires a successful DC 30 Dexterity check. Breaking them requires a successful DC 30 Strength check. Each set of binders comes with one key. Without the key, a creature proficient with security kit can pick the binders’ lock with a successful DC 25 Dexterity check. Binders have 40 hit points.
 
 
 ### Repulsor Gauntlet
