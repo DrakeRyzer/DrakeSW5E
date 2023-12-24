@@ -4,7 +4,7 @@ parent: Starship Weapons
 grand_parent: Starship Equipment
 ---
 
-CURRENTLY A WORK IN PROGRESS 
+WORK IN PROGRESS 
 {: .label .label-red } 
 
 ## Weapon Properties

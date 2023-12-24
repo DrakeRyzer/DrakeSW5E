@@ -9,7 +9,7 @@ Home of future updates and my personal projects for the Star Wars 5th Edition sy
 
 There are many pages on this site that are still a work-in-progress. Such pages will have a 
 
-CURRENTLY A WORK IN PROGRESS 
+WORK IN PROGRESS 
 {: .label .label-red } 
 
 tag posted at the top of their page or next to the specific item, rule, or feature that is still being worked on.
