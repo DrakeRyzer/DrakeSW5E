@@ -9,6 +9,8 @@ grand_parent: Mandalorian Codex
 
 # The Mask of Mandalore 
 
+<img src='../../../Images/maskofmandalore.png' style='float:right; width:500px;'>
+
 Mandalore's Mask was a ceremonial war mask worn by the Mandalore, the traditional leader of the Mandalorian warrior clans.
 
 The Mask of Mandalore was first worn by the Taung warrior Mandalore the First, carved from the rigid bone of a mythosaur's sternum, and modeled after the facial features of the Taung species. In time, the fabled helm became the symbol of leadership among the Mandalorians. It was passed down through the ages to those Mandalorians who proved themselves worthy of the title of Mand'alor, leader of the Mandalorian clans.
@@ -18,8 +20,6 @@ During the concluding battle of the Mandalorian Wars, the Jedi Knight Revan and 
 Years later, Revan and Canderous Ordo—a Mandalorian who had traveled with him during the war—traveled to Rekkiad, where many of the clans had gathered in an attempt to find the mask. When the two discovered the tomb, Revan gave Canderous the mask, telling him to reunite the Mandalorian clans to protect against the unknown enemy that Revan was chasing.  Having acquired the mask of Mandalore, Canderous began a quest to unite the Mandalorian Clans.
 
 ### The Mask of Mandalore
-
-<img src='../../../Images/maskofmandalore.png' style='float:center; width:100px;'>
 
 ***Adventuring Gear** (head), <font style="color:orange">legendary</font>
 <br> **Requires Attunement***
