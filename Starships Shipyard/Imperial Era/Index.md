@@ -1,6 +1,6 @@
 ---
 title: The Imperial Era
-parent: Starships Shipyard
+parent: Starship Yard
 nav_order: 5
 has_children: true
 ---
