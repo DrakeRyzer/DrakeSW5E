@@ -1,5 +1,5 @@
 ---
-title: Equipment
+title: Starship Equipment
 parent: Starships
 has_children: true
 ---
