@@ -10,7 +10,7 @@ CURRENTLY ONLY USING RULES FROM SW5E.COM
 
 # Starships of the Galactic Empire
 
-## Imperial Starships Shipyard
+## Imperial Shipyard
 
 ### Tiny
 - None
