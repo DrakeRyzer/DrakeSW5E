@@ -1,11 +1,11 @@
 ---
 title: Starship Weapons
-parent: Equipment
+parent: Starship Equipment
 grand_parent: Starships
 has_children: true
 ---
 
-<img src='../../../Images/workinprogress.png' style='width:500px;'>
+CURRENTLY A WORK IN PROGRESS {: .label .label-red }
 
 ## Weapons
 Ships have weapon categories based on their determined function. Most snubfighters use laser cannons, while gunships have both railguns and lasers. Specialized ships often carry torpedoes or missile batteries, or even a bomb deployer. In order to install a weapon, your ship must have a vacant fixed or turret hardpoint modification.

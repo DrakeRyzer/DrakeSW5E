@@ -1,10 +1,10 @@
 ---
 title: Tiny to Large Starship Weapons
 parent: Starship Weapons
-grand_parent: Equipment
+grand_parent: Starship Equipment
 ---
 
-<img src='../../../../Images/workinprogress.png' style='width:500px;'>
+CURRENTLY A WORK IN PROGRESS {: .label .label-red }
 
 # Tiny to Large Starship Weapons
 In this section there are various tables showing the various starship weapons that can be added to starships of *Tiny*, *Small*, *Medium*, or *Large* size. 

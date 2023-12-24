@@ -1,5 +1,6 @@
 ---
 title: Making an Attack
-parent: Combat
+parent: Starship Combat
 grand-parent: Starships
 ---
+

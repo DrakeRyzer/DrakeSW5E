@@ -1,8 +1,10 @@
 ---
 title: Movement and Position
-parent: Combat
+parent: Starship Combat
 grand_parent: Starships
 ---
+
+CURRENTLY A WORK IN PROGRESS {: .label .label-red }
 
 # Movement and Position
 In combat, ships are in constant motion, often using movement and positioning to gain the upper hand.

@@ -1,11 +1,12 @@
 ---
-title: Combat
+title: Starship Combat
 parent: Starships
 has_children: true
 ---
 
-# Starship Combat
+CURRENTLY A WORK IN PROGRESS {: .label .label-red }
 
+# Starship Combat
 
 As the light freighter exits hyperspace, it finds itself in the middle of a snubfighter skirmish. Immediately, the pilot begins evasive maneuvers while hollering for help. One crewmember hops into the copilot seat while two more run to opposite sides of the craft to man the gun batteries. Three of the snubfighters—now identified as TIE fighters—turn towards this new opponent and open fire, but the blasts dissipiate ineffectually on the freighter’s shields. The freighter’s two gunners, now in place, open fire on the assaulting craft. One takes the blasts directly to the cockpit and explodes in a blaze, while the other is hit on a solar panel and spins off out of control into the distance. The third attempts to pass overhead, but the copilot takes a shot from the freighter’s slaved railgun and destroys the fighter in a single stroke.
 
@@ -23,21 +24,9 @@ If you’re surprised, you can’t move or take an action on your first turn of 
 
     Combat Step By Step
 
-    1. Determine surprise. The GM determines whether
-    anyone involved in the combat encounter is surprised.
-    2. Establish positions. The GM decides where all
-    characters and ships are located.
-    3. Roll initiative. Every PC on a ship rolls initiative
-    normally, and the lowest initiative on each ship sets
-    the initiative for that ship.
-    4. Start a ship turn. When your ship activates based on the initiative order, the ship’s reactor replenishes power dice and the crew determines how these dice are distributed through the power coupling. The crew should also decide if they want to activate their shield generator’s regeneration at the start of the ship’s turn. All PCs on a ship then take their
-    individual turns on their ship’s turn in an order agreed
-    upon by the crew for that ship turn. In case of
-    disputes, the helm has final say. The order of character
-    turns on a ship’s turn may change from round to
-    round.
-    5. Take turns. Each ship in the battle takes a
-    turn in ship initiative order.
-    6. Begin the next round. When every ship involved in the
-    combat has had a turn, the round ends. Repeat step 5
-    until the fighting stops.
+    1. Determine surprise. The GM determines whether anyone involved in the combat encounter is surprised.
+    2. Establish positions. The GM decides where all characters and ships are located.
+    3. Roll initiative. Every PC on a ship rolls initiative normally, and the lowest initiative on each ship sets the initiative for that ship.
+    4. Start a ship turn. When your ship activates based on the initiative order, the ship’s reactor replenishes power dice and the crew determines how these dic are distributed through the power coupling. The crew should also decide if they want to activate their shield generator’s regeneration at the start of the ship’ turn. All PCs on a ship then take their individual turns on their ship’s turn in an order agreed upon by the crew for that ship turn. In case of disputes, the helm has final say. The order of character turns on a ship’s turn may change from round to round.
+    5. Take turns. Each ship in the battle takes a turn in ship initiative order.
+    6. Begin the next round. When every ship involved in the combat has had a turn, the round ends. Repeat step 5 until the fighting stops.
