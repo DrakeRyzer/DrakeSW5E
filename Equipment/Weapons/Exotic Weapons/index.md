@@ -1,5 +1,5 @@
 ---
-title: Exotic Ranged Weapons
+title: Exotic Weapons
 parent: Weapons
 grand_parent: Equipment
 ---
