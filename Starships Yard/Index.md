@@ -1,5 +1,5 @@
 ---
-title: Starships Shipyard
+title: Starships Yard
 has_children: true
 ---
 

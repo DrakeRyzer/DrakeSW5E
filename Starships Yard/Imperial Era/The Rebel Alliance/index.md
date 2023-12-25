@@ -1,7 +1,7 @@
 ---
 title: The Rebel Alliance
 parent: The Imperial Era
-grand_parent: Starship Yard
+grand_parent: Starships Yard
 has_children: true
 ---
 
