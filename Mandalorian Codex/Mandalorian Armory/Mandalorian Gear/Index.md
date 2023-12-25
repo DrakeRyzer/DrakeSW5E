@@ -8,7 +8,7 @@ grand_parent: Mandalorian Codex
 ---
 
 ### Mandalorian Crushgaunts
-*Clothing (armored gloves), <font style="color:fuchsia">advanced</font>, [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments)*
+*Clothing (gloves), <font style="color:fuchsia">advanced</font>, [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments)*
 <br> *Requires Attunement*
 
 *Crushgaunts, also called shuk'orok in Mando'a, were a type of strength-enhancing gauntlets created by the Mandalorians that could increase their wearer's grip strength to the point that they could shatter bones, crush durasteel, and deflect weapons, even lightsaber blades.*
@@ -24,7 +24,6 @@ While wearing these gloves you gain the following benefits:
 *A type of binders that used beskar iron in their construction.*
 
 Escaping the binders requires a successful DC 30 Dexterity check. Breaking them requires a successful DC 30 Strength check. Each set of binders comes with one key. Without the key, a creature proficient with security kit can pick the binders’ lock with a successful DC 25 Dexterity check. Binders have 40 hit points.
-
 
 ### Repulsor Gauntlet
 *Adventuring Gear (forearm), <font style="color:gray">standard</font>*

@@ -22,8 +22,8 @@ Years later, Revan and Canderous Ordo—a Mandalorian who had traveled with him 
 
 ### The Mask of Mandalore
 
-***Adventuring Gear** (head), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:red">artifact</font>
-<br> **Requires Attunement***
+*Adventuring Gear** (head), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:red">artifact</font>
+<br> **Requires Attunement*
 
 *A helmet with a ruddy golden color and the iconic Mandalorian T-shaped visor. For decoration, it was embossed with a series of concentric lines and above the visor, it was adorned with two emblems of the Mandalorian Crusaders.*
 
