@@ -22,7 +22,7 @@ This helmet comes equipped with a headcomm and holorecorder. Additionally, while
 
 *The most recognizable symbol of the Mandalorian culture. It featured partial armor that left limbs almost completely undefended, and focused its strength on the vital areas such as the torso, head, and groin.*
 
-This armor comes with a basic helmet and is equipped with 24 slots that can each hold a single item that weighs less than 2 lb and once per turn, drawing an item does not require your object interaction. 
+This armor comes with a basic helmet and is equipped with 12 slots that can each hold a single item that weighs less than 2 lb and once per turn, drawing an item does not require your object interaction. 
 
 Additionally, this armor has the impermeable 2 (space suit, hazard suit) property.
 
