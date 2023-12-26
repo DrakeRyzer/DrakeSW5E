@@ -6,6 +6,9 @@ grand_parent: Mandalorian Codex
 
 # Crusader Armor
 ---
+
+<img src='https://www.gmbinder.com/images/R4nGvSp.png' style='float:right; width:200px;'>
+
 ## Helmets
 ---
 ### Crusader Helmet
@@ -18,15 +21,11 @@ This helmet comes equipped with a headcomm and holorecorder. Additionally, while
 ## Mandalorian Beskar'gam
 ---
 
-<img src='https://www.gmbinder.com/images/R4nGvSp.png' style='float:right; width:200px;'>
-
 ## Neo-Crusader Armor
 
 Neo-Crusader armor was a collective term referring to a type of Mandalorian armor developed sometime after the Great Sith War and in use by 3964 BBY.
 
-Neo-Crusader armors were almost all identical, a consequence of the unification and uniformization of the Mandalorians in one single army during the Mandalorian Wars. The armor came in four colors and configurations, each corresponding to a rank—silver for veterans on the front line, gold for Field Marshals, crimson for Rally Masters and blue for all others. As the Mandalorian Neo-Crusaders comprised many different species, different designs were employed to fit the wearer.
-
-Later in the war, new armors were developed for use by special units such as the Neo-Crusader Shock Troopers.
+Neo-Crusader armors were almost all identical, a consequence of the unification and uniformization of the Mandalorians in one single army during the Mandalorian Wars. The armor came in four colors and configurations, each corresponding to a rank—silver for veterans on the front line, gold for Field Marshals, crimson for Rally Masters and blue for all others. As the Mandalorian Neo-Crusaders comprised many different species, different designs were employed to fit the wearer. Later in the war, new armors, such as the Mandalorian assault armor, were developed for use by special units such as the Neo-Crusader Shock Troopers.
 
 ### Neo-Crusader Light Armor
 *Armor [(composite armor)](https://sw5e.com/loot/armor/?search=Composite%20armor), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:lime">premium</font> <br> Requires Attunement*
