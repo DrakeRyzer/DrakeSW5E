@@ -16,10 +16,7 @@ Addtionally, if the item is of prototype or advanced rarity it comes with a sing
 
 ## Blaster Modifications
 
-### Adaptive Recoil Compensator
-*Item Modification (blaster), <font style="color:cyan">prototype</font>*
-<br> *Prerequisite:* Has strength and lacks mighty property
+### Lightweight Frame
+*Item Modification (blaster), <font style="color:gray">standard</font>*
 
-The strength property of this weapon becomes the dexterity property, retaining the same number it had previously. If a modification or feature reduces the strength property of this weapon, it instead reduces the dexterity property.
-
-Additionally, when making an attack with a weapon with this property, you use your your Strength modifier instead of your Dexterity modifier for the attack and damage rolls.
+The weapon's weight is reduced by half.
