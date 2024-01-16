@@ -67,11 +67,11 @@ The T-65B X-wing starfighter was a single-seat craft manufactured by Incom Corpo
 
 #### **Actions**
 **Maximum Ship Attacks:** 3 <br><br>
-***Twin Laser Cannon (Front)***: *Primary,* *Range:* 600/2400 ft, *To hit:* +6 (+4, S-Foils Locked), *Damage:* 1d8+3 energy
+***Twin Laser Cannon (Front)***: *Primary,* **Range:** 600/2400 ft, *To hit:* +6 (+4, S-Foils Locked), *Damage:* 1d8+3 energy
 <br>&nbsp;&nbsp;**Properties:** Power, constitution 11, rapid 3 (DC 13, 2d8+3 energy)
 <br>&nbsp;&nbsp;**Modifications:** 1x Twin-Linked Mounting, Reinforcement, Primer
 
-***Proton Torpedo (Front)***: (6/refit) *Secondary,* *Range:*1200/4800 ft, *DC:* +14, *Damage:* 2d10 energy
+***Proton Torpedo (Front)***: (6/refit) *Secondary,* **Range:**1200/4800 ft, *DC:* +14, *Damage:* 2d10 energy
 <br>&nbsp;&nbsp;**Properties:** Ammunition, explosive, keen 1
 
 #### **Bonus Actions**

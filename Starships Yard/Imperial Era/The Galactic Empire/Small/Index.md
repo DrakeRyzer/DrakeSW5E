@@ -65,11 +65,11 @@ The TIE/IN interceptor, also known as the TIE Interceptor, or TIE/in was a type 
 
 #### **Actions**
 **Maximum Ship Attacks:** 2 <br><br>
-**Twin Laser Cannon (Front)**: *Primary,* *Range:* 600/2400ft, *To hit:* +6, *Damage:* 1d8+2 energy
+**Twin Laser Cannon (Front)**: *Primary,* **Range:** 600/2400ft, *To hit:* +6, *Damage:* 1d8+2 energy
 <br>&nbsp;&nbsp;**Properties:** Power, constitution 11, rapid 3 (DC 13, 2d8 energy)
 
 #### **Bonus Actions**
-**Twin-Linked - Twin Laser Cannon (Front)**: *Primary,* *Range:* 600/2400ft, *To hit:* +6, *Damage:* 1d8+2 energy
+**Twin-Linked - Twin Laser Cannon (Front)**: *Primary,* **Range:** 600/2400ft, *To hit:* +6, *Damage:* 1d8+2 energy
 <br>&nbsp;&nbsp;**Properties:** Power, constitution 11, rapid 3 (DC 13, 2d8 energy)
 
 **Flight Computer:** Once per round on its turn, the TIE can Fly, Evade, or Regenerate Shield as a bonus action.
@@ -136,7 +136,7 @@ The TIE/LN starfighter, or TIE/line starfighter, simply known as the TIE Fighter
 ### Offense
 #### **Actions**
 **Maximum Ship Attacks:** 1 <br><br>
-**Twin Laser Cannon (Front)**: *Primary,* *Range:* 600/2400ft, *To hit:* +5, *Damage:* 1d8+2 energy
+**Twin Laser Cannon (Front)**: *Primary,* **Range:** 600/2400ft, *To hit:* +5, *Damage:* 1d8+2 energy
 <br>&nbsp;&nbsp;**Properties:** Power, constitution 11, rapid 3 (DC 13, 2d8 energy)
 
 #### **Bonus Actions**
