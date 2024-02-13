@@ -8,7 +8,7 @@ has_children: true
 These rules serve as a rework of the current Droid player character species.
 
 ## Players as Droids
-Unlike Droid NPCs, player controlled droids can be considered Droid heroes or villans and are assumed either to be "self-owned" or to be owned by another player character (with the approval of both the Gamemaster and the player in question). Even if owned by another member of the party, the Gamemaster should ensure that the owner does not abuse their authority by giving unreasonable or unwanted orders to the other player's Droid character.
+Unlike Droid NPCs, player controlled droids can be considered Droid heroes or villans and are assumed either to be "self-owned" or to be owned by another player character (with the approval of both the Game Master and the player in question). Even if owned by another member of the party, the Game Master should ensure that the owner does not abuse their authority by giving unreasonable or unwanted orders to the other player's Droid character.
 
 A Droid player character should be treated the same as any other player character, and in most cases it is best to give suggestions or advice instead of actual orders. (In fact, most Droid player characters have a Heuristic Processor so that they can creatively interpret orders and thus justify acting as they wish.)
 
@@ -76,7 +76,7 @@ You can choose to play a Medium, Small or Tiny Droid; dependent on your chosen D
 A Droid's size might influence its Ability Score modifiers or additional traits based on its class.
 
 ## Droid Customization
-Some player's might want further customization for thier chosen class. As the GM, you can suggest replacing their Background feat the ***Customized Droid*** feat. 
+Some player's might want further customization for thier chosen class. Discuss with your GM, about replacing your Background feat the ***Customized Droid*** feat. 
 
 ### Customized Droid
 You’ve been customized beyond other droids of the same model, granting the following benefits:
@@ -85,7 +85,7 @@ You’ve been customized beyond other droids of the same model, granting the fol
 - Choose one *Droid Customization* of standard rarity. That customization is installed and doesn’t count against the maximum *Droid Customizations* you can support, but it does count towards your maximum parts or protocols, as appropriate.
 
 ## Sharded Droid
-Additionally, some players might want to be Droids that can utilize The Force. Suggest the ***Shard Modification*** feat for those players who want to create force wielding droids.
+Additionally, some players might want to be Droids that can utilize The Force. Discuss with your GM, about replacing your Background feat ***Shard Modification*** feat if you want to play create a force wielding droid.
 
 ### Shard Modification
 You are specially modified droid used to house a shard. Shards are sentient crystals native to the planet Orax, roughly a foot in length, that communicate with each other through pulses of light. While inhabiting a specialized droid host, shards are able to overcome the droid’s inability to wield the Force, granting the following benefits:
