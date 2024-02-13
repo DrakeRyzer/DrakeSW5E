@@ -1,5 +1,5 @@
 ---
-title: Droid, Class I
+title: Droid, Class IV
 parent: Droid
 grand_parent: Species
 has_children: true
@@ -87,7 +87,3 @@ Choose one from the following:
 <img src='https://www.gmbinder.com/images/KlA0JZ7.png' style='float:right;top:32px;right:62px;width:95px;z-index:1000' />
 
 <img src='https://www.gmbinder.com/images/7ydbiHP.png' style='float:right;top:12px;right:159px;width:90px;z-index:1000' />
-
-<div class='footnote'>EXPANDED CONTENT | SPECIES</div>
-
-\pagebreakNum
