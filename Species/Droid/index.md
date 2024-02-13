@@ -16,22 +16,27 @@ When you decide to play a Droid, you'll have to pack out a few details about wha
 
 Work with your GM to determine if playing as a droid is appropriate for your campaign. Droids are impervious to many effects and vulnerable to others. If your GM approves this choice of species, Work with them to determine your droids designation, name, and appearance. If you want to play a different type of droid, work with your GM to find suitable traits to realize your character.
 
-## Degree
-Droids are classified by Degree, reflecting the types of tasks they typically perform. Generally, Class I Droids are medical and analytical Droids, Class II Droids are mechanical and technical Droids, Class III Droids are protocol and domestic Droids, Class IV Droids are security and battle Droids, and Class V Droids are labor and utility Droids. A Droid's function does not have to match its Degree, but this is uncommon.
+## Droid Class
+Droids are classified by a Droid Class, reflecting the types of tasks they typically perform. Generally, Class I Droids are medical and analytical Droids, Class II Droids are mechanical and technical Droids, Class III Droids are protocol and domestic Droids, Class IV Droids are security and battle Droids, and Class V Droids are labor and utility Droids. A Droid's function does not have to match its Droid Class, but this is uncommon.
 
-Pick a Degree (1st, 2nd, 3rd, 4th, or 5th) for your Droid. This determines your Ability Score modifiers, as shown in the table below. For example, a 3rd-Degree Protocol Droid's Charisma score increases by 2, and thier Intelligence or Wisdom score increases by 1.
+> A couple examples of droids whose functions do not match their class are pilot droids and small repair droids such as mouse droids, who are normally Class V droids. However in SW5e Medium Class II and Tiny Class II fit these two droids better respectively. Discuss with your GM on what Droid Class might fit your character better.
+
+Pick a Droid Class (1st, 2nd, 3rd, 4th, or 5th) for your Droid. This determines your Ability Score modifiers, as shown in the table below. For example, a 3rd-Degree Protocol Droid's Charisma score increases by 2, and thier Intelligence or Wisdom score increases by 1.
 
 |||
 |:--|:--|
-DROID Class | TYPICAL ROLES
-Droid Class I: | Medical, Scientific
+**Droid Class** | **TYPICAL ROLES**
+Droid Class I: | Interrogation, Mathematics, Medical, Scientific
 Droid Class II: | Astromech, Technical
 Droid Class III: | Protocol, Service
-Droid Class IV: | Combat, Security
+Droid Class IV: | Assassin, Battle, Combat, Security
 Droid Class V: | Labor, Utility
 
 ## Droid Traits
 All classes of droids come with the following traits.
+
+***Type.*** <br>
+Your creature type is droid in addition to having a specific class of droid, either a class I, II, III, IV, V, or Tracker.
 
 ***Armor Integration.*** <br>
 You can not wear armor, but you can have the armor professionally integrated into your chassis over the course of a long rest. This work must be done by someone proficient with astrotech's implements. You must be proficient in armor in order to have it integrated. 
@@ -39,7 +44,7 @@ You can not wear armor, but you can have the armor professionally integrated int
 Additionally you no longer require a tech focus or wristpad to cast tech powers.
 
 ***Droid Resistances.*** <br>
-You are resistant to necrotic, poison, and psychic damage, and are immune to poisons and diseases.
+You are resistant to necrotic, poison, and psychic damage; and are immune to diseases as well as effects that inflict the poisoned condition.
 
 ***Droid Vulnerabilities.*** <br>
 You are vulnerable to ion damage. Additionally, you have disadvantage on saving throws against effects that would deal ion or lightning damage.
@@ -51,13 +56,13 @@ While droids can be manipulated by many force powers, they can not sense the For
 Rather than sleep, you must spend 3 hours performing routine maintenance during a long rest to gain its benefits, during which you have disadvantage on Wisdom (Perception) checks. Additionally, if your long rest would be interrupted, you only need to complete the long rest instead of restarting it.
 
 ***Nonliving.*** <br>
-You do not need to eat, drink, or breathe; and while exposed to the vacuum of space, you can survive indefinitely.
+You do not need to eat, drink, or breathe; and while exposed to a low pressure environment, you can survive indefinitely.
 
 ***Rapid Reconstruction.*** <br>
 You are built with internal repair mechanisms. As a bonus action, you can choose to spend one of your Hit Dice to recover hit points. 
 
 ***Languages.*** <br>
-All droids can read, write, and process both Galactic Basic and [Binary](https://swse.fandom.com/wiki/Binary). Your class determines if you can speak Galactic Basic or [Binary](https://swse.fandom.com/wiki/Binary), but not both
+All droids can read, write, and process both Galactic Basic and [Binary](https://swse.fandom.com/wiki/Binary). Your class determines if you can speak Galactic Basic or [Binary](https://swse.fandom.com/wiki/Binary), but not both. If you can only speak Binary, you also cannot speak additional languages learned from other sources.
 
 - *Droid Class I:* Can speak Galactic Basic or [Binary](https://swse.fandom.com/wiki/Binary)
 - *Droid Class II:* Can speak [Binary](https://swse.fandom.com/wiki/Binary)
@@ -66,7 +71,7 @@ All droids can read, write, and process both Galactic Basic and [Binary](https:/
 - *Droid Class V:* Can speak [Binary](https://swse.fandom.com/wiki/Binary)
 
 ## Droid Size
-You can choose to play a Medium, Small or Tiny Droid; dependent on your chosen Droid Class. Droids of other sizes exist, but they are controlled by the GM.
+You can choose to play a Medium, Small or Tiny Droid; dependent on your chosen Droid Class. Droids of larger sizes exist, but they are normally only controlled by the GM.
 
 A Droid's size might influence its Ability Score modifiers or additional traits based on its class.
 

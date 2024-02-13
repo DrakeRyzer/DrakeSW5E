@@ -40,7 +40,9 @@ In addition to the traits of a [droid](https://drakeryzer.github.io/DrakeSW5E/Sp
 Your Intelligence score increases by 2, and your Wisdom or Charisma score increases by 1.
 
 ***Languages.*** <br>
-You can speak, read, and write Galactic Basic. You can process and understand spoken and written Binary, but you can not speak it.
+Choose one from the following:
+ - You can speak, read, and write Galactic Basic and one other language. You can also process and understand spoken and written Binary, but you can not speak it.
+ - You can speak, read, and process Binary. You can also process and understand spoken and written Galactic Basic and one other language, but you can not speak it or additional languages you may learn.
 
 ***Speed.*** <br>
 Your base walking speed is 25 feet.
@@ -48,8 +50,11 @@ Your base walking speed is 25 feet.
 ***Type.*** <br>
 Your creature type is droid (class I).
 
+***Detail Oriented.*** <br>
+You are practiced at scouring for details. You have advantage on Intelligence (Investigation) checks within 5 feet.
+
 ***Knowledge Protocol.*** <br>
-You have proficiency in two Intelligence or Wisdom skills of your choice.
+You have proficiency in two skills of your choice from the following: Intimidation, Investigation, Lore, Medicine, Nature, Perception, Piloting, or Technology.
 
 ***Tech Dabbler*** <br>
 Choose one of the following class I droid subcategories, you gain Tech Powers coresponding to your chosen subcategory.
@@ -60,28 +65,31 @@ Choose one of the following class I droid subcategories, you gain Tech Powers co
 
 You know one at-will tech power based on your chosen subcategory. When you reach 3rd level, you learn and can cast the 1st-level tech power from your chosen subcategory once per long rest. When you reach 5th level, you learn and can cast the 2nd-level tech power from your chosen subcategory once per long rest. Your techcasting ability is Intelligence. You do not require use of a tech focus or wristpad for these powers.
 
-## Class I Droid Size
+# Droid, Class I Sizes
 
-### Medium <br>
+## Medium <br>
 Medium Class I droids stand between 5 and 6 feet tall and weigh about 170 lbs. Regardless of your position in that range, your size is Medium.
 
 ***Height:*** 4'5 | + 2d10" <br>
 ***Weight:*** 115 lb. | + (Height Roll) x (2d4) lb.
 
-#### Medium Class I Droid Traits
-Medium class I droids do not have additional special traits.
+### Medium Class I Droid Traits
+In addition to the traits of a class I droid, medium class I droids also have the following special traits.
 
-### Small <br>
+***Integrated Tool.*** <br>
+You have proficiency in one tool of your choice. The chosen tool is integrated into your chassis, and can not be removed while you are conscious. Another creature can remove and integrate another tool over the course of a long rest.
+
+## Small <br>
 Small Class I droids stand 2 to 4 feet tall and weigh about 70 lbs. Regardless of your position in that range, your size is Small.
 
 ***Height:*** 2'5" | + 2d8" <br>
 ***Weight:*** 60 lb. | + (Height Roll) x (1) lb.|
 
-#### Small Class I Droid Traits
+### Small Class I Droid Traits
 In addition to the traits of a class I droid, small class I droids also have the following special traits.
 
-***Integrated Tool.*** <br>
-You have proficiency in one tool of your choice. The chosen tool is integrated into your chassis, and can not be removed while you are conscious. Another creature can remove and integrate another tool over the course of a long rest.
+***Integrated Tools.*** <br>
+You have proficiency in two tools of your choice. The chosen tool is integrated into your chassis, and can not be removed while you are conscious. Another creature can remove and integrate another tool over the course of a long rest.
 
 ***Undersized.*** <br>
 Your small stature makes it hard for you to wield bigger weapons. You can't use heavy shields. Additionally, you can't use martial weapons with the two-handed property unless it also has the light property, and if a martial weapon has the versatile property, you can only wield it in two hands.
