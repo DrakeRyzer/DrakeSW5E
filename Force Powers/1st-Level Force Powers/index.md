@@ -16,6 +16,19 @@ In response to being attacked, you attempt to deflect the attack with the Force.
 
 **Force Potency.** When you cast this power using a force slot of 2nd level or higher, the damage reduction increases by 1d10 for each slot level above 1st.
 
+# At-will Force Powers
+
+### Force Returning
+*1st-level universal power*
+<br>*Prerequisite:* Saber Throw
+<br>*Casting Time:* 1 bonus action
+<br>*Range:* Touch
+<br>*Duration:* Up to 1 minute (Concentration)
+
+You touch can up to two lightweapons or vibroweapons you are wielding. For the duration, the weapons have the returning and thrown (30/90) properties for you.
+
+**Force Potency.** When you cast this power using a force slot of 2nd level or higher, the thrown property's range increases by 30/90 feet for each slot level above 1st.
+
 ### Sustained Lightning (rework)	
 *1st-level dark power*
 <br>*Prerequiste:* Shock
