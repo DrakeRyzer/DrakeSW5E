@@ -1,7 +1,7 @@
 ---
-title: Engineer
+title: Operative
 parent: Classes
 has_children: true
 ---
 
-# Engineer
+# Operative
