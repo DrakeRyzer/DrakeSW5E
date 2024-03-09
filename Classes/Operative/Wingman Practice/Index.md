@@ -9,7 +9,7 @@ has_children: true
 
 # Wingman Practice
 
-Those operatives who choose the Wingman Practice only feel truly alive in the cockpit of a starfighter or speeder, where they can pit themselves against their peers in a life-and-death contest to see who is the better pilot. For some Wingmen, the contest is enough, and they don't care whether they win or simply get away with their lives. For others, the important thing is the kill. The adrenaline surge they feel when finishing off an enemy brings them back again and again. The best Wingmen learn to stop enemies without destroying them, but those Wingmen are rare, and their exploits are legendary.
+Those operatives who choose the Wingman Practice only feel truly alive in the cockpit of a starfighter or speeder, where they can pit themselves against their peers in a life-and-death contest to see who is the better pilot. For some Wingmen, being adept at flying in tight formations with your allies, working together with them to achieve your goals and using your vehicle to shield others from harm is enough. The best Wingmen learn to stop enemies without destroying them, but those Wingmen are rare, and their exploits are legendary.
 
 ## Expert Pilot
 ***Wingman Practice:** 3rd, 5th, 9th, 13th, and 17th level* <br>
