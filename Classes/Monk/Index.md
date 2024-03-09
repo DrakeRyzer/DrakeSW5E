@@ -1,7 +1,7 @@
 ---
-title: Engineer
+title: Monk
 parent: Classes
 has_children: true
 ---
 
-# Engineer
+# Monk
