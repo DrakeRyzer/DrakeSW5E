@@ -1,6 +1,6 @@
 ---
 title: Mandalorian Faction Rules
-parent: Mandalorian Codex
+parent: EC Mandalorian Codex
 ---
 
 <img src='https://officialpsds.com/imageview/7l/zy/7lzykz_large.png?1521316491' style='float:right;  width:200px;'>

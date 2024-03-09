@@ -1,5 +1,5 @@
 ---
 title: aaaMandalorian Crusaders
 parent: aaaMandalorian Statblocks
-grand_parent: aaaaMandalorian Codex
+grand_parent: aaaaEC Mandalorian Codex
 ---

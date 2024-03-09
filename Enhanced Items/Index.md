@@ -5,7 +5,7 @@ has_children: true
 
 # Enhanced Items
 
-If you're searching for Mandalorian themed items, check the [Mandalorian Codex](<../Mandalorian Codex>) under [Mandalorian Armory](<../Mandalorian Codex/Mandalorian Armory>)
+If you're searching for Mandalorian themed items, check the [EC Mandalorian Codex](<../EC Mandalorian Codex>) under [Mandalorian Armory](<../EC Mandalorian Codex/Mandalorian Armory>)
 
 # Enhanced Item Formatting Guide
 
@@ -61,7 +61,7 @@ Droid customization substypes include the following:
 - *(protocol)* if not it is not adding or replacing any part.
 
 ### Equipment (going to break this down more)
-Equipment covers any Enhanced items that don't fall into other categories, such as (boots), (gloves), or a reusable trinket. If the item is worn, the subtype should be the appropriate place it is worn. Otherwise, leave it blank for now.
+Equipment covers any Enhanced Items that don't fall into other categories, such as (boots), (gloves), or a reusable trinket. If the item is worn, the subtype should be the appropriate place it is worn. Otherwise, leave it blank for now.
 
 ### Focuses
 Focus subtypes include the following.

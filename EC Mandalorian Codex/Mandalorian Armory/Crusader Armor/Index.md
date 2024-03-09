@@ -1,7 +1,7 @@
 ---
 title: Crusader Armor
 parent: Mandalorian Armory
-grand_parent: Mandalorian Codex
+grand_parent: EC Mandalorian Codex
 ---
 
 # Crusader Armor
@@ -12,11 +12,11 @@ grand_parent: Mandalorian Codex
 ## Helmets
 ---
 ### Crusader Helmet
-*Adventuring gear (head), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:lime">premium</font> <br> Requires Attunement*
+***Adventuring gear** (head), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:lime">premium</font> <br> Requires Attunement*
 
 *The iconic T-shaped visor helmet of the Mandalorians*
 
-This helmet comes equipped with a headcomm and holorecorder. Additionally, while wearing this helmet, you have darkvision out to 60 feet.
+This helmet comes equipped with a commlink, hands-free and holorecorder. Additionally, while wearing this helmet, you have darkvision out to 60 feet.
 
 ## Mandalorian Beskar'gam
 ---

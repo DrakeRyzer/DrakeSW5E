@@ -1,19 +1,26 @@
 ---
 title: Mandalorian Armor
 parent: Mandalorian Armory
-grand_parent: Mandalorian Codex
+grand_parent: EC Mandalorian Codex
 ---
 
 # Mandalorian Armor
 ---
 ## Helmets
 ---
+### Mandalorian Commando Helmet
+***Adventuring gear** (head)* - 500 credits
+
+*The iconic T-shaped visor helmet of the Mandalorians. This is a basic helmet given to new Mandalorian recruits.*
+
+This helmet comes equipped with a commlink, hands-free; holorecorder and macrobinoculars.
+
 ### Mandalorian Supercommando Helmet
-*Adventuring gear (head), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:lime">premium</font> <br> Requires Attunement*
+***Adventuring gear** (head), [Mandalorian Vestments](https://drakeryzer.github.io/DrakeSW5E/Mandalorian%20Codex/Mandalorian%20Equipment/Index.html#mandalorian-vestments), <font style="color:lime">premium</font> <br> Requires Attunement*
 
-*The iconic T-shaped visor helmet of the Mandalorians*
+*The iconic T-shaped visor helmet of the Mandalorians. Given to Mandalorians that have proved themselves.*
 
-This helmet comes equipped with a headcomm and holorecorder. Additionally, while wearing this helmet, you have darkvision out to 60 feet.
+This helmet comes equipped with a commlink, hands-free; holorecorder and macrobinoculars. Additionally, while wearing this helmet, you have darkvision out to 60 feet.
 
 ## Mandalorian Beskar'gam
 ---

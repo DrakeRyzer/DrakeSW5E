@@ -1,6 +1,6 @@
 ---
 title: Mandalorian Armory
-parent: Mandalorian Codex
+parent: EC Mandalorian Codex
 has_children: true
 ---
 
@@ -9,7 +9,7 @@ has_children: true
 Many pieces of Mandalorian equipment come with the "Mandalorian Vestments" property which gives the wearer the following bonuses, dependent on the amount of items they are attuned with.
 
 ### Mandalorian Vestments
-While you are attuned to and in contact with multiple Enhanced items with this named property, you gain the following additional benefits:
+While you are attuned to and in contact with multiple Enhanced Items with this named property, you gain the following additional benefits:
 
 - **2 Piece: At least one item of <font style="color:lime">premium</font> rarity or rarer:** 
   - You gain advantage on Wisdom (Perception) checks that rely on sight within 60 feet. If you would already have this effect, increase the range to 120 feet. 

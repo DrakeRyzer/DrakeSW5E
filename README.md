@@ -20,9 +20,9 @@ Home of future updates and personal projects for the Star Wars 5th Edition syste
 - Random Character Generator - WIP
 - Clone trooper loadouts - WIP
 - Drake's Home Rules D&D5e + SC5e - WIP
-- The SW5E Mandalorian Codex - WIP
+- The SW5E EC Mandalorian Codex - WIP
 - The Clone Army manual - WIP
-- Drake's new and revised equipment and enhanced items - WIP
+- Drake's new and revised equipment and Enhanced Items - WIP
 - Drake's misc statblocks - WIP
 - SW5E Cybertech Rework 2.2 - **DONE**
 - SotG 2.0 Ship statblocks / templates - WIP

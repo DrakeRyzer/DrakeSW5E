@@ -5,7 +5,7 @@ has_children: true
 ---
 
 # Modifiable Items
-While many enhanced items come with fixed effects. Other enhanced items, called Modifiable Items, are more customizable. 
+While many Enhanced Items come with fixed effects. Other Enhanced Items, called Modifiable Items, are more customizable. 
 
 ## Modifiable Equipment
 Installing modifications into a Modifiable Item requires two key components: a modification to install and the appropriate tools. An item can only be modified by someone proficient with appropriate tools, as shown in the Item Specific Tools table.
@@ -87,7 +87,7 @@ On a success, the *Modifiable item* is upgraded to the new rarity. On a failure,
 ### Variant: Common Modifications
 Modifying equipment is a common expectation of adventurers foraying through the worlds of *Star Wars*. 
 
-This rule treats all unenhanced items that can potentially be Modifiable Items, the eight categories listed earlier in this chapter, as unmodified standard rarity *Modifiable Items*. 
+This rule treats all unEnhanced Items that can potentially be Modifiable Items, the eight categories listed earlier in this chapter, as unmodified standard rarity *Modifiable Items*. 
 
 For example, every unenhanced blaster rifle you find while adventuring, or for sale in a market, comes with four vacant modification slots for standard rarity blaster modifications.
 
@@ -95,7 +95,7 @@ Additionally, all modifications of standard rarity should be available for purch
 
 > Note that all *Modifiable Items* of standard rarity should be considered unenhanced for the purposes of overcoming resistance as well as distribution.
 > 
-> Premium or higher rarity should still be treated as enhanced items for the purposes of overcoming resistance as well as distribution.
+> Premium or higher rarity should still be treated as Enhanced Items for the purposes of overcoming resistance as well as distribution.
 
 ## Engineers
 Many Engineer archetypes are built around modifying a specific item, such as an Armstech or Armormech Engineer. If you have any of these engineers at the table, while using this book, you'll want to include the following rules:

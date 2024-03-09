@@ -1,7 +1,7 @@
 ---
 title: The Darksaber
 parent: Mandalorian Armory
-grand_parent: Mandalorian Codex
+grand_parent: EC Mandalorian Codex
 ---
 
 # The Darksaber

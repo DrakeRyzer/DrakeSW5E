@@ -1,7 +1,7 @@
 ---
 title: Mandalorian Weapons
 parent: Mandalorian Armory
-grand_parent: Mandalorian Codex
+grand_parent: EC Mandalorian Codex
 ---
 
 # Mandalorian Weapons

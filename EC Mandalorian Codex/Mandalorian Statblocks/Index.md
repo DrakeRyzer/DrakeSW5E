@@ -1,5 +1,5 @@
 ---
 title: Mandalorian Statblocks
-parent: aaa Mandalorian Codex
+parent: aaa EC Mandalorian Codex
 has_children: true
 ---
