@@ -1,7 +1,7 @@
 ---
-title: Classes
+title: Equipment
 parent: Player's Handbook
 has_children: true
 ---
 
-# Classes
+# Equipment

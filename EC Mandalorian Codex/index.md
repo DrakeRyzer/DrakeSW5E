@@ -1,5 +1,5 @@
 ---
-title: EC EC Mandalorian Codex
+title: EC Mandalorian Codex
 has_children: true
 ---
 
