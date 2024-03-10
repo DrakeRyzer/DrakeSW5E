@@ -1,5 +1,6 @@
 ---
 title: EC Mandalorian Codex
+nav_order: 6
 has_children: true
 ---
 

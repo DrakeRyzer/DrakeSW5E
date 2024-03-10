@@ -1,7 +1,7 @@
 ---
 title: The Galactic Empire
 parent: The Imperial Era
-grand_parent: Starships Yard
+grand_parent: Starships Shipyard
 has_children: true
 ---
 
@@ -19,8 +19,8 @@ CURRENTLY ONLY USING RULES FROM SW5E.COM
 #### TIE Series
 - Tier 2 - TIE Advanced x1
 - Tier 4 - TIE/D Defender
-- Tier 1 - [TIE/IN Interceptor](https://drakeryzer.github.io/DrakeSW5E/Starships/Starships Yard/Imperial%20Era/The%20Galactic%20Empire/Small/Index.html#tiein-interceptor)
-- Tier 0 - [TIE/LN Starfighter](https://drakeryzer.github.io/DrakeSW5E/Starships/Starships Yard/Imperial%20Era/The%20Galactic%20Empire/Small/Index.html#tieln-starfighter)
+- Tier 1 - [TIE/IN Interceptor](https://drakeryzer.github.io/DrakeSW5E/Starships/Starships Shipyard/Imperial%20Era/The%20Galactic%20Empire/Small/Index.html#tiein-interceptor)
+- Tier 0 - [TIE/LN Starfighter](https://drakeryzer.github.io/DrakeSW5E/Starships/Starships Shipyard/Imperial%20Era/The%20Galactic%20Empire/Small/Index.html#tieln-starfighter)
 - Tier 0 - TIE/SA Bomber
 
 ### Medium

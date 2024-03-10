@@ -1,6 +1,7 @@
 ---
-title: Starships Yard
+title: Starships Shipyard
 has_children: true
+nav_order: 4
 ---
 
 # Shipyards of the Galaxy 
