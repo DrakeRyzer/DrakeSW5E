@@ -41,7 +41,7 @@ As a bonus action, you can leap up to 15 feet to an unoccupied space you can see
 ### Bakuuni Hand Form
 As a bonus action, until the start of your next turn, when a creature enters your reach or moves while within your reach, you can use your reaction to attempt to shove the creature. On a success, you can choose shove the target an additional 5 feet.
 
-Additionally, if you take or have taken the Attack action this turn, you can make an unarmed strike as a part of this bonus action.
+Additionally, if you take or have taken the Attack action this turn, you can make an unarmed strike.
 
 ### Djem So Form
 As a bonus action, you can add half your Wisdom or Charisma modifier (your choice, minimum of +1) to one ability check or attack roll you make using Strength before the end of your next turn. 
@@ -55,7 +55,7 @@ As a bonus action, if there is a friendly creature within 15 feet of you, you ca
 ### Jar'Kai Form
 As a bonus action, each time you hit with an attack on this turn, you can move up to 5 feet without provoking opportunity attacks from the creature you hit. 
 
-Additionally, if you take or have taken the Attack action this turn, you can engage in Double- or Two-Weapon Fighting once as a part of this bonus action.
+Additionally, if you take or have taken the Attack action this turn, you can engage in Double- or Two-Weapon Fighting once.
 
 ### Juyo Form
 "As a bonus action, you can increase your critical hit range with weapons by 1 until the start of your next turn.
@@ -66,7 +66,7 @@ As a bonus action, you gain a special reaction until the start of your next turn
 ### Niman Form
 As a bonus action, you can use Wisdom or Charisma instead of Strength or Dexterity for the attack and damage rolls of your melee weapon attacks until the end of your next turn. You must use the same modifier for both rolls.
 
-Additionally, if you take or have taken the Attack action this turn, you can engage in Double- or Two-Weapon Fighting once as a part of this bonus action.
+Additionally, if you take or have taken the Attack action this turn, you can engage in Double- or Two-Weapon Fighting once.
 
 ### Soresu Form
 As a bonus action, the first time you take kinetic, energy, or ion damage from a weapon before the end of your next turn, that damage is reduced by half.
@@ -77,7 +77,7 @@ As a bonus action, before the end of your next turn, you can add half your Wisdo
 ### Shii-Cho Form
 As a bonus action, the first time you hit a Large or smaller creature within 5 feet of you with a weapon attack before the end of your next turn, you can force the target to make a Strength saving throw (DC = 8 + your bonus to attacks with the weapon). On a failed save, it is pushed back 5 feet, and you can immediately move into the space it just vacated without provoking opportunity attacks.
 
-Additionally, if you take or have taken the Attack action this turn, you can engage in Double- or Two-Weapon Fighting once as a part of this bonus action.
+Additionally, if you take or have taken the Attack action this turn, you can engage in Double- or Two-Weapon Fighting once.
 
 ### Sokan Form
 As a bonus action, you ignore difficult terrain until the start of your next turn,. Additionally, when a hostile creature makes a melee weapon attack against you, you can use your reaction to move to another space within 5 feet of that creature without provoking opportunity attacks, imposing disadvantage on the triggering roll.
@@ -100,4 +100,4 @@ If you took the Attack action this turn, as a bonus action, you can direct one o
 ### Ysannanite Form
 As a bonus action, until the end of your next turn, when making a ranged weapon attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. 
 
-Additionally, if you take or have taken the Attack action this turn, you can engage in Double- or Two-Weapon Fighting once as a part of this bonus action.
+Additionally, if you take or have taken the Attack action this turn, you can engage in Double- or Two-Weapon Fighting once.
