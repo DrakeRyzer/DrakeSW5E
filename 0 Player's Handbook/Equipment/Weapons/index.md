@@ -39,33 +39,15 @@ Below are all Weapon Groups by Category and Subcategories:
   - ***-Weapon Groups-***
   - **Simple Lightweapons** - Basic Lightweapons that are simple or primitive in nature and use.
   - **Martial Lightweapons** - More advanced Lightweapons that require extensive training to wield effectively.
-    - ***-Sub-Groups-***
-    - **Bladed** - Your standard lightweapons such as lightsabers and crossguard sabers.
-    - **Crushing** - More forceful or weighted lightweapons such as lightaxes and great-sabers.
-    - **Polearms** - Lightweapons with long handles or reach such as lightglaives and saberspears.
-    - **Disruptive (tripping)** - Lightweapons specialized in disrupting combat such as guard shotos and saberwhip.
 - **Vibroweapons** - Technologically enhanced melee weapons, primarily using vibration technology. They come in both Simple and Martial variations.
   - **Simple Vibroweapons** - Basic Vibroweapons that are simple or primitive in nature and use.
-  - **Martial Lightweapons** - More advanced Lightweapons that require extensive training to wield effectively.
-    - ***-Sub-Groups-***
-    - **Bladed** - Your standard vibroweapons such as vibroswords and vibroknifes.
-    - **Crushing** - More forceful or weighted vibroweapons such as electrohammers and vibromaces.
-    - **Polearms** - Vibroweapons with long handles or reach such as electrostaffs and vibrospears.
-    - **Disruptive (tripping)** - Vibroweapons specialized in disrupting combat such as chakrams and electrobatons.
-
+  - **Martial Lightweapons** - More advanced Vibroweapons that require extensive training to wield effectively.
 
 ### Ranged Weapons
 - **Ranged Weapons** - These weapons run the gamut from small, concealable handheld blasters to Tripod-mounted assault cannons. They come in both Simple and Martial variations.
   - ***-Weapon Groups-***
   - **Simple Ranged Weapons** - Basic ranged weapons that are simple or primitive in nature and use. 
   - **Martial Ranged Weapons** - More advanced Lightweapons that require extensive training to wield effectively.
-    - ***-Sub-Groups-***
-    - **Carbines** - Lightweight, short-barreled weapons, made to be more portable and easier to carry than standard rifles.
-    - **Explosives** - Highly volatile explosives, generally used against heavily armored, or immobile targets.
-    - **Heavy Weapons** - Large ranged weapons that require both hands, and in some cases a Tripod, to accurately use.
-    - **Rifles** - Standard military weapons, used with both hands for precise and accurate shooting.
-    - **Sidearms** - Handheld ranged weapons, favored for self-defense, and are easily concealed.
-
 
 ### Exotic Weapons
 
@@ -73,6 +55,21 @@ Below are all Weapon Groups by Category and Subcategories:
   - ***-Weapon Groups-***
   - **Modal Exotic Weapons** - Modal Exotic Weapons have the capacity to switch between two or more weapons at will; such as a vibrostaff that can switch to a blaster rifle or a blaster rifle with a built in grenade launcher or sniper rifle.
   - **Specialized Exotic Weapons** - Specialized Exotic Weapons bypass the base properties and limits of normal weapons.
+
+Additionally, some features such as Weapon Focus and Weapon Supremacy call for a specific sub-group of weapons. Each weapon has at least one sub-group, although some weapons can fall under more than one. If a weapon falls under more than one sub-group, you can only benefit from features from one sub-group at a time.
+- ***-Melee Sub-Groups-***
+  - **Bladed** - Your standard lightweapons such as lightsabers and crossguard sabers.
+  - **Crushing** - More forceful or weighted lightweapons such as lightaxes and great-sabers.
+  - **Polearms** - Lightweapons with long handles or reach such as lightglaives and saberspears.
+  - **Disruptive (tripping)** - Lightweapons specialized in disrupting combat such as guard shotos and saberwhip.
+
+- ***-Ranged Sub-Groups-***
+  - **Carbines** - Lightweight, short-barreled weapons, made to be more portable and easier to carry than standard rifles.
+  - **Heavy Weapons** - Large ranged weapons that require both hands, and in some cases a Tripod, to accurately use.
+  - **Rifles** - Standard military weapons, used with both hands for precise and accurate shooting.
+  - **Sidearms** - Handheld ranged weapons, favored for self-defense, and are easily concealed.
+
+
 
 
 ### Carbines
